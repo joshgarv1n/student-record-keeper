@@ -7,8 +7,11 @@
 
 #include "student.h"
 #include <iostream>
+#include <string>
 using namespace std;
 
-void sayHello();
+void defaultWelcome();
+void userWelcome(int, char**);
+bool isYesNo(string, char&);
 
 #endif // STUDENTS_FUNCTIONS_H
