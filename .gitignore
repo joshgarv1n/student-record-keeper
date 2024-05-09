@@ -5,4 +5,8 @@
 #unignore what we want to track
 !*.cpp
 !*.h
+!*.md
+!src/
+!include/
+!docs/
 !.gitignore
