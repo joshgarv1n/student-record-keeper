@@ -6,7 +6,11 @@
 
 int main(int argc, char** argv) {
     
-    sayHello();
+    if (argc < 2) {
+        defaultWelcome();
+    } else {
+        userWelcome(argc, argv);
+    }
 
     return 0;
 }
