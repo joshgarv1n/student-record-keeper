@@ -18,9 +18,13 @@ void userWelcome(int num, char** name) {
     bool goodResponse;
     string response;
     char r;
+    string fName;
+    string lName;
 
     cout << "Hello " << name[1] << "!\n";
+    sleep(1);
     cout << "Welcome to Student Record Keeper v0.1\n";
+    sleep(1);
     
     while (!goodName) {
         cout << "\nPlease verify your first and last name\n";

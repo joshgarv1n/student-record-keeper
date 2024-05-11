@@ -8,6 +8,7 @@
 #include "student.h"
 #include <iostream>
 #include <string>
+#include <unistd.h>         // for sleep()
 using namespace std;
 
 void defaultWelcome();
