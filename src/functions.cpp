@@ -51,7 +51,7 @@ void userWelcome(int num, char** name) {
                     goodName = true;
                     goodResponse = true;
                 } else {
-                    cout << "Ok, we'll fix that.\n";
+                    setUserName(fName, lName);
                     goodResponse = true;
                 }//end of if
             } else {
@@ -77,3 +77,13 @@ bool isYesNo(string s, char& c) {
     return false;
 
 } // end of isYesNo()
+
+//
+void setUserName(string& f, string& l) {
+
+    cout << "Enter your first name: " << endl;
+    cin >> f;
+    cout << "Enter your last name: " << endl;
+    cin >> l;
+
+} // end of setUserName()
