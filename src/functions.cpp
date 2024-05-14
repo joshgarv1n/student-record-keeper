@@ -16,6 +16,7 @@ void userWelcome(int num, char** name) {
 
     bool goodName = false;
     bool goodResponse;
+    bool userDefined = false;       // true if fName, lName assigned with setUserName()
     string response;
     char r;
     string fName = name[1];
@@ -30,16 +31,19 @@ void userWelcome(int num, char** name) {
         cout << "\nPlease verify your first and last name\n";
         cout << "First Name: " << fName << "\n";
         
-        if (num == 3) {
-            lName = name[2];
-            cout << "Last Name: " << lName << "\n";
+        if (!userDefined) {
+            if (num == 3) {
+                lName = name[2];        // Assumes name[2] is last name
+            } else if (num > 3) {
+                lName = name[3];        // Assumes name[2] is middle name
+            }
         }
-        else if(num > 3) {
-            lName = name[3];
-            cout << "Last Name: " << lName << "\n";
-        } else {
-            cout << "Last Name:\n";
+
+        cout << "Last Name: ";
+        if (userDefined || num == 3 || num > 3) {
+            cout << lName;
         }
+        cout << "\n";
 
         goodResponse = false;
         while (!goodResponse) {
@@ -52,6 +56,7 @@ void userWelcome(int num, char** name) {
                     goodResponse = true;
                 } else {
                     setUserName(fName, lName);
+                    userDefined = true;
                     goodResponse = true;
                 }//end of if
             } else {
@@ -81,9 +86,9 @@ bool isYesNo(string s, char& c) {
 //
 void setUserName(string& f, string& l) {
 
-    cout << "Enter your first name: " << endl;
+    cout << "Enter your first name: ";
     cin >> f;
-    cout << "Enter your last name: " << endl;
+    cout << "Enter your last name: ";
     cin >> l;
 
 } // end of setUserName()
