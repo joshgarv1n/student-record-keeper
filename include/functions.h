@@ -11,8 +11,8 @@
 #include <unistd.h>         // for sleep()
 using namespace std;
 
-void defaultWelcome();
-void userWelcome(int, char**);
+void defaultWelcome(string);
+void userWelcome(int, char**, string);
 bool isYesNo(string, char&);
 void setUserName(string&, string&);
 

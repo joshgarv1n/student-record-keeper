@@ -5,14 +5,14 @@
 #include "../include/functions.h"
 
 // Beginning prompts when no arguments passed at execution
-void defaultWelcome() {
+void defaultWelcome(string welcome) {
 
-    cout << "Welcome to Student Record Keeper v0.1\n";
+    cout << welcome;
 
 } //end of defaultWelcome()
 
 // Beginning prompts when arguments are passed at execution (user's name)
-void userWelcome(int num, char** name) {
+void userWelcome(int num, char** name, string welcome) {
 
     bool goodName = false;
     bool goodResponse;
@@ -24,7 +24,7 @@ void userWelcome(int num, char** name) {
 
     cout << "Hello " << fName << "!\n";
     sleep(1);
-    cout << "Welcome to Student Record Keeper v0.1\n";
+    cout << welcome;
     sleep(1);
     
     while (!goodName) {

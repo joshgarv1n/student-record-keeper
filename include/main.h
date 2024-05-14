@@ -7,6 +7,7 @@
 
 #include "functions.h"
 #include <iostream>
+#include <string>
 using namespace std;
 
 #endif // STUDENTS_MAIN_H
