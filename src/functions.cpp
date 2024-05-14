@@ -18,23 +18,25 @@ void userWelcome(int num, char** name) {
     bool goodResponse;
     string response;
     char r;
-    string fName;
+    string fName = name[1];
     string lName;
 
-    cout << "Hello " << name[1] << "!\n";
+    cout << "Hello " << fName << "!\n";
     sleep(1);
     cout << "Welcome to Student Record Keeper v0.1\n";
     sleep(1);
     
     while (!goodName) {
         cout << "\nPlease verify your first and last name\n";
-        cout << "First Name: " << name[1] << "\n";
+        cout << "First Name: " << fName << "\n";
         
         if (num == 3) {
-            cout << "Last Name: " << name[2] << "\n";
+            lName = name[2];
+            cout << "Last Name: " << lName << "\n";
         }
         else if(num > 3) {
-            cout << "Last Name: " << name[3] << "\n";
+            lName = name[3];
+            cout << "Last Name: " << lName << "\n";
         } else {
             cout << "Last Name:\n";
         }
