@@ -15,5 +15,6 @@ void userWelcome(int, char**, string);
 bool isYesNo(string, char&);
 void setUserName(string&, string&);
 void validateUserName(int, char**, string&, string&, bool&);
+void displayMainMenu();
 
 #endif // STUDENTS_FUNCTIONS_H

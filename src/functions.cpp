@@ -21,8 +21,6 @@ void userWelcome(int num, char** name, string welcome) {
 
     validateUserName(num, name, fName, lName, userDefined);
 
-    cout << "Moving on.\n";
-
 } //end of userWelcome()
 
 // Verify user input is valid char
@@ -77,7 +75,7 @@ void validateUserName(int num, char** name, string& fName, string& lName, bool& 
             cin >> response;
             if (isYesNo(response, r)) {
                 if (r == 'Y') {
-                    cout << "Great!\n";
+                    cout << "Name saved.\n";
                     goodName = true;
                     goodResponse = true;
                 } else {
@@ -92,3 +90,13 @@ void validateUserName(int num, char** name, string& fName, string& lName, bool& 
     } //end of while
 
 } // end of validateUserName()
+
+// Display main menu options
+void displayMainMenu() {
+
+    cout << "\nMAIN MENU:\n";
+    cout << "1. Add new course\t\t 4. Calculate my GPA\n";
+    cout << "2. Remove a course\t\t 5. Export records to CSV\n";
+    cout << "3. View course(s)\t\t 6. Exit program\n";
+
+} // end of displayMainMenu()
