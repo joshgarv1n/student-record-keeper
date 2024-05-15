@@ -4,42 +4,22 @@
 
 #include "../include/functions.h"
 
-// Beginning prompts when no arguments passed at execution
-void defaultWelcome(string welcome) {
-
-    cout << welcome;
-
-} //end of defaultWelcome()
-
 // Beginning prompts when arguments are passed at execution (user's name)
 void userWelcome(int num, char** name, string welcome) {
 
-    bool goodName = false;
-    bool userDefined = false;       // true if fName, lName assigned with setUserName()
-    string fName = name[1];
+    string fName = "";
     string lName = "";
+    bool userDefined = false;       // true if fName, lName assigned with setUserName()
 
-    cout << "Hello " << fName << "!\n";
-    sleep(1);
     cout << welcome;
     sleep(1);
     
-    while (!goodName) {
-        cout << "\nPlease verify your first and last name\n";
-        cout << "First Name: " << fName << "\n";
-        
-        if (!userDefined) {
-            if (num == 3) {
-                lName = name[2];        // Assumes name[2] is last name
-            } else if (num > 3) {
-                lName = name[3];        // Assumes name[2] is middle name
-            }
-        }
+    if (num < 2) {
+        setUserName(fName, lName);
+        userDefined = true;
+    }
 
-        cout << "Last Name: " << lName << "\n";
-
-        validateUserName(fName, lName, userDefined, goodName);
-    } //end of while
+    validateUserName(num, name, fName, lName, userDefined);
 
     cout << "Moving on.\n";
 
@@ -59,7 +39,7 @@ bool isYesNo(string s, char& c) {
 
 } // end of isYesNo()
 
-//
+// Change first/last name of user
 void setUserName(string& f, string& l) {
 
     cout << "Enter your first name: ";
@@ -69,28 +49,46 @@ void setUserName(string& f, string& l) {
 
 } // end of setUserName()
 
-//
-void validateUserName(string& fName, string& lName, bool& userDefined, bool& goodName) {
+// Validate first/last name of user
+void validateUserName(int num, char** name, string& fName, string& lName, bool& userDefined) {
+    bool goodName = false;
     char r;
     string response;
-    bool goodResponse = false;
+    bool goodResponse;
 
-    while (!goodResponse) {
-        cout << "\nIs this correct? (Y/N): ";
-        cin >> response;
-        if (isYesNo(response, r)) {
-            if (r == 'Y') {
-                cout << "Great!\n";
-                goodName = true;
-                goodResponse = true;
+    while (!goodName) {
+        cout << "\nPlease verify your first and last name\n";
+        cout << "First Name: " << fName << "\n";
+        
+        if (!userDefined) {
+            fName = name[1];
+            if (num == 3) {
+                lName = name[2];        // Assumes name[2] is last name
+            } else if (num > 3) {
+                lName = name[3];        // Assumes name[2] is middle name
+            }
+        }
+
+        cout << "Last Name: " << lName << "\n";
+
+        goodResponse = false;
+        while (!goodResponse) {
+            cout << "\nIs this correct? (Y/N): ";
+            cin >> response;
+            if (isYesNo(response, r)) {
+                if (r == 'Y') {
+                    cout << "Great!\n";
+                    goodName = true;
+                    goodResponse = true;
+                } else {
+                    setUserName(fName, lName);
+                    userDefined = true;
+                    goodResponse = true;
+                }//end of if
             } else {
-                setUserName(fName, lName);
-                userDefined = true;
-                goodResponse = true;
+                cout << "You've entered an invalid response.\n";
             }//end of if
-        } else {
-            cout << "You've entered an invalid response.\n";
-        }//end of if
-    }//end of while
+        }//end of while        
+    } //end of while
 
 } // end of validateUserName()
