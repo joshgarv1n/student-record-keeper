@@ -6,6 +6,7 @@
 #define STUDENTS_FUNCTIONS_H
 
 #include "student.h"
+#include "course.h"
 #include <iostream>
 #include <string>
 #include <unistd.h>         // for sleep()
