@@ -20,7 +20,7 @@ void userWelcome(int num, char** name, string welcome) {
     string response;
     char r;
     string fName = name[1];
-    string lName;
+    string lName = "";
 
     cout << "Hello " << fName << "!\n";
     sleep(1);
@@ -39,11 +39,7 @@ void userWelcome(int num, char** name, string welcome) {
             }
         }
 
-        cout << "Last Name: ";
-        if (userDefined || num == 3 || num > 3) {
-            cout << lName;
-        }
-        cout << "\n";
+        cout << "Last Name: " << lName << "\n";
 
         goodResponse = false;
         while (!goodResponse) {
