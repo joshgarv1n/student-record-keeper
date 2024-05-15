@@ -15,10 +15,7 @@ void defaultWelcome(string welcome) {
 void userWelcome(int num, char** name, string welcome) {
 
     bool goodName = false;
-    bool goodResponse;
     bool userDefined = false;       // true if fName, lName assigned with setUserName()
-    string response;
-    char r;
     string fName = name[1];
     string lName = "";
 
@@ -41,24 +38,7 @@ void userWelcome(int num, char** name, string welcome) {
 
         cout << "Last Name: " << lName << "\n";
 
-        goodResponse = false;
-        while (!goodResponse) {
-            cout << "\nIs this correct? (Y/N): ";
-            cin >> response;
-            if (isYesNo(response, r)) {
-                if (r == 'Y') {
-                    cout << "Great!\n";
-                    goodName = true;
-                    goodResponse = true;
-                } else {
-                    setUserName(fName, lName);
-                    userDefined = true;
-                    goodResponse = true;
-                }//end of if
-            } else {
-                cout << "You've entered an invalid response.\n";
-            }//end of if
-        }
+        validateUserName(fName, lName, userDefined, goodName);
     } //end of while
 
     cout << "Moving on.\n";
@@ -88,3 +68,29 @@ void setUserName(string& f, string& l) {
     cin >> l;
 
 } // end of setUserName()
+
+//
+void validateUserName(string& fName, string& lName, bool& userDefined, bool& goodName) {
+    char r;
+    string response;
+    bool goodResponse = false;
+
+    while (!goodResponse) {
+        cout << "\nIs this correct? (Y/N): ";
+        cin >> response;
+        if (isYesNo(response, r)) {
+            if (r == 'Y') {
+                cout << "Great!\n";
+                goodName = true;
+                goodResponse = true;
+            } else {
+                setUserName(fName, lName);
+                userDefined = true;
+                goodResponse = true;
+            }//end of if
+        } else {
+            cout << "You've entered an invalid response.\n";
+        }//end of if
+    }//end of while
+
+} // end of validateUserName()
