@@ -11,33 +11,33 @@ using std::string;
 
 class Course {
 
-    protected:
-    string courseID;
-    string courseName;
-    string semester;
-    string grade;
-    int hours;
+    private:
+        string courseID;
+        string courseName;
+        string semester;
+        string grade;
+        int hours;
 
     public:
-    // Constructor
-    Course();
+        // Constructor
+        Course();
 
-    // Destructor
-    ~Course();
+        // Destructor
+        ~Course();
 
-    // Getters
-    string getCourseID();
-    string getCourseName();
-    string getSemester();
-    string getGrade();
-    int getHours();
+        // Getters
+        string getCourseID();
+        string getCourseName();
+        string getSemester();
+        string getGrade();
+        int getHours();
 
-    // Setters
-    void setCourseID();
-    void setCourseName();
-    void setSemester();
-    void setGrade();
-    void setHours();
+        // Setters
+        void setCourseID();
+        void setCourseName();
+        void setSemester();
+        void setGrade();
+        void setHours();
     
 }; // end of class Course
 
