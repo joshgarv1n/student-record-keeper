@@ -2,7 +2,7 @@
     COURSE DATA
 */
 
-#include "course.h"
+#include "../include/course.h"
 
 Course::Course() {
 
