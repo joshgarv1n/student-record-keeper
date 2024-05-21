@@ -9,8 +9,10 @@ const string WELCOME = "\nWelcome to Student Record Keeper v0.1\n\n";
 int main(int argc, char** argv) {
     
     bool terminate = false;
+
+    Student thisStudent;
     
-    userWelcome(argc, argv, WELCOME);
+    userWelcome(WELCOME, thisStudent);
 
     while (!terminate) {
         displayMainMenu();
