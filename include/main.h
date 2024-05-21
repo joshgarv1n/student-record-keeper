@@ -6,6 +6,7 @@
 #define STUDENTS_MAIN_H
 
 #include "functions.h"
+#include "student.h"
 #include <iostream>
 #include <string>
 using namespace std;
