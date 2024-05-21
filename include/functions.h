@@ -12,10 +12,10 @@
 #include <unistd.h>         // for sleep()
 using namespace std;
 
-void userWelcome(int, char**, string);
+void userWelcome(string, Student&);
 bool isYesNo(string, char&);
 void setUserName(string&, string&);
-void validateUserName(int, char**, string&, string&, bool&);
+void validateUserName(string&, string&, Student&);
 void displayMainMenu();
 
 #endif // STUDENTS_FUNCTIONS_H

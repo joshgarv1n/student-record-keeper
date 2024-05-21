@@ -5,21 +5,15 @@
 #include "../include/functions.h"
 
 // Beginning prompts when arguments are passed at execution (user's name)
-void userWelcome(int num, char** name, string welcome) {
-
-    string fName = "";
-    string lName = "";
-    bool userDefined = false;       // true if fName, lName assigned with setUserName()
+void userWelcome(string welcome, Student& student) {
+    string fName;
+    string lName;
 
     cout << welcome;
     sleep(1);
-    
-    if (num < 2) {
-        setUserName(fName, lName);
-        userDefined = true;
-    }
 
-    validateUserName(num, name, fName, lName, userDefined);
+    setUserName(fName, lName);
+    validateUserName(fName, lName, student);
 
 } //end of userWelcome()
 
@@ -48,7 +42,7 @@ void setUserName(string& f, string& l) {
 } // end of setUserName()
 
 // Validate first/last name of user
-void validateUserName(int num, char** name, string& fName, string& lName, bool& userDefined) {
+void validateUserName(string& fName, string& lName, Student& student) {
     bool goodName = false;
     char r;
     string response;
@@ -57,16 +51,6 @@ void validateUserName(int num, char** name, string& fName, string& lName, bool& 
     while (!goodName) {
         cout << "\nPlease verify your first and last name\n";
         cout << "First Name: " << fName << "\n";
-        
-        if (!userDefined) {
-            fName = name[1];
-            if (num == 3) {
-                lName = name[2];        // Assumes name[2] is last name
-            } else if (num > 3) {
-                lName = name[3];        // Assumes name[2] is middle name
-            }
-        }
-
         cout << "Last Name: " << lName << "\n";
 
         goodResponse = false;
@@ -75,12 +59,13 @@ void validateUserName(int num, char** name, string& fName, string& lName, bool& 
             cin >> response;
             if (isYesNo(response, r)) {
                 if (r == 'Y') {
+                    student.setFirstName(fName);
+                    student.setLastName(lName);
                     cout << "Name saved.\n";
                     goodName = true;
                     goodResponse = true;
                 } else {
                     setUserName(fName, lName);
-                    userDefined = true;
                     goodResponse = true;
                 }//end of if
             } else {
