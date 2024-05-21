@@ -4,9 +4,7 @@
 
 #include "../include/student.h"
 
-Student::Student(string firstName, string lastName) {
-    setFirstName(firstName);
-    setLastName(lastName);
+Student::Student() {
 } // end of Student()
 
 Student::~Student() {

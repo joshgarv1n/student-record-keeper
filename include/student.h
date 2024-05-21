@@ -20,7 +20,7 @@ class Student {
 
     public:
         // Constructor
-        Student(string, string);
+        Student();
 
         // Destructor
         ~Student();
