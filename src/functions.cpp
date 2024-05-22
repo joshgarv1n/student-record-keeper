@@ -4,7 +4,7 @@
 
 #include "../include/functions.h"
 
-// Beginning prompts when arguments are passed at execution (user's name)
+// Display welcome message, set and validate user name
 void userWelcome(string welcome, Student& student) {
     string fName;
     string lName;
