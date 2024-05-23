@@ -33,6 +33,9 @@ class Student {
         void setFirstName(string);
         void setLastName(string);
 
+        // Course modifications
+        void addCourse(Course&);
+
 };
 
 #endif // STUDENTS_DATA_H

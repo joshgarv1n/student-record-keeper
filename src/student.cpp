@@ -25,3 +25,7 @@ string Student::getFirstName() {
 string Student::getLastName() {
     return lName;
 } // end of getLastName()
+
+void Student::addCourse(Course& course) {
+    courses.push_back(course);
+} // end of addCourse()
