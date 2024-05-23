@@ -13,8 +13,8 @@ const vector<string> allowedSemesters = {
     "Summer 2024",
     "Fall 2024"
 };
-const array<string, 12> allowedGrades = {"A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F"};
-const array<int, 4> allowedHours = {1, 2, 3, 4};
+const vector<string> allowedGrades = {"A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F"};
+const vector<int> allowedHours = {1, 2, 3, 4};
 
 int main(int argc, char** argv) {
     

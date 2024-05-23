@@ -10,7 +10,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <array>
 using namespace std;
 
 #endif // STUDENTS_MAIN_H
