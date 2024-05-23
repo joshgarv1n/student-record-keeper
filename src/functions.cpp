@@ -80,8 +80,9 @@ void validateUserName(string& fName, string& lName, Student& student) {
 void displayMainMenu() {
 
     cout << "\nMAIN MENU:\n";
-    cout << "1. Add new course\t\t 4. Calculate my GPA\n";
-    cout << "2. Remove a course\t\t 5. Export records to CSV\n";
-    cout << "3. View course(s)\t\t 6. Exit program\n";
+    cout << "1. Add new course\t\t 5. Calculate my GPA\n";
+    cout << "2. Edit a course\t\t 6. Export records to CSV\n";
+    cout << "3. Remove a course\t\t 7. Exit program\n";
+    cout << "4. View course(s)\n";
 
 } // end of displayMainMenu()
