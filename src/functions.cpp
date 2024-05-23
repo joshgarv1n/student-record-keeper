@@ -14,12 +14,10 @@ void userWelcome(string welcome, Student& student) {
 
     setUserName(fName, lName);
     validateUserName(fName, lName, student);
-
 } //end of userWelcome()
 
 // Verify user input is valid char
 bool isYesNo(string s, char& c) {
-
     if (s.length() == 1) {
         c = s[0];
         c = toupper(c);
@@ -28,17 +26,14 @@ bool isYesNo(string s, char& c) {
         }
     }
     return false;
-
 } // end of isYesNo()
 
 // Change first/last name of user
 void setUserName(string& f, string& l) {
-
     cout << "Enter your first name: ";
     cin >> f;
     cout << "Enter your last name: ";
     cin >> l;
-
 } // end of setUserName()
 
 // Validate first/last name of user
@@ -73,16 +68,13 @@ void validateUserName(string& fName, string& lName, Student& student) {
             }//end of if
         }//end of while        
     } //end of while
-
 } // end of validateUserName()
 
 // Display main menu options
 void displayMainMenu() {
-
     cout << "\nMAIN MENU:\n";
     cout << "1. Add new course\t\t 5. Calculate my GPA\n";
     cout << "2. Edit a course\t\t 6. Export records to CSV\n";
     cout << "3. Remove a course\t\t 7. Exit program\n";
     cout << "4. View course(s)\n";
-
 } // end of displayMainMenu()
