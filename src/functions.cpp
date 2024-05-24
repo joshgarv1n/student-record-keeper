@@ -43,10 +43,10 @@ void addNewCourse(Student& student, const vector<string>& allowedSemesters, cons
     chooseSemester(semester, allowedSemesters);
     newCourse.setSemester(semester);
 
-    getStringInput("Enter Course ID: ", id);
+    getStringInput("Enter Course ID (e.g. 'MATH 2414'): ", id);
     newCourse.setCourseID(id);
     
-    getStringInput("Enter Course Name: ", name);
+    getStringInput("Enter Course Name (e.g. 'Calculus II'): ", name);
     newCourse.setCourseName(name);
     
     chooseGrade(grade, allowedGrades);
