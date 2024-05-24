@@ -35,7 +35,7 @@ class Student {
 
         // Course modifications
         void addCourse(Course&);
-
+        void displayCourseList();
 };
 
 #endif // STUDENTS_DATA_H

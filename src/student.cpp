@@ -29,3 +29,10 @@ string Student::getLastName() {
 void Student::addCourse(Course& course) {
     courses.push_back(course);
 } // end of addCourse()
+
+void Student::displayCourseList() {
+    cout << "\n" << fName << " " << lName << "'s Courses:" << endl;
+    for (size_t i = 0; i < courses.size(); ++i) {
+        cout << i+1 << ". " << courses[i].getCourseID() << "\t" << courses[i].getCourseName() << "\t" << courses[i].getGrade() << "\t" << courses[i].getSemester() << endl;
+    }
+}
