@@ -4,8 +4,10 @@
 
 #include "../include/functions.h"
 
-// Display welcome message, set and validate user name
+
+// CORE FUNCTIONS //
 void userWelcome(string welcome, Student& student) {
+    // Display welcome message, set and validate user name
     string fName;
     string lName;
 
@@ -16,62 +18,8 @@ void userWelcome(string welcome, Student& student) {
     validateUserName(fName, lName, student);
 } //end of userWelcome()
 
-// Verify user input is valid char
-bool isYesNo(string s, char& c) {
-    if (s.length() == 1) {
-        c = s[0];
-        c = toupper(c);
-        if (c == 'Y' || c == 'N') {
-            return true;
-        }
-    }
-    return false;
-} // end of isYesNo()
-
-// Change first/last name of user
-void setUserName(string& f, string& l) {
-    cout << "Enter your first name: ";
-    cin >> f;
-    cout << "Enter your last name: ";
-    cin >> l;
-} // end of setUserName()
-
-// Validate first/last name of user
-void validateUserName(string& fName, string& lName, Student& student) {
-    bool goodName = false;
-    char r;
-    string response;
-    bool goodResponse;
-
-    while (!goodName) {
-        cout << "\nPlease verify your first and last name\n";
-        cout << "First Name: " << fName << "\n";
-        cout << "Last Name: " << lName << "\n";
-
-        goodResponse = false;
-        while (!goodResponse) {
-            cout << "\nIs this correct? (Y/N): ";
-            cin >> response;
-            if (isYesNo(response, r)) {
-                if (r == 'Y') {
-                    student.setFirstName(fName);
-                    student.setLastName(lName);
-                    cout << "Name saved.\n";
-                    goodName = true;
-                    goodResponse = true;
-                } else {
-                    setUserName(fName, lName);
-                    goodResponse = true;
-                }//end of if
-            } else {
-                cout << "You've entered an invalid response.\n";
-            }//end of if
-        }//end of while        
-    } //end of while
-} // end of validateUserName()
-
-// Display main menu options
 void displayMainMenu() {
+    // Display main menu options
     cout << "\nMAIN MENU:\n";
     cout << "1. Add new course\t\t 5. Calculate my GPA\n";
     cout << "2. Edit a course\t\t 6. Export records to CSV\n";
@@ -79,18 +27,10 @@ void displayMainMenu() {
     cout << "4. View course(s)\n";
 } // end of displayMainMenu()
 
-// Check if user input is included in valid input vector
-bool isValidInput(const vector<string>& validInputs, const string& userInput) {
-    for (const string& str : validInputs) {
-        if (str == userInput) {
-            return true;
-        }
-    }
-    return false;
-} // end of isValidInput(
 
-// Creates a new course and pushes to Student courses vector
+// MENU FUNCTIONS //
 void addNewCourse(Student& student, const vector<string>& allowedSemesters, const vector<string>& allowedGrades, const vector<int>& allowedHours) {
+    // Creates a new course and pushes to Student courses vector
     Course newCourse;
     string id;
     string name;
@@ -121,55 +61,18 @@ void addNewCourse(Student& student, const vector<string>& allowedSemesters, cons
     student.addCourse(newCourse);
 } // end of addNewCourse()
 
-// Receives user string input and confirms with user
-void getStringInput(string prompt, string& str) {
-    while (true) {
-        cout << "\n" << prompt;
-        getline(cin, str);
-        
-        while (true) {
-            cout << "You entered: " << str << endl;
-            cout << "Is this correct? (Y/N): ";
 
-            char confirm;
-            cin >> confirm;
-            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+// USER FUNCTIONS //
+void setUserName(string& f, string& l) {
+    // Change first/last name of user
+    cout << "Enter your first name: ";
+    cin >> f;
+    cout << "Enter your last name: ";
+    cin >> l;
+} // end of setUserName()
 
-            if (confirm == 'N' || confirm == 'n') {
-                break;
-            } else if (confirm == 'Y' || confirm == 'y') {
-                return;
-            } else {
-                cout << "\nInvalid input. Please enter 'Y' or 'N'." << endl;
-            }
-        }
-    }
-} // end of getStringInput()
-
-// Receives user integer input and confirms with user
-void getIntegerInput(int& num) {
-    while (true) {
-        cin >> num;
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        cout << "You entered: " << num << endl;
-        cout << "Is this correct? (Y/N): ";
-
-        char confirm;
-        cin >> confirm;
-        cin.ignore();
-
-        if (confirm == 'N' || confirm == 'n') {
-            continue;
-        } else if (confirm == 'Y' || confirm == 'y') {
-            return;
-        } else {
-            cout << "Invalid input. Please enter 'Y' or 'N'." << endl;
-        }
-    }
-} // end of getIntegerInput()
-
-// Displays list of valid semesters, user selects one and confirms
 void chooseSemester(string& sem, const vector<string>& allowedSemesters) {
+    // Displays list of valid semesters, user selects one and confirms
     int choice;
     string selectedSemester;
     while (true) {
@@ -213,8 +116,8 @@ void chooseSemester(string& sem, const vector<string>& allowedSemesters) {
     }
 } // end of chooseSemester()
 
-// User inputs letter grade which is validated and confirmed
 void chooseGrade(string& grade, const vector<string>& allowedGrades) {
+    // User inputs letter grade which is validated and confirmed
     string userGrade;
     while (true) {
         cout << "\nEnter Letter Grade Received (e.g. 'A', 'B+', 'C-'): ";
@@ -246,8 +149,8 @@ void chooseGrade(string& grade, const vector<string>& allowedGrades) {
     }
 } // end of chooseGrade()
 
-// User inputs course hours which is validated and confirmed
 void chooseHours(int& hours, const vector<int>& allowedHours) {
+    // User inputs course hours which is validated and confirmed
     int userHours;
     while (true) {
         cout << "\nEnter credit hours (must be 1-4): ";
@@ -286,3 +189,108 @@ void chooseHours(int& hours, const vector<int>& allowedHours) {
         }
     }
 } // end of chooseHours()
+
+
+// UTILITY FUNCTIONS //
+bool isYesNo(string s, char& c) {
+    // Verify user input is valid char
+    if (s.length() == 1) {
+        c = s[0];
+        c = toupper(c);
+        if (c == 'Y' || c == 'N') {
+            return true;
+        }
+    }
+    return false;
+} // end of isYesNo()
+
+void validateUserName(string& fName, string& lName, Student& student) {
+    // Validate first/last name of user
+    bool goodName = false;
+    char r;
+    string response;
+    bool goodResponse;
+
+    while (!goodName) {
+        cout << "\nPlease verify your first and last name\n";
+        cout << "First Name: " << fName << "\n";
+        cout << "Last Name: " << lName << "\n";
+
+        goodResponse = false;
+        while (!goodResponse) {
+            cout << "\nIs this correct? (Y/N): ";
+            cin >> response;
+            if (isYesNo(response, r)) {
+                if (r == 'Y') {
+                    student.setFirstName(fName);
+                    student.setLastName(lName);
+                    cout << "Name saved.\n";
+                    goodName = true;
+                    goodResponse = true;
+                } else {
+                    setUserName(fName, lName);
+                    goodResponse = true;
+                }//end of if
+            } else {
+                cout << "You've entered an invalid response.\n";
+            }//end of if
+        }//end of while        
+    } //end of while
+} // end of validateUserName()
+
+bool isValidInput(const vector<string>& validInputs, const string& userInput) {
+    // Check if user input is included in valid input vector
+    for (const string& str : validInputs) {
+        if (str == userInput) {
+            return true;
+        }
+    }
+    return false;
+} // end of isValidInput(
+
+void getStringInput(string prompt, string& str) {
+    // Receives user string input and confirms with user
+    while (true) {
+        cout << "\n" << prompt;
+        getline(cin, str);
+        
+        while (true) {
+            cout << "You entered: " << str << endl;
+            cout << "Is this correct? (Y/N): ";
+
+            char confirm;
+            cin >> confirm;
+            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+            if (confirm == 'N' || confirm == 'n') {
+                break;
+            } else if (confirm == 'Y' || confirm == 'y') {
+                return;
+            } else {
+                cout << "\nInvalid input. Please enter 'Y' or 'N'." << endl;
+            }
+        }
+    }
+} // end of getStringInput()
+
+void getIntegerInput(int& num) {
+    // Receives user integer input and confirms with user
+    while (true) {
+        cin >> num;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        cout << "You entered: " << num << endl;
+        cout << "Is this correct? (Y/N): ";
+
+        char confirm;
+        cin >> confirm;
+        cin.ignore();
+
+        if (confirm == 'N' || confirm == 'n') {
+            continue;
+        } else if (confirm == 'Y' || confirm == 'y') {
+            return;
+        } else {
+            cout << "Invalid input. Please enter 'Y' or 'N'." << endl;
+        }
+    }
+} // end of getIntegerInput()

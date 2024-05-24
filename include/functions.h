@@ -30,8 +30,8 @@ void chooseHours(int&, const vector<int>&);
 
 // Utility functions
 bool isYesNo(string, char&);
-bool isValidInput(const vector<string>&, const string&);
 void validateUserName(string&, string&, Student&);
+bool isValidInput(const vector<string>&, const string&);
 void getStringInput(string, string&);
 void getIntegerInput(int&);         // ***unused***
 
