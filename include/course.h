@@ -9,8 +9,6 @@
 #include <string>
 #include <sstream>                  // used for std::istringstream
 #include <map>                      // used for determineGradeValue()
-#include <vector>                   // used for comparator
-#include <algorithm>                // used for comparator
 using std::string;
 using std::map;
 using std::istringstream;
