@@ -18,6 +18,8 @@ class Student {
         string lName;
         vector<Course> courses;
 
+        void sortCourses();
+
     public:
         // Constructor
         Student();
@@ -36,6 +38,9 @@ class Student {
         // Course modifications
         void addCourse(Course&);
         void displayCourseList();
+
+        // Comparator
+        static bool compareCourses(const Course&, const Course&);
 };
 
 #endif // STUDENTS_DATA_H
