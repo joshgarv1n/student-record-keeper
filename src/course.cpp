@@ -101,3 +101,15 @@ int Course::getHours() {
 float Course::getGradePoints() {
     return gradePoints;
 }
+
+bool Course::compareCourses(const Course& c1, const Course& c2) {
+    if (c1.year != c2.year) {
+        return c1.year < c2.year;
+    }
+
+    const std::vector<string> termOrder = {"Spring", "Summer", "Fall"};
+    auto it1 = std::find(termOrder.begin(), termOrder.end(), c1.term);
+    auto it2 = std::find(termOrder.begin(), termOrder.end(), c2.term);
+
+    return it1 < it2;
+}

@@ -9,6 +9,8 @@
 #include <string>
 #include <sstream>                  // used for std::istringstream
 #include <map>                      // used for determineGradeValue()
+#include <vector>                   // used for comparator
+#include <algorithm>                // used for comparator
 using std::string;
 using std::map;
 using std::istringstream;
@@ -55,6 +57,9 @@ class Course {
         void setHours(int);
         void setGradeValue();
         void setGradePoints();
+
+        // Comparator
+        bool compareCourses(const Course&, const Course&);
     
 }; // end of class Course
 
