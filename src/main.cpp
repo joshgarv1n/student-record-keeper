@@ -5,6 +5,15 @@
 #include "../include/main.h"
 
 const string WELCOME = "\nWelcome to Student Record Keeper v0.1\n\n";
+const vector<string> mainMenuOptions = {
+    "Add new course",
+    "Edit a course",
+    "Remove a course",
+    "View course(s)",
+    "Calculate my GPA",
+    "Export records to CSV",
+    "Exit program"
+};
 const vector<string> allowedSemesters = {
     "Spring 2023", 
     "Summer 2023", 
@@ -25,7 +34,7 @@ int main(int argc, char** argv) {
     userWelcome(WELCOME, thisStudent);
 
     while (!terminate) {
-        displayMainMenu();
+        displayMainMenu(mainMenuOptions);
         cout << "Choose an option: ";
         cin >> choice;
 
@@ -47,7 +56,7 @@ int main(int argc, char** argv) {
                 cout << "Remove a course... under construction..." << endl;
                 break;
             case 4:
-                cout << "View course(s)... under construction..." << endl;
+                thisStudent.displayCourseList();
                 break;
             case 5:
                 cout << "Calculate my GPA... under construction..." << endl;

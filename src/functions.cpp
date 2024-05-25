@@ -18,14 +18,19 @@ void userWelcome(string welcome, Student& student) {
     validateUserName(fName, lName, student);
 } //end of userWelcome()
 
-void displayMainMenu() {
-    // Display main menu options
-    cout << "\nMAIN MENU:\n";
-    cout << "1. Add new course\t\t 5. Calculate my GPA\n";
-    cout << "2. Edit a course\t\t 6. Export records to CSV\n";
-    cout << "3. Remove a course\t\t 7. Exit program\n";
-    cout << "4. View course(s)\n";
-} // end of displayMainMenu()
+void displayMainMenu(const vector<string>& options) {
+    // Prints menu options from string vector in two columns
+    // Prints left column option and checks for corresponding right column option 
+    size_t mid = (options.size() + 1) / 2;
+
+    for (size_t i = 0; i < mid; ++i) {
+        cout << i + 1 << ". " << std::left << std::setw(25) << options[i];
+        if (i + mid < options.size()) {
+            cout << i + mid + 1 << ". " << options[i + mid];
+        }
+        cout << endl;
+    }  
+}
 
 
 // MENU FUNCTIONS //

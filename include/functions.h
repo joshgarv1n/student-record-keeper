@@ -8,6 +8,7 @@
 #include "student.h"
 #include "course.h"
 #include <iostream>
+#include <iomanip>          // for std::setw
 #include <string>
 #include <vector>
 #include <unistd.h>         // for sleep()
@@ -17,7 +18,7 @@ using namespace std;
 
 // Core functions
 void userWelcome(string, Student&);
-void displayMainMenu();
+void displayMainMenu(const vector<string>&);
 
 // Menu functions
 void addNewCourse(Student&, const vector<string>&, const vector<string>&, const vector<int>&);
