@@ -103,6 +103,7 @@ float Course::getGradePoints() {
 }
 
 bool Course::compareCourses(const Course& c1, const Course& c2) {
+    // Sort by year and term (e.g. Fall 2023, Spring 2024, Summer 2024)
     if (c1.year != c2.year) {
         return c1.year < c2.year;
     }
