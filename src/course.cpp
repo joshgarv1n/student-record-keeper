@@ -70,47 +70,34 @@ void Course::setGradePoints() {
     gradePoints = calculateGradePoints();
 }
 
-string Course::getCourseID() {
+string Course::getCourseID() const {
     return courseID;
 }
 
-string Course::getCourseName() {
+string Course::getCourseName() const {
     return courseName;
 }
 
-string Course::getSemester() {
+string Course::getSemester() const {
     return semester;
 }
 
-string Course::getTerm() {
+string Course::getTerm() const {
     return term;
 }
 
-int Course::getYear() {
+int Course::getYear() const {
     return year;
 }
 
-string Course::getGrade() {
+string Course::getGrade() const {
     return grade;
 }
 
-int Course::getHours() {
+int Course::getHours() const {
     return hours;
 }
 
-float Course::getGradePoints() {
+float Course::getGradePoints() const {
     return gradePoints;
-}
-
-bool Course::compareCourses(const Course& c1, const Course& c2) {
-    // Sort by year and term (e.g. Fall 2023, Spring 2024, Summer 2024)
-    if (c1.year != c2.year) {
-        return c1.year < c2.year;
-    }
-
-    const std::vector<string> termOrder = {"Spring", "Summer", "Fall"};
-    auto it1 = std::find(termOrder.begin(), termOrder.end(), c1.term);
-    auto it2 = std::find(termOrder.begin(), termOrder.end(), c2.term);
-
-    return it1 < it2;
 }

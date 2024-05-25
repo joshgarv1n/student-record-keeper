@@ -40,14 +40,14 @@ class Course {
         ~Course();
 
         // Getters
-        string getCourseID();
-        string getCourseName();
-        string getSemester();
-        string getTerm();
-        int getYear();
-        string getGrade();
-        int getHours();
-        float getGradePoints();
+        string getCourseID() const;
+        string getCourseName() const;
+        string getSemester() const;
+        string getTerm() const;
+        int getYear() const;
+        string getGrade() const;
+        int getHours() const;
+        float getGradePoints() const;
 
         // Setters
         void setCourseID(string);
@@ -56,11 +56,7 @@ class Course {
         void setGrade(string);
         void setHours(int);
         void setGradeValue();
-        void setGradePoints();
-
-        // Comparator
-        bool compareCourses(const Course&, const Course&);
-    
+        void setGradePoints();    
 }; // end of class Course
 
 #endif // COURSE_DATA_H
