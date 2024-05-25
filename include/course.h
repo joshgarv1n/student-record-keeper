@@ -7,16 +7,20 @@
 
 #include <iostream>
 #include <string>
+#include <sstream>                  // used for std::istringstream
 #include <map>                      // used for determineGradeValue()
 using std::string;
 using std::map;
+using std::istringstream;
 
 class Course {
 
     private:
-        string courseID;            // e.g., COSC3360
-        string courseName;          // e.g., Intro To Operating Systems
-        string semester;            // e.g., Sp24, Su24, Fa24
+        string courseID;            // e.g., "COSC 3360"
+        string courseName;          // e.g., "Intro To Operating Systems"
+        string semester;            // e.g., "Spring 2024"
+        string term;                // e.g. "Spring"
+        int year;                   // e.g. 2024
         string grade;               // A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F
         int hours;
         float gradeValue;           // A = 4.00, A- = 3.67, etc.
@@ -24,6 +28,7 @@ class Course {
 
         float calculateGradePoints();
         float determineGradeValue();
+        void splitTermYear(const string&);
 
     public:
         // Constructor
@@ -36,6 +41,8 @@ class Course {
         string getCourseID();
         string getCourseName();
         string getSemester();
+        string getTerm();
+        int getYear();
         string getGrade();
         int getHours();
         float getGradePoints();

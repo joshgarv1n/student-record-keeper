@@ -33,6 +33,14 @@ float Course::determineGradeValue() {
     return it->second;                  // return the grade value
 }
 
+void Course::splitTermYear(const string& semester) {
+    // Parse semester and store term as string and year as int
+    string yearStr;
+    istringstream iss(semester);
+    iss >> term >> yearStr;
+    year = std::stoi(yearStr);
+}
+
 void Course::setCourseID(string set_id) {
     courseID = set_id;
 }
@@ -43,6 +51,7 @@ void Course::setCourseName(string set_name) {
 
 void Course::setSemester(string set_semester) {
     semester = set_semester;
+    splitTermYear(semester);
 }
 
 void Course::setGrade(string set_grade) {
@@ -71,6 +80,14 @@ string Course::getCourseName() {
 
 string Course::getSemester() {
     return semester;
+}
+
+string Course::getTerm() {
+    return term;
+}
+
+int Course::getYear() {
+    return year;
 }
 
 string Course::getGrade() {
