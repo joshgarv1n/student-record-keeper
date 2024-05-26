@@ -23,6 +23,7 @@ void displayMainMenu(const vector<string>& options) {
     // Prints left column option and checks for corresponding right column option 
     size_t mid = (options.size() + 1) / 2;
 
+    cout << "\n";
     for (size_t i = 0; i < mid; ++i) {
         cout << i + 1 << ". " << std::left << std::setw(25) << options[i];
         if (i + mid < options.size()) {
@@ -184,7 +185,7 @@ void chooseHours(int& hours, const vector<int>& allowedHours) {
         cin >> confirm;
 
         if (confirm == 'Y' || confirm == 'y') {
-            cout << "\nHours confirmed." << endl;
+            cout << "Hours confirmed." << endl;
             hours = userHours;
             return;
         } else if (confirm == 'N' || confirm == 'n') {
