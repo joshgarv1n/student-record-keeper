@@ -32,9 +32,13 @@ void Student::addCourse(Course& course) {
 
 void Student::displayCourseList() {
     sortCourses();
+    const int idWidth = 11;
+    const int nameWidth = 28;
+    const int gradeWidth = 4;
+    const int semWidth = 11;
     cout << "\n" << fName << " " << lName << "'s Courses:" << endl;
     for (size_t i = 0; i < courses.size(); ++i) {
-        cout << i+1 << ". " << courses[i].getCourseID() << "\t" << courses[i].getCourseName() << "\t" << courses[i].getGrade() << "\t" << courses[i].getSemester() << endl;
+        cout << i+1 << ". " << setw(idWidth) << courses[i].getCourseID() << setw(nameWidth) << courses[i].getCourseName() << setw(gradeWidth) << courses[i].getGrade() << setw(semWidth) << courses[i].getSemester() << endl;
     }
 } // end of displayCourseList()
 

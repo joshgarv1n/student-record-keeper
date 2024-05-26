@@ -7,6 +7,7 @@
 
 #include "course.h"
 #include <iostream>
+#include <iomanip>              // for std::setw
 #include <string>
 #include <vector>
 using namespace std;
