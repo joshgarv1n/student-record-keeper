@@ -28,10 +28,13 @@ string Student::getLastName() {
 
 void Student::addCourse(Course& course) {
     courses.push_back(course);
+    sorted = false;
 } // end of addCourse()
 
 void Student::displayCourseList() {
-    sortCourses();
+    if (!sorted) {
+        sortCourses();
+    } 
     const int idWidth = 11;
     const int nameWidth = 28;
     const int gradeWidth = 4;
@@ -45,6 +48,7 @@ void Student::displayCourseList() {
 void Student::sortCourses() {
     // Sort courses vector using custom comparator
     std::sort(courses.begin(), courses.end(), compareCourses);
+    sorted = true;
 } // end of sortCourses()
 
 bool Student::compareCourses(const Course& c1, const Course& c2) {

@@ -18,6 +18,7 @@ class Student {
         string fName;
         string lName;
         vector<Course> courses;
+        bool sorted = false;
 
         void sortCourses();
 
