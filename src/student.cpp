@@ -43,6 +43,7 @@ void Student::displayCourseList() {
     for (size_t i = 0; i < courses.size(); ++i) {
         cout << i+1 << ". " << setw(idWidth) << courses[i].getCourseID() << setw(nameWidth) << courses[i].getCourseName() << setw(gradeWidth) << courses[i].getGrade() << setw(semWidth) << courses[i].getSemester() << endl;
     }
+    pressEnterToContinue();
 } // end of displayCourseList()
 
 void Student::sortCourses() {
@@ -62,4 +63,10 @@ bool Student::compareCourses(const Course& c1, const Course& c2) {
     auto it2 = std::find(termOrder.begin(), termOrder.end(), c2.getTerm());
 
     return it1 < it2;
+}
+
+void Student::pressEnterToContinue() {
+    cout << "Press Enter to continue...";
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    cin.get();
 }

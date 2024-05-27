@@ -43,6 +43,9 @@ class Student {
 
         // Comparator
         static bool compareCourses(const Course&, const Course&);
+
+        // Utility
+        void pressEnterToContinue();
 };
 
 #endif // STUDENTS_DATA_H
