@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
                 cout << "Edit a course... under construction..." << endl;
                 break;
             case 3:
-                cout << "Remove a course... under construction..." << endl;
+                removeCourse(thisStudent);
                 break;
             case 4:
                 thisStudent.displayCourseList();
