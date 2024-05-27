@@ -22,8 +22,8 @@ void displayMainMenu(const vector<string>&);
 
 // Menu functions
 void addNewCourse(Student&, const vector<string>&, const vector<string>&, const vector<int>&);
-
-// User functions
+void removeCourse(Student&);
+void removeCourseMenuSelection(const string&, const vector<string>&, int&);
 void setUserName(string&, string&);
 void chooseSemester(string&, const vector<string>&);
 void chooseGrade(string&, const vector<string>&);
@@ -35,5 +35,7 @@ void validateUserName(string&, string&, Student&);
 bool isValidInput(const vector<string>&, const string&);
 void getStringInput(string, string&);
 void getIntegerInput(int&);         // ***unused***
+bool confirmIntSelection(const int&);
+void printVectorMenu(const vector<string>&);
 
 #endif // STUDENTS_FUNCTIONS_H

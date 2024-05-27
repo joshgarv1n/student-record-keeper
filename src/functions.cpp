@@ -67,8 +67,48 @@ void addNewCourse(Student& student, const vector<string>& allowedSemesters, cons
     student.addCourse(newCourse);
 } // end of addNewCourse()
 
+void removeCourse(Student& student) {
+    //
+    int option;
+    const vector<string> menu = {
+        "Search by Course ID",
+        "View All Courses",
+        "Exit"
+    };
+    cout << "\nRemove a Course" << endl;
+    while (true) {
+        removeCourseMenuSelection("Select an option: ", menu, option);
+        break;
+    } // end of while (true)
+} // end of removeCourse()
 
-// USER FUNCTIONS //
+void removeCourseMenuSelection(const string& prompt, const vector<string>& menu, int& option) {
+    //
+    int userChoice;
+    while (true) {
+        printVectorMenu(menu);
+        cout << prompt;
+        cin >> userChoice;
+
+        if (cin.fail()) {
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+            cout << "\nInvalid input. Please enter a number from the list." << endl;
+            continue;
+        }
+
+        if (userChoice < 1 || userChoice > 3) {
+            cout << "\nInvalid selection. Please try again." << endl;
+            continue;
+        }
+
+        if (confirmIntSelection(userChoice)) {
+            option = userChoice;
+            break;
+        }
+    }
+}
+
 void setUserName(string& f, string& l) {
     // Change first/last name of user
     cout << "Enter your first name: ";
@@ -83,9 +123,7 @@ void chooseSemester(string& sem, const vector<string>& allowedSemesters) {
     string selectedSemester;
     while (true) {
         cout << "\nSelect a semester:" << endl;
-        for (size_t i = 0; i < allowedSemesters.size(); ++i) {
-            cout << i + 1 << ". " << allowedSemesters[i] << endl;
-        }
+        printVectorMenu(allowedSemesters);
 
         int choice = 0;
         cout << "Enter the number corresponding to your desired semester: ";
@@ -94,7 +132,7 @@ void chooseSemester(string& sem, const vector<string>& allowedSemesters) {
         if (cin.fail()) {
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
-            cout << "\nInvalid input. Please enter an integer." << endl;
+            cout << "\nInvalid input. Please enter a number from the list." << endl;
             continue;
         }
 
@@ -256,6 +294,7 @@ bool isValidInput(const vector<string>& validInputs, const string& userInput) {
 
 void getStringInput(string prompt, string& str) {
     // Receives user string input and confirms with user
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
     while (true) {
         cout << "\n" << prompt;
         getline(cin, str);
@@ -266,7 +305,7 @@ void getStringInput(string prompt, string& str) {
 
             char confirm;
             cin >> confirm;
-            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
             if (confirm == 'N' || confirm == 'n') {
                 break;
@@ -300,3 +339,31 @@ void getIntegerInput(int& num) {
         }
     }
 } // end of getIntegerInput()
+
+bool confirmIntSelection(const int& selection) {
+    // Requests user to confirm integer selection
+    char confirm;
+    while (true) {
+        cout << "\nYou selected: " << selection << endl;
+        cout << "Confirm selection (Y/N): ";
+        cin >> confirm;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+        if (confirm == 'Y' || confirm == 'y') {
+            cout << "Confirmed.\n" << endl;
+            return true;
+        } else if (confirm == 'N' || confirm == 'n') {
+            cout << "Not confirmed.\n" << endl;
+            return false;
+        } else {
+            cout << "Invalid confirmation response." << endl;
+        }     
+    }
+} // end of confirmIntSelection()
+
+void printVectorMenu(const vector<string>& options) {
+    // Print numbered menu list using elements of options vector
+    for (size_t i = 0; i < options.size(); ++i) {
+        cout << i + 1 << ". " << options[i] << endl;
+    }
+} // end of printVectorMenu()
