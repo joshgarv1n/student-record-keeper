@@ -1,0 +1,23 @@
+HDCS 1300,Human Ecosystems & Tech Change
+HDCS 2301,Consumer Science
+HDCS 3300,Organizational Decisions in Technology
+HDCS 3302,Consumer Textiles
+HDCS 3303,Retailing and Consumer Science
+HDCS 3304,Visual Merchandising
+HDCS 3376,Resources in Technology Entrepreneurship
+HDCS 3384,Consumer Sales
+HDCS 4300,Research Concepts in HDCS
+HDCS 4302,Apparel Analysis
+HDCS 4303,Merchandising Systems
+HDCS 4304,Fashion Brand Direction
+HDCS 4369,Entrepreneurship
+HDCS 4370,Technology Entrepreneurship
+HDCS 4372,Forecasting for Technology Entrepreneurship
+HDCS 4374,Entrepreneurial E,Tailing
+HDCS 4375,Strategies in Digital Retail
+HDCS 4380,Merchandising
+HDCS 4386,Communication Strategies for Retailing and Supply Chain
+HDCS 4393,Internship in Retail and Consumer Sciences
+HDCS 4394,Internship in Retailing and Consumer Sciences
+HDCS 4396,Selected Topics in Human Development and Consumer Sciences
+HDCS 4398,Independent Study

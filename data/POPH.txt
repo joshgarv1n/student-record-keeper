@@ -1,0 +1,3 @@
+POPH 2300,Introduction to Population Health
+POPH 3330,Introduction to Population Health Informatics
+POPH 3331,Consumer Informatics and Digital Health

@@ -1,0 +1,24 @@
+COMD 1333,Introduction to Communication Sciences and Disorders
+COMD 2338,Phonetics
+COMD 2339,Language Development
+COMD 2376,Anatomy for Communication
+COMD 3301,History and Culture of American Deaf Community
+COMD 3321,Multicultural Considerations in Communication Disorders
+COMD 3322,Code,Switching and Linguistic Justice
+COMD 3371,Speech Development and Disorders in Children
+COMD 3381,Audiology
+COMD 3383,Language Disorders in Children
+COMD 3385,Speech Science
+COMD 3396,Selected Topics in Communication Sciences and Disorders
+COMD 3399,Senior Honors Thesis in Communication Disorders
+COMD 4198,Independent Study in Communication Sciences and Disorders
+COMD 4333,Neuroscience for Communication Disorders
+COMD 4382,Aural Rehabilitation
+COMD 4398,Independent Study
+COMD 4399,Senior Honors Thesis in Communication Disorders
+COMD 4489,Clinical Procedures
+COMD 5341,Competencies and Strategies for the SLPA I
+COMD 5342,Competencies and Strategies for the SLPA II
+COMD 5345,Speech and Language Disorders in Children for the SLPA
+COMD 5346,Speech and Language Disorders in Adults for the SLPA
+COMD 5441,SLPA Externship I

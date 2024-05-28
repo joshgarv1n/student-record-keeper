@@ -1,0 +1,8 @@
+ILAS 2198,Independent Study
+ILAS 2350,Knowledge and Methods
+ILAS 2360,Cosmic Narratives
+ILAS 3150,Liberal Studies Internship Practicum
+ILAS 3350,Ethics and Cultures
+ILAS 3396,Selected Topics in Interdisciplinary Studies
+ILAS 3398,Independent Study
+ILAS 4350,Interdisciplinary Problem Solving

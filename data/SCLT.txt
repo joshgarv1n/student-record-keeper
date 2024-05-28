@@ -1,0 +1,20 @@
+SCLT 2362,Intro To Logistics Technology
+SCLT 2380,Distribution Channels
+SCLT 3340,Geography for Global Supply Chain
+SCLT 3375,Maritime Operations
+SCLT 3376,Global Trade Intermediaries
+SCLT 3381,Industrial and Consumer Sales
+SCLT 3384,Logistics Tech and Processes
+SCLT 3385,Transport Economics and Policy
+SCLT 3387,Procurement
+SCLT 3389,Transportation Law
+SCLT 4312,Inventory & Materials Handling
+SCLT 4375,Global Supply Chain
+SCLT 4380,Quality Systems
+SCLT 4384,Maritime Shipping
+SCLT 4385,Sustainable Supply Chain and Logistics
+SCLT 4386,Project Logistics
+SCLT 4387,Financial Evaluation For Supply Chain Management
+SCLT 4389,Practicum in Supply Chain and Logistics Technology
+SCLT 4396,Internship in Supply Chain and Logistics Technology
+SCLT 4397,Selected Topics in Supply Chain and Logistics Technology

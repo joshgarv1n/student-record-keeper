@@ -1,0 +1,46 @@
+DANC 1103,Freshman Seminar in Somatics
+DANC 1107,Beginning Hip Hop Dance
+DANC 1112,Introduction to Pilates Mat
+DANC 1202,Ballet I Part II
+DANC 1241,Beginning Ballet
+DANC 1245,Modern Dance I Part I
+DANC 1246,Modern Dance I Part II
+DANC 1247,Jazz I
+DANC 1300,Dance as a Fine Art
+DANC 1301,Dance Improvisation
+DANC 1309,Dance Production
+DANC 2121,Traditional West African Dance
+DANC 2202,Sophomore Dance Technique
+DANC 2203,Ballet II Part I
+DANC 2204,Ballet II Part II
+DANC 2213,Modern II Part I
+DANC 2214,Modern II Part II
+DANC 2303,Introduction to Dance
+DANC 2304,Dance Kinesiology
+DANC 2305,Dance Composition I
+DANC 2306,Dance Composition II
+DANC 2308,Design Elements for Dance
+DANC 2309,Dance Production II
+DANC 2323,Dance in Film and Cinematic Media
+DANC 3103,Junior Seminar in Somatics
+DANC 3107,Intermediate Hip Hop Dance
+DANC 3203,Contact Improvisation
+DANC 3302,Intermediate Advanced Technique and Theory
+DANC 3306,Dance Composition III
+DANC 3310,Dance History I
+DANC 3311,Dance History II
+DANC 3312,Stott Pilates Intensive Mat Certification
+DANC 3314,Technology in Dance
+DANC 4110,Dance Ensemble
+DANC 4197,Selected Topics
+DANC 4198,Independent Study
+DANC 4204,Jazz Dance III
+DANC 4298,Independent Study
+DANC 4302,Advanced Technique and Theory
+DANC 4305,Senior Project with Career Management
+DANC 4307,Teaching Dance in Education
+DANC 4308,Teaching Dance Skills
+DANC 4330,Career Skills for the Practicing Dance Artist
+DANC 4331,PR and Marketing Entrepreneurship for the Arts
+DANC 4397,Selected Topics
+DANC 4398,Independent Study

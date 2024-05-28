@@ -1,0 +1,60 @@
+SOC 3300,Introduction to Sociological Theory
+SOC 3301,Introduction to Sociological Research
+SOC 3311,Sociology of Law
+SOC 3312,Sociology of Deviance
+SOC 3313,Criminology
+SOC 3314,Juvenille Delinquency
+SOC 3315,Sexuality and Society
+SOC 3316,Sociology of Sport
+SOC 3319,Gender, Sexuality, and Health
+SOC 3321,African,American Family
+SOC 3324,Hispanic Identity
+SOC 3326,Immigration in US Society
+SOC 3327,Racial and Ethnic Relations
+SOC 3328,Race,Ethnicity World Perspctv
+SOC 3330,Intro,Social Psych
+SOC 3335,Sociology of Punishment
+SOC 3336,Aggression and Violence in Society
+SOC 3337,Women and Crime
+SOC 3338,Punishment in the U.S.
+SOC 3340,Sociology of Film
+SOC 3341,Organizations
+SOC 3342,Sociology of Work
+SOC 3343,Social Movements
+SOC 3344,Sociology of Aging
+SOC 3345,Sociology of Death & Dying
+SOC 3346,Qualitative Research Methods
+SOC 3347,Nonprofit Organization & Management
+SOC 3349,Sociology of Culture
+SOC 3350,Sociology of the Body
+SOC 3351,Soc Class&Mobilty in Am
+SOC 3352,Social Demography
+SOC 3353,Health Disparities in Society
+SOC 3354,Social Justice & Health Equity
+SOC 3355,Sociology of India
+SOC 3357,Urban Sociology
+SOC 3360,Sociology of Food
+SOC 3361,Sociology of Gender and Food
+SOC 3362,Sociology of Religion in India
+SOC 3365,Sociology of Education
+SOC 3366,Sociology of Art
+SOC 3370,Popular Music and Society
+SOC 3371,Sociology of the Family
+SOC 3372,Mexican American Family
+SOC 3373,Comparative Family Structures
+SOC 3375,Religion and Society
+SOC 3378,Sociology of Visual Culture
+SOC 3380,Intro/Soc Health Care
+SOC 3382,Sociology of Drug Use & Recove
+SOC 3385,Sociology of World Religions
+SOC 3388,Visual Sociology
+SOC 3390,Sociology of Gender
+SOC 3392,Sociology of Latino in Houston
+SOC 3395,Careers in Sociology
+SOC 3397,Sel,Topics in Sociology
+SOC 3398,Independent Studies in Sociology
+SOC 3399,Senior Honors Thesis
+SOC 3400,Intro To Social Statistics
+SOC 4383,Senior Seminar in Sociology
+SOC 4394,Internship in Sociology
+SOC 4399,Senior Honors Thesis

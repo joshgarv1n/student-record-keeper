@@ -1,0 +1,15 @@
+BUSI B011,Bauer CO,OP Experiential Work
+BUSI 1301,Business Principles
+BUSI 2305,Business Statistics
+BUSI 3300,Introduction to Personal Finance
+BUSI 3301,Connecting College to Business
+BUSI 3302,Connecting Bauer to Business
+BUSI 4198,Independent Study
+BUSI 4305,Business Ethics for Accountants
+BUSI 4320,Commercial Law
+BUSI 4335,Brainstorming to Bankrolling
+BUSI 4336,Consulting to Meet Small Business Needs
+BUSI 4350,Business Law and Ethics
+BUSI 4396,Business Internship
+BUSI 4397,Special Topics in General Business
+BUSI 4398,Independent Study

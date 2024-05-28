@@ -1,0 +1,3 @@
+SOCW 3330,Nonprofit Financial Management
+SOCW 3354,Nonprofit Management
+SOCW 4301,Internship in Human Services

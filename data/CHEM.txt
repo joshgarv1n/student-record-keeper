@@ -1,0 +1,39 @@
+CHEM 1105,Foundations of Chemistry Laboratory
+CHEM 1111,Fundamentals of Chm Lab
+CHEM 1112,Fundamentals of Chm Lab
+CHEM 1305,Foundations of Chemistry
+CHEM 1311,Fundamentals of Chemistry
+CHEM 1312,Fundamentals of Chemistry 2
+CHEM 1321,Honors Fundamentals of Chemistry 1
+CHEM 1322,Honors Fundamentals of Chemistry 2
+CHEM 2123,Organic Chemistry Lab I
+CHEM 2125,Organic Chemistry Lab II
+CHEM 2131,Problem Solving in Organic Chemistry I
+CHEM 2132,Problem Solving in Organic Chemistry II
+CHEM 2323,Organic Chemistry I
+CHEM 2325,Organic Chemistry II
+CHEM 3119,Anlytical Chemistry Lab
+CHEM 3133,Inorganic Chemistry Laboratory I
+CHEM 3333,Inorganic Chemistry I
+CHEM 3336,Org Chem Biol Molecules
+CHEM 3369,Analytical Chemistry 1
+CHEM 3396,Senior Research Project
+CHEM 3399,Senior Honors Thesis
+CHEM 4115,Inorganic Chem Laboratory II
+CHEM 4151,Chemistry Internship
+CHEM 4229,Instrmntl Mthd,Anly Lab
+CHEM 4270,Physical Chemistry Lab I
+CHEM 4272,Physical Chemistry Laboratory II
+CHEM 4330,Polymer Chemistry
+CHEM 4336,Fundamentl Biochemistry
+CHEM 4340,Research Methods
+CHEM 4364,Advanced Organic Chem
+CHEM 4365,Inorganic Chemistry II
+CHEM 4369,Analytical Chemistry 2
+CHEM 4370,Physical Chemistry I
+CHEM 4372,Physical Chemistry II
+CHEM 4373,Survey of Physical Chemistry
+CHEM 4396,Research Project
+CHEM 4397,Selected Topics in Chemistry
+CHEM 4398,Independent Study
+CHEM 4399,Senior Honors Thesis

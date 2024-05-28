@@ -1,0 +1,39 @@
+PHIL 1301,Intro To Philosophy
+PHIL 1305,Intro To Ethics
+PHIL 1321,Logic I
+PHIL 1334,Minds and Machines
+PHIL 1361,Philosophy and the Arts
+PHIL 2321,Logic II
+PHIL 3304,History of Seventeenth Century Philosophy
+PHIL 3305,History of Eighteenth Century Philosophy
+PHIL 3321,Logic III
+PHIL 3332,Philosophy of Language
+PHIL 3333,Metaphysics
+PHIL 3334,Philosophy of Mind
+PHIL 3335,Theory of Knowledge
+PHIL 3342,Philosophy of Mathematics
+PHIL 3344,Philosophy of Science
+PHIL 3349,Philosophy of the Social Sciences
+PHIL 3350,Ethics
+PHIL 3351,Contemporary Moral Issues
+PHIL 3354,Medical Ethics
+PHIL 3355,Political Philosophy
+PHIL 3356,Feminist Philosophy
+PHIL 3357,Punishment
+PHIL 3358,Classics in the History of Ethics
+PHIL 3361,Philosophy of Art
+PHIL 3371,Depiction, Narration, and Critical Theory
+PHIL 3375,Law, Society, and Morality
+PHIL 3376,Philosophy and the Scientific Revolution
+PHIL 3377,Philosophy of Religion
+PHIL 3382,Medieval Philosophy
+PHIL 3383,History of Ancient Philosophy
+PHIL 3386,History of Nineteenth Century Philosophy
+PHIL 3387,History of American Philosophy
+PHIL 3388,History of Twentieth Century Philosophy
+PHIL 3395,Selected Topics in Phil
+PHIL 3398,Independent Study
+PHIL 3399,Senior Honors Thesis
+PHIL 4198,Independent Study
+PHIL 4398,Independent Study
+PHIL 4399,Senior Honors Thesis

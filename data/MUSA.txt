@@ -1,0 +1,100 @@
+MUSA 1160,Applied Music
+MUSA 1172,Applied Jazz Bass
+MUSA 1176,Applied Jazz Percussion
+MUSA 1200,Applied Voice
+MUSA 1201,Applied Voice
+MUSA 1210,Applied Piano
+MUSA 1212,Applied Organ
+MUSA 1214,Applied Harpsichord
+MUSA 1220,Applied Violin
+MUSA 1222,Applied Viola
+MUSA 1228,Applied Harp
+MUSA 1230,Applied Flute
+MUSA 1232,Applied Oboe
+MUSA 1233,Applied Piccolo
+MUSA 1234,Applied Clarinet
+MUSA 1238,Applied Saxophone
+MUSA 1244,Applied Trombone
+MUSA 1246,Applied Tuba
+MUSA 1248,Applied Euphonium
+MUSA 1250,Applied Percussion
+MUSA 1260,Applied Music
+MUSA 1270,Applied Jazz Saxophone
+MUSA 1272,Applied Jazz Bass
+MUSA 1276,Applied Jazz Percussion
+MUSA 1278,Applied Jazz Guitar
+MUSA 1300,Applied Voice
+MUSA 1310,Applied Piano
+MUSA 1312,Applied Organ
+MUSA 1314,Applied Harpsichord
+MUSA 1320,Applied Violin
+MUSA 1322,Applied Viola
+MUSA 1324,Applied Violoncello
+MUSA 1326,Applied Double Bass
+MUSA 1328,Applied Harp
+MUSA 1330,Applied Flute
+MUSA 1332,Applied Oboe
+MUSA 1333,Applied Piccolo
+MUSA 1334,Applied Clarinet
+MUSA 1336,Applied Bassoon
+MUSA 1338,Saxophone
+MUSA 1340,Applied Trumpet
+MUSA 1342,Applied French Horn
+MUSA 1344,Applied Trombone
+MUSA 1346,Applied Tuba
+MUSA 1348,Applied Euphonium
+MUSA 1350,Applied Percussion
+MUSA 1370,Applied Jazz Saxophone
+MUSA 1372,Applied Jazz Bass
+MUSA 1376,Applied Jazz Percussion
+MUSA 1378,Applied Jazz Guitar
+MUSA 2102,Applied Composition
+MUSA 2160,Applied Music
+MUSA 2200,Applied Voice
+MUSA 2202,Applied Composition
+MUSA 2203,Applied Composition
+MUSA 2210,Applied Piano
+MUSA 2212,Applied Organ
+MUSA 2214,Applied Harpsichord
+MUSA 2220,Applied Violin
+MUSA 2226,Applied Double Bass
+MUSA 2229,Applied Harp
+MUSA 2230,Applied Flute
+MUSA 2233,Applied Piccolo
+MUSA 2234,Applied Clarinet
+MUSA 2236,Applied Bassoon
+MUSA 2239,Applied Saxophone
+MUSA 2242,Applied French Horn
+MUSA 2245,Applied Trombone
+MUSA 2248,Applied Euphonium
+MUSA 2250,Applied Percussion
+MUSA 2260,Applied Music
+MUSA 2270,Applied Jazz Saxophone
+MUSA 2276,Applied Jazz Percussion
+MUSA 2278,Applied Jazz Guitar
+MUSA 2282,Applied Jazz Trombone
+MUSA 2300,Applied Voice
+MUSA 2310,Applied Piano
+MUSA 2312,Applied Organ
+MUSA 2314,Applied Harpsichord
+MUSA 2320,Applied Violin
+MUSA 2322,Applied Viola
+MUSA 2324,Applied Violoncello
+MUSA 2326,Applied Double Bass
+MUSA 2328,Applied Harp
+MUSA 2330,Applied Flute
+MUSA 2332,Applied Oboe
+MUSA 2333,Applied Piccolo
+MUSA 2334,Applied Clarinet
+MUSA 2336,Applied Bassoon
+MUSA 2338,Applied Saxophone
+MUSA 2340,Applied Trumpet
+MUSA 2342,Applied French Horn
+MUSA 2344,Applied Trombone
+MUSA 2346,Applied Tuba
+MUSA 2348,Applied Euphonium
+MUSA 2350,Applied Percussion
+MUSA 2370,Applied Jazz Saxophone
+MUSA 2372,Applied Jazz Bass
+MUSA 2376,Applied Jazz Percussion
+MUSA 2378,Applied Jazz Guitar

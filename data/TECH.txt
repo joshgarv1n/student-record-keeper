@@ -1,0 +1,6 @@
+TECH 1301,Intro to Data Analytics Tools
+TECH 1313,Impact of Modern Technology on Society
+TECH 1325,Energy For Society
+TECH 3365,Applications of Discrete Methods in Technology
+TECH 3366,Applications of Numerical Methods in Technology
+TECH 4310,Future of Energy & Environment

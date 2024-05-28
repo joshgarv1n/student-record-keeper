@@ -1,0 +1,36 @@
+BCHS 1197,Selected Topics in Biochemistry
+BCHS 1297,Selected Topics in Biochemistry
+BCHS 1397,Selected Topics in Biochemistry
+BCHS 2197,Selected Topics in Biochemistry
+BCHS 3197,Selected Topics in Biochemistry
+BCHS 3201,Biochemistry I Laboratory
+BCHS 3297,Selected Topics in Biochemistry
+BCHS 3304,General Biochemistry I
+BCHS 3305,General Biochemistry II
+BCHS 3307,Biochemistry for Nutrition Majors
+BCHS 3396,Senior Research Project
+BCHS 3399,Senior Honors Thesis
+BCHS 4197,Selected Topics in Biochemistry
+BCHS 4198,Independent Study
+BCHS 4298,Independent Study
+BCHS 4304,Biophysics
+BCHS 4306,Nucleic Acids
+BCHS 4307,Proteins
+BCHS 4311,Biochemistry Lab II
+BCHS 4312,Molecular Modeling of Biological Macromolecules
+BCHS 4313,Cell Biochemistry
+BCHS 4314,Lipids and Carbohydrates
+BCHS 4321,Genomics and Proteomics
+BCHS 4322,Biochemistry of Organelles
+BCHS 4323,Protein Biosynthesis
+BCHS 4324,Bioinformatics
+BCHS 4325,Molecular Microbiology
+BCHS 4355,Eukaryotic Gene Regulation
+BCHS 4360,Evolutionary Basis of Health and Disease
+BCHS 4361,Clinical Biochemistry
+BCHS 4370,Frontiers in Nano,Biotechnology
+BCHS 4396,Senior Research Project
+BCHS 4397,Topics,Biochem & Biophys Sci
+BCHS 4398,Independent Study
+BCHS 4399,Senior Honors Thesis
+BCHS 4498,Independent Study

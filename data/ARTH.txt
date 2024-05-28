@@ -1,0 +1,56 @@
+ARTH 1300,Ways of Seeing: Art and Our Visual World
+ARTH 2381,Classical Art
+ARTH 2382,Medieval Art and Society
+ARTH 2384,Baroque Art
+ARTH 2386,Nineteenth Century Art
+ARTH 2388,African, Oceania, Americas Art
+ARTH 2389,Modern and Contemporary Art
+ARTH 2394,Selected Topics in Art History
+ARTH 3301,Critical Theory
+ARTH 3302,Contemporary Art Criticism
+ARTH 3303,After Theory
+ARTH 3304,Virtual Curating
+ARTH 3311,Greek Art
+ARTH 3312,Pre,Columbian Art
+ARTH 3313,Roman Art
+ARTH 3314,Latin American Art
+ARTH 3315,History of Prints in the West
+ARTH 3317,Ancient Near Eastern Art
+ARTH 3318,Art and Architecture of India
+ARTH 3325,18th Century European Art
+ARTH 3326,European Romanticism
+ARTH 3327,Visual Culture of French Revolution
+ARTH 3328,Late 19th Century Art &Culture
+ARTH 3330,Impressionism: The Painters of Modern Life
+ARTH 3332,20th Century Design
+ARTH 3333,Issues in Contemporary Design
+ARTH 3334,History of Graphic Design
+ARTH 3335,Surrealism and Its Legacies
+ARTH 3336,Contemporary Art, 1960s,1980s: The Postmodern Turn
+ARTH 3337,Contemporary Art, 1980s,Present: Democracy, Identity, Globalization
+ARTH 3376,Representations of Gender
+ARTH 3378,Global History of Photography
+ARTH 3379,History of 20th and 21th Century Photography
+ARTH 3380,17Th Century Dutch Art
+ARTH 3382,Northern Renaissance
+ARTH 3389,Italian Gothic Art/Patronage
+ARTH 3394,Selected Topics in Art History
+ARTH 3395,Selected Topics in Critical Theory and Criticism
+ARTH 3396,Selected Topics in Critical Studies in Film and Video
+ARTH 3399,Senior Honors Thesis
+ARTH 4310,Human Body in Non,Western Art
+ARTH 4311,Medieval Arts,Artist,Patrons
+ARTH 4314,Medieval Illuminated Manuscripts
+ARTH 4315,Reading Medieval Art
+ARTH 4319,Readings in 19Th Century Photo
+ARTH 4320,Readings in 20th and 21st Century Photography
+ARTH 4379,Art Since 1945
+ARTH 4380,Museums and the Problem of Display
+ARTH 4381,Seminar On Rembrandt
+ARTH 4383,Contemporary Painting
+ARTH 4385,Senior Seminar in Art History
+ARTH 4388,Methods of Art History
+ARTH 4394,Sel Tops in Art History
+ARTH 4395,Selected Topics in Contemporary Theory and Practice
+ARTH 4398,Independent Study
+ARTH 4399,Senior Honors Thesis

@@ -1,0 +1,43 @@
+BIOE 1331,Computing for Biomedical Engineering
+BIOE 2100,Introduction To Biomedical Engineering
+BIOE 2331,Biomedical Processes
+BIOE 2397,Selected Topics
+BIOE 3140,Quantitative Physiology Laboratory
+BIOE 3340,Quantitative Physiology
+BIOE 3341,Biothermodynamics
+BIOE 3351,Introduction to Diseases
+BIOE 3399,Senior Honors Thesis
+BIOE 4115,Introduction to Bioinstrumentation Lab
+BIOE 4150,Genomic and Proteomic Engineering Laboratory
+BIOE 4197,Selected Topics
+BIOE 4198,BME Independent Study
+BIOE 4302,Numerical Analysis for Biomedical Engineering
+BIOE 4303,Biomaterials
+BIOE 4305,Brain Machine Interfacing
+BIOE 4307,Optical Imaging
+BIOE 4308,Neural Engineering Methods and Applications
+BIOE 4309,Neural Technology Interfaces
+BIOE 4310,Drug Design and Delivery
+BIOE 4311,Advances in Vision Research
+BIOE 4313,Introduction to Neural Computation
+BIOE 4314,Engineering Physiology of the Human Body
+BIOE 4315,Bioinstrumentation
+BIOE 4319,Mass Transport Phenomena in Biological Systems
+BIOE 4335,Capstone Design I
+BIOE 4336,Capstone Design II
+BIOE 4342,Biomedical Signal Processing
+BIOE 4347,Cellular and Molecular Biology for BME
+BIOE 4348,Tissue Engineering: Principles & Practice
+BIOE 4349,Biomedical Microdevices
+BIOE 4350,Genomic and Proteomic Engineering
+BIOE 4366,Biomolecular Engr Fundamentals
+BIOE 4397,Selected Topics
+BIOE 4398,BME Independent Study
+BIOE 4399,Senior Honors Thesis
+BIOE 5315,Healthcare Innovations and Entrepreneurship
+BIOE 5317,Introduction to Biomedical Imaging
+BIOE 5318,Introduction to Biomedical Informatics
+BIOE 5319,Introduction to Global Healthcare
+BIOE 5320,Introduction to Electromagnetic Imaging
+BIOE 5323,Introduction to Regenerative Medicine and Stem Cell Engineering
+BIOE 5341,Advanced Biofluid Dynamics

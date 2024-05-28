@@ -1,0 +1,14 @@
+ASLI 2233,History of Interpreting and Translation Profession
+ASLI 2335,Privilege & Equity in ASL Interpreting
+ASLI 3333,Simultaneous Interpreting: Foundational Skills
+ASLI 3430,Consecutive Interpreting and Translation
+ASLI 3433,Simultaneous Interpreting I
+ASLI 3434,Simultaneous Interpreting II
+ASLI 3460,Advanced American Sign Language
+ASLI 4210,Literature in American Sign Language
+ASLI 4335,Advanced Interpreting Techniques and Skills in ASL/English
+ASLI 4346,American Sign Language Transliteration and Educational Interpreting
+ASLI 4368,Comparative study of ASL and English Linguistics
+ASLI 4397,Selected Topics in American Sign Language Interpreting
+ASLI 4398,Independent Study: Tri,lingual Interpreting
+ASLI 4489,Service Learning,Internship

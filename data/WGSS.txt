@@ -1,0 +1,16 @@
+WGSS 2350,Introduction To Women's Studies
+WGSS 2360,Introduction to LGBT Studies
+WGSS 3319,Gender, Sexuality, and Health
+WGSS 3321,Gender in Transnational Perspective
+WGSS 3322,Intersectionalities of Race, Class, Age, Disability & Gender
+WGSS 3350,Gender, Society & Feminist Theory
+WGSS 3351,Gender and Work
+WGSS 3354,Social Justice & Health Equity
+WGSS 3360,Sexuality and Queer Theory
+WGSS 3395,Selected Topics in Women's Studies
+WGSS 3396,Selected Topics LGBT Studies
+WGSS 3398,Independent Study
+WGSS 4350,Issues in Feminist Research
+WGSS 4360,Capstone Internship Course
+WGSS 4395,Selected Topics in Women's Studies
+WGSS 4398,Independent Study

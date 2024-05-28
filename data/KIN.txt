@@ -1,0 +1,38 @@
+KIN 1304,Public Health Issues in Physical Activity and Obesity
+KIN 1352,Foundations of Kinesiology, Health, and Fitness
+KIN 2108,Weight Training & Aerobic Fit
+KIN 3301,Design and Evaluation of Physical Activity Programs
+KIN 3303,Sports Communication
+KIN 3304,Human Structure and Physical Performance
+KIN 3305,Sociological and Cultural Aspects of Kinesiology and Sport
+KIN 3306,Physiology of Human Performance
+KIN 3309,Biomechanics
+KIN 3325,Sports Therapy and Athletic Training
+KIN 3350,Psychological Aspects of Sports and Exercise
+KIN 3360,Professional Preparation for Sport Administration
+KIN 3370,Sport Facility Management
+KIN 3399,Senior Honors Thesis
+KIN 4190,Sport Administration Seminar
+KIN 4198,Independent Study
+KIN 4298,Independent Study
+KIN 4300,Physical Activity in Older Adults
+KIN 4301,Workplace Wellness
+KIN 4302,Fitness and Human Sexuality
+KIN 4303,The Obesity Epidemic
+KIN 4310,Measurement Tech Human Perf
+KIN 4315,Motor Learning and Control
+KIN 4330,Child and Adolescent Obesity
+KIN 4340,Sport Governance
+KIN 4345,Economic and Financial Aspects of Sport
+KIN 4350,Sport Marketing
+KIN 4355,Administration of Sport and Physical Activity
+KIN 4360,Adaptive Athletics Management
+KIN 4365,Legal and Ethical Aspects of Sport
+KIN 4370,Exercise Testing
+KIN 4390,Internship in Physical Education
+KIN 4391,Internship in Physical Education
+KIN 4397,Selected Topics in Health and Physical Education
+KIN 4398,Independent Study
+KIN 4399,Senior Honors Thesis
+KIN 4690,Internship in Sport Administration 1
+KIN 4691,Internship in Sport Administration 2

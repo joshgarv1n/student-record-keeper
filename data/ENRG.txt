@@ -1,0 +1,8 @@
+ENRG 3310,Introduction to Energy and Sustainability
+ENRG 3311,Fundamentals of Sustainability
+ENRG 3312,Politics of Energy and the Environment
+ENRG 3377,Energy, Society and the Middle East
+ENRG 4302,Energy Supply Chain
+ENRG 4320,Case Studies in Energy and Sustainability
+ENRG 4397,Selected Topics in Energy and Sustainability
+ENRG 4398,Independent Study in Energy and Sustainability

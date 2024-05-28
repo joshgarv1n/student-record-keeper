@@ -1,0 +1,37 @@
+INAR 2501,Interior Architecture Design Studio IV
+INAR 3111,Topics in Design History
+INAR 3112,Topics in Design Media
+INAR 3113,Topics in Design Practice
+INAR 3114,Topics in Design Technology
+INAR 3211,Topics in Design History
+INAR 3212,Topics in Design Media
+INAR 3213,Topics in Design Practice
+INAR 3214,Topics in Design Technology
+INAR 3300,History of Interior Architecture
+INAR 3310,Materials & Methods of Interior Architecture
+INAR 3311,Topics in Design History
+INAR 3312,Topics in Design Media
+INAR 3313,Topics in Design Practice
+INAR 3314,Topics in Design Technology
+INAR 3360,Human Factors in Interior Architecture
+INAR 3397,Selected Topics
+INAR 3500,Interior Architecture Design Studio V
+INAR 3501,Interior Architecture Design Studio VI
+INAR 4111,Advanced Topics in Design History
+INAR 4112,Advanced Topics in Design Media
+INAR 4113,Advanced Topics in Design Practice
+INAR 4114,Advanced Topics in Design Technology
+INAR 4198,Independent Study
+INAR 4211,Advanced Topics in Design History
+INAR 4212,Advanced Topics in Design Media
+INAR 4213,Advanced Topics in Design Practice
+INAR 4214,Advanced Topics in Design Technology
+INAR 4311,Advanced Topics in Design History
+INAR 4312,Advanced Topics in Design Media
+INAR 4313,Advanced Topics in Design Practice
+INAR 4314,Advanced Topics in Design Technology
+INAR 4360,Practice of Interior Architecture
+INAR 4393,Senior Project Preparation
+INAR 4398,Independent Study
+INAR 4500,Interior Architecture Design Studio VII
+INAR 4501,Interior Architecture Design Studio VIII

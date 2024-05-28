@@ -1,0 +1,70 @@
+MATH 1100,Developmental Math
+MATH 1300,Fundamentals of Math
+MATH 1314,College Algebra
+MATH 1324,Finite Math with Applications
+MATH 1325,Calculus for Business & Social Sciences
+MATH 1332,Contemporary Mathematics
+MATH 1342,Elementary Statistical Methods
+MATH 1351,Introduction to Geometric Reasoning
+MATH 2131,Linear Algebra Labs with MATLAB
+MATH 2303,Concepts in Algebra
+MATH 2305,Discrete Mathematics
+MATH 2312,Precalculus
+MATH 2318,Linear Algebra
+MATH 2413,Calculus I
+MATH 2414,Calculus II
+MATH 2415,Calculus III
+MATH 2450,Accelerated Calculus I
+MATH 2451,Accelerated Calculus II
+MATH 3303,Elements of Algebra and Number Theory
+MATH 3304,Mathematical Analysis
+MATH 3305,Formal & Informal Geometry
+MATH 3306,Problem,Solving in Mathematics
+MATH 3307,Statistical Applications
+MATH 3311,Functions and Modeling
+MATH 3321,Engineering Mathematics
+MATH 3325,Transition to Advanced Mathematics
+MATH 3330,Abstract Algebra
+MATH 3331,Intermediate Differential Equations
+MATH 3333,Intermediate Analysis
+MATH 3334,Advanced Multivariable and Vector Calculus
+MATH 3335,Vector Analysis
+MATH 3338,Probability
+MATH 3339,Statistics for the Sciences
+MATH 3340,Intro To Fixed Income Math
+MATH 3349,Inferential Statistics
+MATH 3363,Introduction to Partial Differential Equations
+MATH 3364,Introduction to Complex Analysis
+MATH 3379,Introduction to Higher Geometry
+MATH 3396,Senior Research Project
+MATH 3397,Selected Topics in Mth
+MATH 3399,Senior Honors Thesis
+MATH 4151,Mathematics Internship
+MATH 4309,Mathematical Biology
+MATH 4310,Biostatistics
+MATH 4315,Graph Theory with Applications
+MATH 4320,Intro To Stochastic Processes
+MATH 4322,Introduction to Data Science and Machine Learning
+MATH 4323,Data Science and Statistical Learning
+MATH 4331,Introduction To Real Analysis I
+MATH 4332,Introduction to Real Analysis II
+MATH 4335,Partial Differential Equations I
+MATH 4339,Multivariate Statistics
+MATH 4350,Differential Geometry I
+MATH 4351,Calculus on Manifolds
+MATH 4355,Mathematics of Signal Representation
+MATH 4362,Theory of Differential Equations and Nonlinear Dynamics
+MATH 4364,Introduction to Numerical Analysis in Scientific Computing
+MATH 4365,Numerical Methods for Differential Equations
+MATH 4366,Numerical Linear Algebra
+MATH 4370,Mathematics for Physicists
+MATH 4377,Advanced Linear Algebra I
+MATH 4378,Advanced Linear Algebra II
+MATH 4380,Mathematical Intro To Options
+MATH 4383,Number Theory and Cryptography
+MATH 4388,History of Mathematics
+MATH 4389,Survey of Undergraduate Mathematics
+MATH 4396,Senior Research Project
+MATH 4397,Selected Topics in Mathematics
+MATH 4398,Independent Study
+MATH 4399,Senior Honors Thesis

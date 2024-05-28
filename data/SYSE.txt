@@ -1,0 +1,9 @@
+SYSE 3301,Fundamentals of Systems Engineering
+SYSE 3315,Systems Architecture & Design
+SYSE 3340,Systems Integration, Verfication and Validation
+SYSE 3355,Systems Thinking
+SYSE 4111,Systems Engineering Seminar
+SYSE 4320,Project Management of Complex Systems
+SYSE 4330,Healthcare Systems Engineering
+SYSE 4332,Healthcare Informatics and Analytics
+SYSE 4334,Systems Engineering Capstone Design

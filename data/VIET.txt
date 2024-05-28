@@ -1,0 +1,6 @@
+VIET 1501,Elementary Vietnamese I
+VIET 1502,Elementary Vietnamese II
+VIET 2301,Intermediate Vietnamese I
+VIET 2302,Intermediate Vietnamese II
+VIET 3300,The Global Vietnamese Diaspora
+VIET 3331,Introduction to Vietnamese Culture

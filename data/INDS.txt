@@ -1,0 +1,61 @@
+INDS 1360,Visual Thinking
+INDS 1501,Industrial Design Studio II
+INDS 2160,Materials and Manufacturing Methods
+INDS 2165,Design Research Methods I
+INDS 2170,Digital Sketch Techniques I
+INDS 2260,Materials and Fabrication Methods
+INDS 2270,Digital Sketch Techniques II
+INDS 2298,Independent Study
+INDS 2340,Visual Communication
+INDS 2341,Computer Aided Industrial Design I
+INDS 2355,Design History I
+INDS 2356,Design History II
+INDS 2360,Materials and Methods I
+INDS 2362,Visual Presentation
+INDS 2397,Selected Topics
+INDS 2500,Industrial Design Studio III
+INDS 2501,Industrial Design Studio IV
+INDS 3111,Topics in Design History
+INDS 3112,Topics in Design Media
+INDS 3113,Topics in Design Practice
+INDS 3114,Topics in Design Technology
+INDS 3160,Design Issues I
+INDS 3198,Independent Study
+INDS 3211,Topics in Design History
+INDS 3212,Topics in Design Media
+INDS 3213,Topics in Design Practice
+INDS 3214,Topics in Design Technology
+INDS 3265,Design Research Methods II
+INDS 3311,Topics in Design History
+INDS 3312,Topics in Design Media
+INDS 3313,Topics in Design Practice
+INDS 3314,Topics in Design Technology
+INDS 3340,Computer Aided Industrial Design II
+INDS 3341,Design Interaction
+INDS 3360,Human Factors
+INDS 3365,Design Research Methods
+INDS 3370,Advanced Design Systems
+INDS 3397,Selected Topics
+INDS 3500,Industrial Design Studio V
+INDS 3501,Industrial Design Studio VI
+INDS 4111,Advanced Topics in Design History
+INDS 4112,Advanced Topics in Design Media
+INDS 4113,Advanced Topics in Design Practice
+INDS 4114,Advanced Topics in Design Technology
+INDS 4180,Design Internship
+INDS 4198,Independent Study
+INDS 4211,Advanced Topics in Design History
+INDS 4212,Advanced Topics in Design Media
+INDS 4213,Advanced Topics in Design Practice
+INDS 4214,Advanced Topics in Design Technology
+INDS 4260,Design Issues II
+INDS 4311,Advanced Topics in Design History
+INDS 4312,Advanced Topics in Design Media
+INDS 4313,Advanced Topics in Design Practice
+INDS 4314,Advanced Topics in Design Technology
+INDS 4360,Design Issues
+INDS 4361,E,Portfolio
+INDS 4365,Design Practice and Business
+INDS 4380,Design Internship
+INDS 4500,Industrial Design Studio VII
+INDS 4501,Industrial Design Studio VIII

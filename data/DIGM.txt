@@ -1,0 +1,39 @@
+DIGM 1300,Introduction to Digital Media
+DIGM 1350,Graphics for Digital Media
+DIGM 1376,User Experience (UX) Principles
+DIGM 2325,Information Technology Applications for Digital Media
+DIGM 2351,Web Design
+DIGM 2352,Digital Photography
+DIGM 2353,Page Layout and Design
+DIGM 2357,Content Strategy & Development
+DIGM 2376,User Experience (UX) Principles 2
+DIGM 3152,Graphic Communication Output Lab
+DIGM 3252,Graphic Communication Output
+DIGM 3326,Big Data Analytics for Digital Media
+DIGM 3350,Graphic Communication Production Processes
+DIGM 3351,Individualized Communication Processes
+DIGM 3353,Visual Communications Technology
+DIGM 3354,Principles of Visual Production
+DIGM 3355,Package Technology
+DIGM 3356,ePublishing
+DIGM 3357,Social Media Applications and Analytics
+DIGM 3358,Augmented and Virtual Reality
+DIGM 3370,Two Dimensional Computer Generated Imagery Animation
+DIGM 3374,Video Production 2
+DIGM 3399,Senior Honors Thesis
+DIGM 4350,Venue Transmedia
+DIGM 4351,Portfolio Development for Digital Media
+DIGM 4371,3D Modeling and Animation
+DIGM 4372,Digital Media Production Management
+DIGM 4373,Photographic Tone and Color Reproduction
+DIGM 4375,Package Design
+DIGM 4376,Integrated Media
+DIGM 4378,Senior Project
+DIGM 4379,Transmedia Marketing
+DIGM 4381,Mobile Application Design
+DIGM 4382,Simulation and Gaming
+DIGM 4390,Current Issues in Digital Media
+DIGM 4396,Internship in Digital Media
+DIGM 4397,Selected Topics in Digital Media
+DIGM 4398,Independent Study
+DIGM 4399,Senior Thesis

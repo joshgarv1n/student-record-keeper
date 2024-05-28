@@ -1,0 +1,74 @@
+ECE 1197,Selected Topics
+ECE 1397,Selected Topics
+ECE 2100,Circuit Analysis Laboratory
+ECE 2197,Selected Topics
+ECE 2201,Circuit Analysis I
+ECE 2202,Circuit Analysis II
+ECE 2397,Selected Topics
+ECE 3155,Electronics Laboratory
+ECE 3197,Selected Topics
+ECE 3317,Applied Electromagnetic Waves
+ECE 3318,Applied Electricity and Magnetism
+ECE 3331,Programming Applications in Electical and Computer Engineering
+ECE 3337,Signals and Systems Analysis
+ECE 3340,Numerical Methods for Electrical and Computer Engineers
+ECE 3355,Electronics
+ECE 3364,Circuits and Systems
+ECE 3366,Introduction to Digital Signal Processing
+ECE 3397,Selected Topics
+ECE 3399,Senior Honors Thesis
+ECE 3436,Microprocessor Systems
+ECE 3441,Digital Logic Design
+ECE 3456,Analog Electronics
+ECE 3457,Digital Electronics
+ECE 4113,Energy Conversion Laboratory
+ECE 4115,Control Systems Laboratory I
+ECE 4117,Telecommunications Laboratory
+ECE 4119,Solid State Devices Laboratory
+ECE 4197,Selected Topics
+ECE 4198,Independent Study
+ECE 4298,Independent Study
+ECE 4335,Electrical and Computer Engineering Design I
+ECE 4336,Electrical and Computer Engineering Design II
+ECE 4339,Physical Principles of Solid State Devices
+ECE 4363,Electromechanical Energy Conversion
+ECE 4371,Advanced Telecommunications
+ECE 4375,Automatic Control Systems
+ECE 4397,Selected Topics
+ECE 4398,Independent Study
+ECE 4399,Senior Honors Thesis
+ECE 4437,Embedded Microcomputer Systems
+ECE 4498,Independent Study
+ECE 5113,Microwave Engineering Laboratory
+ECE 5114,Antenna Engineering Laboratory
+ECE 5115,Control Systems Lab II
+ECE 5119,Nanotechnology Laboratory
+ECE 5120,Nanomaterials Engineering Laboratory
+ECE 5121,Nanofabrication Laboratory
+ECE 5127,Power System Analysis Lab
+ECE 5180,Power Electronics Laboratory
+ECE 5197,Selected Topics
+ECE 5311,Introduction to Machine Learning
+ECE 5317,Microwave Engineering
+ECE 5318,Antenna Engineering
+ECE 5319,Introduction to Nanotechnology
+ECE 5320,Introduction to Nanomaterials Engineering
+ECE 5321,Introduction to Nanoscale Design & Fabrication
+ECE 5330,Introduction to Robotics
+ECE 5335,State,Space Control Systems
+ECE 5340,Introduction to Well,Logging Techniques
+ECE 5346,VLSI Design
+ECE 5354,Digital Video
+ECE 5356,CMOS Analog Integrated Circuits
+ECE 5357,Introduction to Cybersecurity
+ECE 5358,Modern Optics and Photonics
+ECE 5367,Introduction to Computer Architecture and Design
+ECE 5377,Power System Analysis
+ECE 5380,Power Electronics and Electric Drives
+ECE 5384,Micro,Nano,Electro,Mechanical Systems and Nano Devices
+ECE 5385,Smart Grid Technology
+ECE 5388,Renewable Energy Technology
+ECE 5397,Selected Topics
+ECE 5436,Advanced Microprocessor Systems
+ECE 5440,Advanced Digital Design
+ECE 5451,Principles of Internetworking

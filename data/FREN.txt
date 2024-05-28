@@ -1,0 +1,48 @@
+FREN 1501,Elementary French I
+FREN 1502,Elementary French II
+FREN 2311,Intermediate French I
+FREN 2312,Intermediate French II
+FREN 3311,French Phonetics
+FREN 3312,Oral Communication
+FREN 3313,Advanced Grammar & Comp
+FREN 3315,Practical Translation
+FREN 3316,Survey of French Culture/Civ
+FREN 3317,Business French
+FREN 3318,History of French Cinema
+FREN 3319,History of the French Cinema
+FREN 3320,Introduction to French Literature
+FREN 3321,Francophone African Cinema
+FREN 3322,Francophone African Cinema
+FREN 3331,The Life of Words
+FREN 3334,Gastronomy in French History
+FREN 3335,French Popular Music
+FREN 3340,Contemporary French Society
+FREN 3341,Women in French Cinema
+FREN 3350,Introduction to Francophone Literature
+FREN 3351,The Francophone World
+FREN 3352,Youth in Francophone Film
+FREN 3362,Paris,Berlin: Tales of Two Cities
+FREN 3364,Writing Holocausts: The Literatures of Genocide
+FREN 3397,Sel Topics in French
+FREN 3398,Independent Study
+FREN 3399,Senior Honors Thesis
+FREN 4315,Advanced Translation
+FREN 4316,Contemporary France
+FREN 4317,Advanced Business French
+FREN 4326,Nineteenth Century French Literature
+FREN 4328,Twentieth Century French Literature
+FREN 4329,Twentieth Century French Novel
+FREN 4330,Twentieth Century French Theatre
+FREN 4332,Jung and French Literature
+FREN 4333,French for the Professions
+FREN 4334,Writing Across the Disciplines
+FREN 4340,Food in French Culture
+FREN 4342,French Women Writers
+FREN 4343,Short Fiction
+FREN 4350,Sex and the Other in French Literature
+FREN 4351,French in North America
+FREN 4395,Selected Topics in French Language and Civilization
+FREN 4396,Selected Topics in French language and culture
+FREN 4397,Selected Topics in French Literature
+FREN 4398,Independent Study
+FREN 4399,Senior Honors Thesis

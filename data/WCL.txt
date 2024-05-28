@@ -1,0 +1,56 @@
+WCL 1101,Introduction to the Study of Languages
+WCL 1102,Introduction to World Cultures
+WCL 2351,World Cultures Thru Lit & Arts
+WCL 2352,World Cinema
+WCL 2370,Cultures of India
+WCL 2380,Introduction to Jewish Studies
+WCL 3341,Early Islamic Society: Literature and Thought
+WCL 3342,Tales of East Asian Cities
+WCL 3346,Terrorism: Past and Present
+WCL 3347,Is Life Worth Living? A History of Nihilism
+WCL 3348,Enlightenment Stories
+WCL 3351,Introduction to Latino Cultural Studies
+WCL 3355,Goddesses and Other Divine Women
+WCL 3356,Comparative Modernisms: The Global South
+WCL 3363,The Graphic Novel and Film
+WCL 3364,World TV
+WCL 3365,World Fiction and Reportage
+WCL 3366,Latin American and Latino Film Studies
+WCL 3367,National Cinema in a Global Perspective
+WCL 3368,Popular Cultures and World Media
+WCL 3369,Science Fiction in Literature and Film
+WCL 3371,Cities in Film and Arts
+WCL 3372,Indian Film:Bollywood & Beyond
+WCL 3373,Gender and Sexuality in World Film
+WCL 3374,Jewish Film
+WCL 3375,Black Cuba in Literature and Visual Culture
+WCL 3376,Photography,Creating Visual Stories, Local and Global
+WCL 3377,The Modern Middle East: Literature, Politics, and Ideas
+WCL 3378,Debating India and the World
+WCL 3379,Media & Post,Millennial Writings in India
+WCL 3380,American Jewish Culture
+WCL 3384,Jewish Women Through Biography
+WCL 3385,Cultures and Capitalisms in India and Asia
+WCL 3392,Intro Lat Am Cultural Studies
+WCL 3397,Selected Topics in World Cultures & Literature
+WCL 3399,Senior Honors Thesis
+WCL 4301,Culture and Communication: Methods in Linguistic Anthropology
+WCL 4351,Frames of Modernity I
+WCL 4352,Frames of Modernity II,Postmodernity and Globalization
+WCL 4353,Frames of Modernity III: Classics and Modernity
+WCL 4354,Frames of Modernity IV: The Global South Before WWII
+WCL 4355,Frames of Modernity V: The Global South From WWII to Present
+WCL 4356,World Film and Film Theory
+WCL 4362,Seminar in Latin American and Latino Literatures
+WCL 4363,The Supernatural and Film
+WCL 4364,History of Drama in Northern and Central Europe
+WCL 4365,World Fiction and Reportage
+WCL 4367,Voices from Exile and Diaspora
+WCL 4374,Sex and Gender in Antiquity
+WCL 4378,Cultures of Dissent: A Global Perspective
+WCL 4379,Critical Theory and Globalization
+WCL 4381,Seminar in Latin American and Latino Cultural Studies
+WCL 4382,Post,Conflict Literatures: Europe, Africa and the Americas
+WCL 4396,Selected Topics in World Cultures and Literature
+WCL 4398,Independent Study
+WCL 4399,Senior Honors Thesis

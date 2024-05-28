@@ -1,0 +1,40 @@
+MECE 2334,Thermodynamics
+MECE 2336,Mechanics I
+MECE 2361,Introduction to Mechanical Design
+MECE 3245,Materials Science Laboratory
+MECE 3336,Mechanics II (Dynamics)
+MECE 3338,Dynamics and Control of Mechanical Systems
+MECE 3345,Materials Science
+MECE 3360,Experimental Methods
+MECE 3363,Introduction to Fluid Mechanics
+MECE 3369,Solid Mechanics
+MECE 3371,Numerical Methods for Mechanical Engineers
+MECE 3381,Introduction to Finite Element Methods for Mechanical Engineers
+MECE 3399,Senior Honors Thesis
+MECE 3400,Intro To Mechanics
+MECE 4198,Independent Study
+MECE 4298,Independent Study
+MECE 4331,Design of Machine Elements
+MECE 4340,Mechanical Engineering Capstone I
+MECE 4341,Mechanical Engineering Capstone II
+MECE 4343,Thermal Design
+MECE 4364,Heat Transfer
+MECE 4371,Thermal,Fluids Laboratory
+MECE 4372,Mechanics,Controls,Vibration Laboratory
+MECE 4398,Independent Study
+MECE 4399,Senior Honors Thesis
+MECE 4498,Independent Study
+MECE 4598,Independent Study
+MECE 5120,Nanomaterials Engineering Laboratory
+MECE 5307,Fracture of Structural Materials
+MECE 5319,Introduction to Nanotechnology
+MECE 5320,Introduction to Nanomaterials Engineering
+MECE 5321,Nanoscale Design & Fabrication
+MECE 5332,Introduction to Continuum Mechanics
+MECE 5339,Introduction to Engineering Alloys
+MECE 5346,Mechanics and Physics of Cells
+MECE 5363,Fluid Mechanics
+MECE 5367,Control System Analysis and Design
+MECE 5374,Nonlinear Control Systems
+MECE 5388,Intelligent Structural Systems
+MECE 5397,Selected Topics

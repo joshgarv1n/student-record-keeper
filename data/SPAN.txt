@@ -1,0 +1,65 @@
+SPAN 1501,Elementary Spanish I
+SPAN 1502,Elementary Spanish II
+SPAN 1505,Intensive Elementary Spanish
+SPAN 1507,Intensive Elementary Spanish for Heritage Learners
+SPAN 2198,Independent Study
+SPAN 2307,Spanish for Heritage Learners I
+SPAN 2308,Spanish for Heritage Learners II
+SPAN 2311,Intermediate Spanish I
+SPAN 2312,Intermediate Spanish II
+SPAN 2398,Independent Study
+SPAN 2605,Intensive Intermediate Spanish for Honors
+SPAN 2610,Intensive Intermediate Spanish
+SPAN 2615,Intensive Intermediate Spanish for Heritage Learners
+SPAN 3198,Independent Study
+SPAN 3301,Spanish Oral Communication for Critical Thinking
+SPAN 3302,Advanced Spanish for Non,Heritage Learners
+SPAN 3305,Spanish Grammar Review
+SPAN 3306,Introduction to the Study of the Spanish Language
+SPAN 3307,Public Speaking in Spanish
+SPAN 3308,Written Communication for Hispanic Heritage Learners
+SPAN 3311,Advanced Composition and Creative Writing
+SPAN 3312,Fundamentals of English/Spanish Translation
+SPAN 3331,Mexican American Literature
+SPAN 3339,Spanish for the Global Professions
+SPAN 3341,Language of Business and Trade
+SPAN 3342,Cross,Cultural Business Contexts: U.S./Latin America
+SPAN 3343,Spanish for the Health Professions
+SPAN 3345,Hispanic Folklore of the Southwest
+SPAN 3350,Women in Hispanic Literature
+SPAN 3373,Spanish Culture and Civilization
+SPAN 3374,Span American Culture & Civ
+SPAN 3375,United States Hispanic Culture and Civilization
+SPAN 3384,Introduction to Hispanic Literature
+SPAN 3386,Screen Memories: Spanish Culture Through Film
+SPAN 3394,Selected Topics in Spanish
+SPAN 3398,Independent Study
+SPAN 3399,Senior Honors Thesis
+SPAN 4198,Independent Study
+SPAN 4298,Independent Study
+SPAN 4311,Survey of Spanish Literature to 1700
+SPAN 4313,Advanced English/Spanish Translation
+SPAN 4321,Survey of Spanish,American Literature I
+SPAN 4322,Survey of Spanish,American Literature II
+SPAN 4337,Contemporary Spanish,American Literature
+SPAN 4339,Spanish,American Short Story
+SPAN 4341,Advertising and Public Relations for the Latino/a Market
+SPAN 4343,Health and Society in the Hispanic World
+SPAN 4356,Spanish Grammar for Teachers
+SPAN 4357,Spanish Phonetics
+SPAN 4365,Spanish,English Contrastive Structures
+SPAN 4366,History of the Spanish Language
+SPAN 4367,U.S. Hispanics and Language
+SPAN 4368,Mexican Literature in the Twentieth Century
+SPAN 4369,Contemporary Spanish Literature
+SPAN 4371,Techniques of Teaching Spanish
+SPAN 4372,Literature and the Visual Arts in Modern Spain
+SPAN 4374,Teaching Spanish to Heritage Learners
+SPAN 4387,Literary and Legal Translation
+SPAN 4388,Images of Women in Spanish,American Film and Literature
+SPAN 4391,Latin American and Latino Cultural Studies
+SPAN 4396,Topics in Spanish Language and Linguistics
+SPAN 4397,Topics in Hispanic Writing
+SPAN 4398,Independent Study
+SPAN 5395,Selected Topics in Span Linguistics
+SPAN 5396,Selected Topics in Hispanic Literature

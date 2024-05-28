@@ -1,0 +1,18 @@
+BTEC 1322,Introduction to Biotechnology
+BTEC 2322,Introduction to Biopython
+BTEC 3200,Biotechnology Research Methods & Applications
+BTEC 3301,Principles of Genomics/Proteomics and Bioinformatics
+BTEC 3302,Molecular Genetics and Biotechnology
+BTEC 3317,Biotechnology Regulatory Environment
+BTEC 3320,Introduction to Quality Assurance and Quality Control in Biotechnology
+BTEC 3321,Current Good Manufacturing Practices in Biotechnology
+BTEC 4100,Principles of Bioinformatics Lab
+BTEC 4101,Principles of Bioprocessing Laboratory
+BTEC 4198,Independent Study in Biotechnology
+BTEC 4249,Biotechnology Capstone Experience I
+BTEC 4300,Principles of Bioinformatics
+BTEC 4301,Principles of Bioprocessing
+BTEC 4319,Microbial Biotechnology
+BTEC 4350,Biotechnology Capstone II
+BTEC 4397,Selected Topics in Biotechnology
+BTEC 4398,Independent Study

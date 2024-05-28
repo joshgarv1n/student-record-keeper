@@ -1,0 +1,19 @@
+MUTX 2101,Music Styles and Skills I
+MUTX 2102,Music Styles and Skills II
+MUTX 2103,Music Styles and Skills III
+MUTX 2104,Music Styles and Skills IV
+MUTX 2110,Clinical Strategies and Repertoire for Children
+MUTX 2120,Instruments in the Clinical Setting
+MUTX 2301,Introduction to Music Therapy
+MUTX 3131,Music Therapy Practicum I
+MUTX 3132,Music Therapy Practicum II
+MUTX 3331,Music Therapy Techniques I: Observation and Measurement
+MUTX 3332,Music Therapy Techniques II: Early Childhood and Special Education
+MUTX 3360,Psychology of Music
+MUTX 4133,Music Therapy Practicum III
+MUTX 4134,Music Therapy Practicum IV
+MUTX 4189,Senior Lecture Recital
+MUTX 4333,Music Therapy Techniques III: Medical Music Therapy
+MUTX 4334,Music Therapy Techniques IV: Music Therapy in Behavioral Health
+MUTX 4350,Music Therapy Research Methods
+MUTX 4600,Internship in Music Therapy

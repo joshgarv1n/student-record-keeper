@@ -1,0 +1,87 @@
+ARCH 1198,Special Problems
+ARCH 1210,Introduction to Design Media
+ARCH 1358,Introduction to Design Culture
+ARCH 1360,Architectural Sketching I
+ARCH 1500,Design Studio I
+ARCH 1501,Architecture and Interior Architecture Design Studio II
+ARCH 2327,Technology I
+ARCH 2328,Technology 2
+ARCH 2331,Digital Vocabularies
+ARCH 2350,History of the Built Environment I
+ARCH 2351,History of the Built Environment II
+ARCH 2397,Selected Topics
+ARCH 2500,Architecture and Interior Architecture Design Studio III
+ARCH 2501,Architecture Design Studio IV
+ARCH 3111,Topics in Design History
+ARCH 3112,Topics in Design Media
+ARCH 3113,Topics in Design Practice
+ARCH 3114,Topics in Design Technology
+ARCH 3198,Independent Study
+ARCH 3211,Topics in Design History
+ARCH 3212,Topics in Design Media
+ARCH 3213,Topics in Design Practice
+ARCH 3214,Topics in Design Technology
+ARCH 3230,Programming and Building Regulations
+ARCH 3311,Topics in Design History
+ARCH 3312,Topics in Design Media
+ARCH 3313,Topics in Design Practice
+ARCH 3314,Topics in Design Technology
+ARCH 3327,Technology 3
+ARCH 3328,Technology 4
+ARCH 3332,Advanced Digital Vocabularies
+ARCH 3335,Digital Fabrication
+ARCH 3341,Contemporary Japanese Architecture
+ARCH 3342,Shape of the City
+ARCH 3343,Latin American Architecture
+ARCH 3347,Evolution of Architectural Interiors
+ARCH 3354,The Culture of Architecture
+ARCH 3358,History of Asian Arch and Art
+ARCH 3365,Architectural Research
+ARCH 3368,Sustainable Development
+ARCH 3371,Landscape, Ecology, Urbanism
+ARCH 3374,World Cities
+ARCH 3375,Arch Design for Non,Majors
+ARCH 3380,Architecture Plus Film
+ARCH 3391,Introduction to the Preservation of 20th Century Architecture
+ARCH 3392,Research and Documentation of 20th Century Architecture
+ARCH 3393,Thesis Preparation
+ARCH 3397,Selected Topics
+ARCH 3398,Independent Study
+ARCH 3500,Architecture Design Studio V
+ARCH 3501,Architecture Design Studio VI
+ARCH 4111,Advanced Topics in Design History
+ARCH 4112,Advanced Topics in Design Media
+ARCH 4113,Advanced Topics in Design Practice
+ARCH 4114,Advanced Topics in Design Technology
+ARCH 4211,Advanced Topics in Design History
+ARCH 4212,Advanced Topics in Design Media
+ARCH 4213,Advanced Topics in Design Practice
+ARCH 4214,Advanced Topics in Design Technology
+ARCH 4311,Advanced Topics in Design History
+ARCH 4312,Advanced Topics in Design Media
+ARCH 4313,Advanced Topics in Design Practice
+ARCH 4314,Advanced Topics in Design Technology
+ARCH 4321,Design of Construction Details
+ARCH 4324,High,Rise Structures
+ARCH 4325,Building Systems Integration
+ARCH 4327,Technology 5
+ARCH 4328,Technology 6 Practice of Architecture
+ARCH 4336,Graphic Realization in Design
+ARCH 4351,Readings & Criticism in Architecture
+ARCH 4354,Ideas and Buildings
+ARCH 4355,Houston Architecture
+ARCH 4367,Case Studies:Sustainable Arch
+ARCH 4373,Urban Environments
+ARCH 4375,Capitalism, Arch and the City
+ARCH 4376,Community Design Workshop
+ARCH 4390,Landscape Architecture
+ARCH 4391,Techniques for Preservation of 20th Century Architecture
+ARCH 4393,Thesis Publication
+ARCH 4397,Selected Topics
+ARCH 4398,Independent Study
+ARCH 4510,Integrated Architectural Solutions
+ARCH 5500,Architecture Design Studio IX
+ARCH 5501,Architecture Design Studio X
+ARCH 5502,Architecture Design Studio,Traveling
+ARCH 5508,Design Studio: Historic Structures and Sites
+ARCH 5593,Thesis Project

@@ -1,0 +1,4 @@
+KORE 1501,Beginning Korean I
+KORE 1502,Beginning Korean II
+KORE 2311,Intermediate Korean I
+KORE 2312,Intermediate Korean II

@@ -1,0 +1,8 @@
+BTIS 3300,Introduction to Homeland Security
+BTIS 3320,US Border Management and Policy
+BTIS 3323,Border Security and Cross,Border Challenges
+BTIS 3330,Fundamentals of Transportation Law and Border Regulations
+BTIS 4300,Customs,  Regulations, and Procedures
+BTIS 4320,Border Trade Policy
+BTIS 4325,Border Interagency Coordination
+BTIS 4397,Selected Topics in Border, Trade, Immigration, and Security

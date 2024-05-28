@@ -1,0 +1,24 @@
+MANA 3335,Introduction to Organizational Behavior and Management
+MANA 3399,Senior Honor Thesis
+MANA 4310,Behavioral Finance
+MANA 4330,Introduction to Strategic Human Resource Management
+MANA 4331,Current Issues Human Res Mgmt
+MANA 4333,Current Issues in Mgmt
+MANA 4336,Legal and Ethical Environment of HR Management
+MANA 4337,Stress and Work
+MANA 4338,Performance Management Systems
+MANA 4341,Leading Organizational Change
+MANA 4346,Leadership Development
+MANA 4347,Ethics and Corp Soc Respon.
+MANA 4348,Global Leadership
+MANA 4350,International Management
+MANA 4353,Mgmt Training and Career Devel
+MANA 4354,Equal Employment Opportunity Commission Internship
+MANA 4355,Selection and Staffing
+MANA 4356,Managing Diversity
+MANA 4358,Compensation and Benefits
+MANA 4385,Introduction to Strategic Management
+MANA 4396,Management Internship
+MANA 4397,Selected Topics in Mana
+MANA 4398,Independent Study
+MANA 4399,Senior Honor Thesis

@@ -1,0 +1,12 @@
+CNE 2211,Construction Engineering Fundamentals
+CNE 3301,Construction Safety Engineering
+CNE 3310,Construction Engineering Project Management
+CNE 3311,Construction Engineering Methods and Cost Estimating
+CNE 3322,Legal Aspects of Construction Engineering
+CNE 3333,Building Information Modeling
+CNE 4312,Construction Engineering Senior Capstone Design
+CNE 4321,Construction Engineering Estimating
+CNE 4322,Construction Engineering Best Practices
+CNE 4323,Health Care Infrastructure Design and Construction
+CNE 4325,Utility System Construction
+CNE 4326,Smart and Sustainable Urban Infrastructure

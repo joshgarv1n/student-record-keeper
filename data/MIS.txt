@@ -1,0 +1,16 @@
+MIS 3360,Systems Analysis and Design
+MIS 3370,Information Systems Development Tools
+MIS 3371,Transaction Processing Systems I
+MIS 3376,Business Applications of Database Management I
+MIS 3399,Senior Honors Thesis
+MIS 4372,Transaction Processing Systems II
+MIS 4374,Information Technology Project Management
+MIS 4378,Admin of Computer,Based MIS
+MIS 4381,Management of Information Security
+MIS 4386,Business Applications of Database Management II
+MIS 4390,Energy Trading Systems
+MIS 4396,Management Information Systems Internship
+MIS 4397,Selected Topics in Management Information Systems
+MIS 4398,Independent Study
+MIS 4399,Senior Honors Thesis
+MIS 4477,Network and Security Infrastructure

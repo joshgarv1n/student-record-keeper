@@ -1,0 +1,26 @@
+NUTR 2133,Commercial Food Production I Lab
+NUTR 2332,Introduction To Human Nutrition
+NUTR 2333,Commercial Food Production I
+NUTR 3101,Dietetics as a Profession
+NUTR 3135,Commercial Food Production II Lab
+NUTR 3320,Seminar in Nutrition Research
+NUTR 3330,Management in Food and Nutrition Systems
+NUTR 3334,Advanced Nutrition
+NUTR 3335,Commercial Food Production II
+NUTR 3336,Nutritional Pathophysiology
+NUTR 3340,Nutrition In The Life Cycle
+NUTR 4101,Dietetics as a Profession II
+NUTR 4201,Dietetics as a Profession II
+NUTR 4312,Nutrition Assessment & Planning
+NUTR 4333,Medical Nutrition Therapy,Cardiovascular
+NUTR 4334,Community Nutrition
+NUTR 4345,The Obesity Epidemic
+NUTR 4346,Research in Nutrition
+NUTR 4347,Medical Nutrition Therapy,Metabolic
+NUTR 4348,Introduction to Nutritional Counseling
+NUTR 4349,Public Policy in Nutrition
+NUTR 4351,Gerontology and Nutrition
+NUTR 4352,Child and Adolescent Nutrition
+NUTR 4353,Cultural Competency for Nutrition Professionals
+NUTR 4354,Advanced Diabetes Management and Education
+NUTR 4396,Selected Topics in Nutrition

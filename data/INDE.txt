@@ -1,0 +1,28 @@
+INDE 2331,Computer Applications for Industrial Engineers
+INDE 2333,Engineering Statistics I
+INDE 2397,Selected Topics
+INDE 3310,Statistical Process Quality Control and Improvement
+INDE 3330,Financial and Cost Management
+INDE 3333,Engineering Economy I
+INDE 3362,Computer Aided Design/ Computer Aided Manufacturing
+INDE 3364,Engineering Statistics II
+INDE 3381,Linear Optimization
+INDE 3382,Stochastic Models
+INDE 3397,Selected Topics
+INDE 3399,Senior Honors Thesis
+INDE 3432,Manufacturing Processes
+INDE 4111,Industrial Engineering Seminar
+INDE 4315,Supply Chain Design and Management
+INDE 4320,Computer Integrated Manufacturing
+INDE 4331,Analysis of Industrial Activities
+INDE 4334,Engineering Systems Design
+INDE 4337,Human Factors and Ergonomics
+INDE 4364,Big Data and Analytics
+INDE 4369,Facilities Planning and Design
+INDE 4370,Discrete Event Simulation
+INDE 4372,Operation Control
+INDE 4374,Industrial Supervision
+INDE 4388,Engineering Leadership and Entrepreneurism
+INDE 4397,Selected Topics
+INDE 4398,Independent Study
+INDE 5397,Selected Topics

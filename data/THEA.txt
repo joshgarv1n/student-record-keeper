@@ -1,0 +1,71 @@
+THEA 1111,Production
+THEA 1112,Production
+THEA 1332,Fundamentals of Theatre
+THEA 1340,Fundamentals of Acting
+THEA 2100,Theatre Education Internship
+THEA 2321,Acting IV
+THEA 2332,Voice and Movement for the Actor I
+THEA 2334,Fundamentals of Design
+THEA 2342,Dramatic Structures & Genres
+THEA 2344,American Drama
+THEA 2350,Movement for the Actor II
+THEA 2373,Costume Technology
+THEA 2380,Voice for the Actor II
+THEA 2382,Stage Management I
+THEA 2383,Stage Management II
+THEA 2390,Technical Drawing
+THEA 3283,Stage Management III
+THEA 3302,Playwriting Workshop: Realism
+THEA 3303,Playwriting Workshop: Non,Realism
+THEA 3304,Playwriting Workshop: Myth & Ritual
+THEA 3305,Playwriting Workshop: Comedy
+THEA 3308,Creative Collaboration
+THEA 3309,Performance Studies Seminar
+THEA 3320,Acting V
+THEA 3321,Acting VI
+THEA 3322,Musical Theatre for Actors
+THEA 3332,Directing I
+THEA 3333,Directing II
+THEA 3335,History of the Theatre I
+THEA 3336,History of the Theatre II
+THEA 3350,Movement for the Actor III
+THEA 3362,Costume Design for the Stage
+THEA 3364,Costume History
+THEA 3371,History of Architecture, Interiors & Decorative Arts
+THEA 3372,Digital Design Techniques
+THEA 3374,Intelligent Lighting
+THEA 3375,Costume Technology & Applied Crafts
+THEA 3376,Advanced Drafting
+THEA 3379,Stage Design for Educators
+THEA 3380,Voice for the Actor III
+THEA 3384,Scene Painting
+THEA 3385,Scenic Design
+THEA 3386,Theatre Sound Design
+THEA 3387,Lighting Design
+THEA 3388,Advanced Stagecraft
+THEA 3393,Applied Stage Management Techniques
+THEA 3399,Senior Honors Thesis
+THEA 4198,Independent Study
+THEA 4283,Seminar in Stage Management
+THEA 4297,Selected Topics
+THEA 4298,Independent Study
+THEA 4305,Theatre in Elementary & Secondary Schools
+THEA 4306,Educational Theatre & Program Management in Schools
+THEA 4307,Introduction to Educational Theatre
+THEA 4312,Entering the Entertainment Industry
+THEA 4313,Advanced Playwriting
+THEA 4320,Acting VII
+THEA 4321,Acting VIII
+THEA 4323,Dramaturgy
+THEA 4345,Dramaturgy Practicum
+THEA 4350,Movement for the Actor IV
+THEA 4352,Senior Project Capstone
+THEA 4367,Costume Cutting and Draping
+THEA 4380,Voice for the Actor IV
+THEA 4390,Acting Showcase: Capstone
+THEA 4393,Theatre Management
+THEA 4397,Drama Workshop
+THEA 4398,Independent Study
+THEA 4399,Senior Honors Thesis
+THEA 4600,Advanced Theatre Education Internship
+THEA 4693,Professional Stage Management Internship

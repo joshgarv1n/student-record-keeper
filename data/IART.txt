@@ -1,0 +1,5 @@
+IART 1300,The Arts in Society
+IART 2300,The Arts in Houston
+IART 3300,Introduction to Interdisciplinary Art
+IART 3395,Selected Topics in Interdisciplinary Arts
+IART 4300,Collaboration Among the Arts

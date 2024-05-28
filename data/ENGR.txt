@@ -1,0 +1,4 @@
+ENGR 1304,Engineering Graphics
+ENGR 2301,Mechanics I (Statics)
+ENGR 2405,Circuit Analysis
+ENGR 2406,Fundamentals of Digital Logic

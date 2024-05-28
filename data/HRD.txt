@@ -1,0 +1,11 @@
+HRD 3310,Talent Management
+HRD 3340,Principles of Human Resource Development
+HRD 3346,Performance Assessment & Evaluation
+HRD 3350,Workforce Diversity and Globalization
+HRD 3351,Instructional Design for Human Resource Development
+HRD 4301,Global Leadership in Training and Development
+HRD 4344,Designing E,Learning Applications
+HRD 4350,Organization Development & Consulting
+HRD 4352,Facilitation Strategies
+HRD 4396,Internship in Human Resource Development
+HRD 4397,Selected Topics in Human Resources Development

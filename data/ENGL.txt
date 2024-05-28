@@ -1,0 +1,100 @@
+ENGL 1301,First Year Writing I
+ENGL 1302,First Year Writing II
+ENGL 1370,Freshman Composition II,Honors
+ENGL 2305,Intro To Fiction
+ENGL 2306,Intro To Poetry
+ENGL 2307,Intro To Drama
+ENGL 2308,Studies in Non,Fiction Writing
+ENGL 2314,Literature and 21st Century Identities
+ENGL 2315,Literature and Film
+ENGL 2316,Literature and Culture
+ENGL 2318,Creation and Performance of Literature
+ENGL 2320,Introduction to Digital Humanities
+ENGL 2321,Writing, Technology, and Social Media
+ENGL 2322,British Literature I
+ENGL 2323,British Literature II
+ENGL 2324,Writing the Arts and Visual Media
+ENGL 2325,Lit Trad of Nonwestern World
+ENGL 2330,Writing in the Discipline of English
+ENGL 2332,Western World Literature I
+ENGL 2333,Western World Literature II
+ENGL 2340,Cosmic Narratives
+ENGL 2350,Writing the Global City
+ENGL 2360,Western World Lit I,,Honors
+ENGL 2361,Western World Lit II,,Honors
+ENGL 3300,Ancient & Classical Lit
+ENGL 3301,Intro To Literary Studies
+ENGL 3302,Medieval Literature
+ENGL 3304,Chaucer
+ENGL 3305,English Renaissance
+ENGL 3306,Shakespeare,Major Works
+ENGL 3309,Renaissance Drama
+ENGL 3312,Lit,Restoratn&18Th Cen
+ENGL 3313,Restor and 18Th Cen Dra
+ENGL 3315,The Romantic Movement
+ENGL 3316,Lit of Victorian Age
+ENGL 3317,The British Novel Before 1832
+ENGL 3318,The British Novel Since 1832
+ENGL 3321,Modern British Lit
+ENGL 3322,Contemporary Novel
+ENGL 3323,Developmnt of Literary Criticism and Theory
+ENGL 3324,The Development of the Novel
+ENGL 3325,Structures of Poetry
+ENGL 3327,Masterpieces of British Literature to the Eighteenth Century
+ENGL 3328,Masterpieces of British Literature from the Eighteenth Century
+ENGL 3329,Beginning Creative Writing: Fiction and Poetry
+ENGL 3330,Beginning Creative Writing: Fiction
+ENGL 3331,Beginning Creative Writing: Poetry
+ENGL 3332,Beginning Creative Writing: Nonfiction
+ENGL 3339,Student Literary Journal Practicum
+ENGL 3340,Advanced Composition
+ENGL 3341,Bus & Prof Writing
+ENGL 3343,Advanced Composition: Style
+ENGL 3345,Nobel Prize Winners in Lit
+ENGL 3347,Classics of Adolescent Literature
+ENGL 3348,Thoreau
+ENGL 3349,Native American Literature
+ENGL 3350,American Literature to 1865
+ENGL 3351,Am Lit Since 1865
+ENGL 3352,19th Century American Fiction
+ENGL 3353,Modern American Fiction
+ENGL 3354,Contemp Amer Fiction
+ENGL 3358,Hong Kong Cinema
+ENGL 3360,Survey of African,American Lit
+ENGL 3361,Mexican American Lit
+ENGL 3362,Women in Literature
+ENGL 3363,African,American Fiction
+ENGL 3364,African,Am Poetry and Drama
+ENGL 3365,Postcolonial Literature
+ENGL 3366,Jewish,American Literature
+ENGL 3367,Gay and Lesbian Literature
+ENGL 3368,Topics in Asian American Literary Studies
+ENGL 3369,Caribbean Literatures
+ENGL 3370,Modern Irish Literature
+ENGL 3371,Contemporary Irish Literature
+ENGL 3379,African Literature
+ENGL 3380,Modern Indian Literature
+ENGL 3396,Selected Topics
+ENGL 3399,Senior Honors Thesis
+ENGL 4300,Intro,Study of Language
+ENGL 4303,Teaching English as a Second Language
+ENGL 4304,Varieties of English
+ENGL 4310,His of English Language
+ENGL 4311,Language Socialization
+ENGL 4315,Sociolinguistics
+ENGL 4319,English in the Secondary Schools
+ENGL 4322,Grammar & Usage
+ENGL 4330,European Renaissance
+ENGL 4332,Modern and Contemporary Poetry
+ENGL 4340,Feminist Criticism and Theory
+ENGL 4341,Queer Theory
+ENGL 4342,Gender and Writing
+ENGL 4343,Writing Houston: Reading and Researching Our City
+ENGL 4352,Nonfiction Writing
+ENGL 4357,Nonfiction Forms
+ENGL 4358,Senior Writing Projects in Creative Writing: Nonfiction
+ENGL 4360,Bible As Literature
+ENGL 4364,Minorities in Lit
+ENGL 4366,Intro To Folklore
+ENGL 4367,Documenting Community Culture
+ENGL 4370,Literature and the Law

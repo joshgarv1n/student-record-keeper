@@ -1,0 +1,9 @@
+AFSC 1201,Foundations of the USAF I
+AFSC 1202,Foundations of the USAF II
+AFSC 2201,Evolution of Air Power I
+AFSC 2202,Evolution of Air Power II
+AFSC 3301,Air Force Leadership Studies I
+AFSC 3302,Air Force Leadership Studies II
+AFSC 3801,Field Training
+AFSC 4301,National Security Affairs I
+AFSC 4302,National Security Affairs II

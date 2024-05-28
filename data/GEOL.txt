@@ -1,0 +1,78 @@
+GEOL 1102,Introduction to Climate Change Laboratory
+GEOL 1103,Physical Geology Lab
+GEOL 1104,Historical Geology Lab
+GEOL 1147,Introductory Meteorology Laboratory
+GEOL 1197,Selected Topics Geosciences
+GEOL 1302,Intro To Global Climate Change
+GEOL 1303,Physical Geology
+GEOL 1304,Historical Geology
+GEOL 1340,Earth Systems
+GEOL 1345,Introduction to Oceanography
+GEOL 1347,Introduction To Meteorology
+GEOL 1370,Natural Disasters
+GEOL 1397,Selected Topics,Geosciences
+GEOL 3130,Paleobiology Laboratory
+GEOL 3145,Strctrl Geology Lab
+GEOL 3150,Principles of Stratigraphy Laboratory
+GEOL 3178,Weather Information
+GEOL 3325,Rocks and Minerals
+GEOL 3330,Paleobiology
+GEOL 3331,Environmental Geology
+GEOL 3332,Geology of U.S. National Parks and Monuments
+GEOL 3334,Earthquakes
+GEOL 3338,Environmental Hydrogeology
+GEOL 3340,Geologic Field Methods
+GEOL 3342,Principles of Air Pollution
+GEOL 3344,Paleoclimatology
+GEOL 3345,Structural Geology
+GEOL 3350,Stratigraphy
+GEOL 3355,Field Geology I
+GEOL 3357,Soils
+GEOL 3360,Field Geology II
+GEOL 3370,Mineralogy
+GEOL 3372,Petrography
+GEOL 3373,Igneous and Metamorphic Petrogenesis
+GEOL 3374,Sedimentary Petrogenesis
+GEOL 3377,Oceanography
+GEOL 3378,Principles of Atmospheric Science
+GEOL 3380,Physical Meteorology
+GEOL 3381,Micrometeorology
+GEOL 3382,Atmospheric Chemistry
+GEOL 3383,Remote Sensing
+GEOL 3396,Senior Research Project
+GEOL 3399,Senior Honors Thesis
+GEOL 4198,Independent Study
+GEOL 4330,Intro To Geophysics
+GEOL 4331,Geospatial Analysis and Applications
+GEOL 4332,Applications of GPS & LIDAR
+GEOL 4333,Mesoscale Meteorology
+GEOL 4334,Environmental Data Analysis
+GEOL 4335,Numerical Modeling in Atmospheric Sciences
+GEOL 4336,Atmospheric Radiation
+GEOL 4337,Physical Volcanology
+GEOL 4338,Advanced Climate Change
+GEOL 4340,Aerosols and Climate
+GEOL 4341,Dynamic Meteorology
+GEOL 4342,Deep Learning for Big Data in Environmental Science
+GEOL 4343,Atmospheric Instrumentation
+GEOL 4346,Air Pollution Meteorology
+GEOL 4347,Atmospheric Biogeochemistry
+GEOL 4348,Remote Sensing for Atmospheric Science
+GEOL 4350,Geomorphology
+GEOL 4355,Geophysical Field Camp
+GEOL 4358,Introduction to Depositional Models
+GEOL 4365,Environmental Geochemistry
+GEOL 4367,Geochemical Reaction Modeling
+GEOL 4370,Global Seismology
+GEOL 4371,Electromagnetic Methods for Energy, Groundwater, and Environmental Applications
+GEOL 4378,Data Analytics and Machine Learning for Geoscientists
+GEOL 4379,Groundwater and Engineering Geophysics
+GEOL 4381,Geophysical Signals and Analysis
+GEOL 4382,Introduction to Petroleum Geology
+GEOL 4383,Elements of Reservoir Geophysics
+GEOL 4385,Introduction to Marine Geophysics
+GEOL 4386,Petroleum Geoscience for Petroleum Engineers
+GEOL 4396,Senior Research Project
+GEOL 4397,Selected Topics,Geology
+GEOL 4398,Independent Study
+GEOL 4399,Senior Honors Thesis

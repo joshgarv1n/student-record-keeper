@@ -1,0 +1,49 @@
+ECON 2301,Principles of Macroeconomics
+ECON 2302,Principles of Microeconomics
+ECON 3320,Introduction to Economic Data Analysis
+ECON 3332,Intermediate Microeconomics
+ECON 3334,Intermediate Macroeconomics
+ECON 3340,Comparative Economic Systems
+ECON 3341,Russian and Chinese Transformation
+ECON 3342,Global Issues in Economic Development
+ECON 3344,History of Economic Doctrine
+ECON 3347,Capital Market Economics
+ECON 3348,Food, Population, Agriculture and the Environment
+ECON 3350,American Economic Growth
+ECON 3351,The Economics of Development
+ECON 3357,Data Management with Economic Applications
+ECON 3361,Economics of Globalization
+ECON 3362,Mathematics for Economics
+ECON 3363,Environmental Economics
+ECON 3365,Labor Economics
+ECON 3368,Economics of Health Care
+ECON 3370,Introduction To Econometrics
+ECON 3371,Economics of Money & Banking
+ECON 3377,Economics of Public Finance
+ECON 3385,Economics of Energy
+ECON 3389,Topics in Contemporary Economics I
+ECON 3399,Senior Honors Thesis
+ECON 4198,Independent Study
+ECON 4298,Independent Study
+ECON 4321,Economic Analysis of U.S. Legal System
+ECON 4331,Economics of Gender
+ECON 4335,Economic Growth Theory
+ECON 4338,Regression Causal Modeling and Social Science Data Mining
+ECON 4345,Social Economics
+ECON 4349,Introduction To Game Theory
+ECON 4360,Intro,Mathematical Economics
+ECON 4363,Political Economy
+ECON 4368,International Monetary Economics
+ECON 4370,International Trade
+ECON 4372,Economics of Education
+ECON 4373,Economics of Financial Crises
+ECON 4374,Behavioral Economics
+ECON 4376,Industrial Organization
+ECON 4377,Urban Economics
+ECON 4378,Chinese Economy
+ECON 4385,Monetary Policy
+ECON 4389,Topics in Contemporary Economics II
+ECON 4390,Economics Internship
+ECON 4395,Selected Topics in Applied Econometrics
+ECON 4398,Independent Study
+ECON 4399,Senior Honors Thesis

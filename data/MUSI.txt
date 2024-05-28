@@ -1,0 +1,93 @@
+MUSI 1000,Freshman Seminar
+MUSI 1100,Marching Band
+MUSI 1102,Wind Ensemble
+MUSI 1103,Cougar Brass
+MUSI 1110,Jazz Orchestra
+MUSI 1116,Aural Skills I
+MUSI 1117,Aural Skills II
+MUSI 1120,University Chorus
+MUSI 1121,Concert Chorus
+MUSI 1122,Concert Chorale
+MUSI 1140,Orchestra
+MUSI 1160,Italian and English Diction
+MUSI 1181,Group Piano I
+MUSI 1182,Group Piano II
+MUSI 1220,Class Piano I
+MUSI 1301,Rudiments of Theory
+MUSI 1303,Fundamentals of Music
+MUSI 1307,Listening to Classical Music
+MUSI 1311,Music Theory I
+MUSI 1312,Music Theory II
+MUSI 2116,Aural Skills III
+MUSI 2117,Aural Skills IV
+MUSI 2121,Jazz Improvisation I: Fundamentals
+MUSI 2122,Jazz Improvisation II: Intermediate Improvisation
+MUSI 2160,German Diction
+MUSI 2161,French Diction
+MUSI 2181,Group Piano III
+MUSI 2182,Group Piano IV
+MUSI 2188,Keyboard Skills and Collaborative Techniques
+MUSI 2210,Theory III
+MUSI 2214,Techniques of Music Since 1900
+MUSI 2302,Listening to Jazz
+MUSI 2361,Music and Culture
+MUSI 2362,History of Music I
+MUSI 3110,Jazz Improvisation
+MUSI 3123,Jazz Improvisation III: Advanced Jazz Concepts
+MUSI 3160,Adv Sightrding for Kybrd Plyrs
+MUSI 3215,Introduction To Large Forms
+MUSI 3216,Analysis
+MUSI 3218,Advanced Jazz Theory
+MUSI 3240,Organ Literature
+MUSI 3241,Organ Literature
+MUSI 3261,Keyboard Harmony
+MUSI 3301,Listening To World Music
+MUSI 3303,Pop Music of Americas Sn 1840
+MUSI 3363,History of Music II
+MUSI 3364,History of Music III
+MUSI 3399,Senior Honors Thesis
+MUSI 4100,Chamber Music
+MUSI 4102,Acting for Opera
+MUSI 4104,New Music Ensemble
+MUSI 4112,Chamber Music,Woodwinds
+MUSI 4114,Chamber Music,Brass
+MUSI 4120,Percussion Ensemble
+MUSI 4122,Electronic Composition
+MUSI 4160,Internship in Piano Teaching I
+MUSI 4161,Internship in Piano Teaching II
+MUSI 4197,Selected Topics in Music
+MUSI 4198,Independent Study
+MUSI 4210,Jazz Pedagogy and Conducting
+MUSI 4220,Choral Conducting I
+MUSI 4230,Instrumental Conducting I
+MUSI 4250,Performance Pedagogy
+MUSI 4251,Advanced Performance Pedagogy
+MUSI 4298,Independent Study
+MUSI 4301,Modal Counterpoint
+MUSI 4302,Eighteenth Century Counterpoint
+MUSI 4304,Chromatic Harmony
+MUSI 4307,Analysis of Rhythm and Meter
+MUSI 4312,Orchestration
+MUSI 4317,Analysis of Jazz and Popular Music
+MUSI 4330,Advanced Instrumental Conducting
+MUSI 4342,Music for Children
+MUSI 4357,Music in the Seventeenth Century
+MUSI 4358,Music of Bach and Handel
+MUSI 4360,Haydn, Mozart, Beethoven, and the Classical Style
+MUSI 4361,Music of the Romantic Period I (1800,1848)
+MUSI 4363,Music of the Romantic Period II (1848,1914)
+MUSI 4364,Music in the Twentieth Century I
+MUSI 4365,Contemporary Concert Music
+MUSI 4366,Music in the United States
+MUSI 4370,Art Song Repertoire
+MUSI 4371,Analysis of Art Song
+MUSI 4378,History of Jazz I
+MUSI 4379,History of Jazz II
+MUSI 4380,Opera Literature
+MUSI 4382,Symphonic Music
+MUSI 4386,Choral Literature
+MUSI 4388,Piano Literature I
+MUSI 4389,Piano Literature II
+MUSI 4397,Selected Topics in Music
+MUSI 4398,Independent Study
+MUSI 4399,Senior Honors Thesis

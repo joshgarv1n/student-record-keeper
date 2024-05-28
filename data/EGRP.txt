@@ -1,0 +1,15 @@
+EGRP 1120,Design Laboratory
+EGRP 1121,Design Laboratory II
+EGRP 1130,Engineering Applications I
+EGRP 1131,Engineering Applications II
+EGRP 1140,Engineering Applications III
+EGRP 1141,Engineering Applications IV
+EGRP 1142,Engineering Applications V
+EGRP 1150,Engineering Applications VI
+EGRP 1151,Engineering Applications VII
+EGRP 1165,Engineering Workshop
+EGRP 1170,Engineering Applications IX
+EGRP 1180,Engineering Applications X
+EGRP 1181,Engineering Applications XI
+EGRP 1182,Engineering Applications XII
+EGRP 1183,Engineering Applications XIII

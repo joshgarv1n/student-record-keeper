@@ -1,0 +1,33 @@
+CNST 1301,Construction Materials and Methods
+CNST 1315,Project Drawings & Graphics
+CNST 1325,Process and Industrial Construction
+CNST 1330,Graphics I
+CNST 1361,Construction Management I
+CNST 2321,Mechanical and Electrical Systems
+CNST 2325,Process and Industrial Subsystems
+CNST 2341,Construction Documents
+CNST 2345,Contract Documents for Capital Projects
+CNST 2351,Construction Estimating I
+CNST 2360,Effective Communication in Construction
+CNST 3155,Construction Materials and Testing
+CNST 3185,Construction Experience
+CNST 3205,Construction Safety Management
+CNST 3210,Safety for Industrial Projects
+CNST 3265,Construction Layout and Site Development
+CNST 3301,Construction Equipment and Methods
+CNST 3331,Construction Planning and Scheduling
+CNST 3351,Construction Estimating II
+CNST 3355,Strength of Construction Materials
+CNST 3365,Cost Estimating Capital Projects
+CNST 3372,Soil Mechanics and Foundations
+CNST 4198,Special Problems
+CNST 4220,Comprehensive Construction Management and Emerging Practices
+CNST 4302,Construction Law and Ethics
+CNST 4311,Structural Steel and Timber Construction
+CNST 4315,Steel Construction
+CNST 4331,Construction Management II
+CNST 4335,Capital Projects Development
+CNST 4341,Project Controls
+CNST 4345,Reinforced Concrete Structures
+CNST 4381,Reinforced Concrete and Building Codes
+CNST 4385,Field Operations for Capital Projects

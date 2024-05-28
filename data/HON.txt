@@ -1,0 +1,53 @@
+HON 2101,The Human Situation:Modernity
+HON 2301,The Human Situation: Antiquity
+HON 2341,Classics of Modernity
+HON 2397,Selected Topics
+HON 3132,Mapping Success
+HON 3300,Introduction to Healthcare Systems
+HON 3301,Readings in Medicine & Society
+HON 3302,Readings in Public Health & Community Medicine
+HON 3303,Readings in Mental Health & Society
+HON 3304,Material Cultures of Medicine
+HON 3305,Medicine in Performance
+HON 3306,Health and Human Rights
+HON 3307,Narrative Medicine
+HON 3308,Lyric Medicine
+HON 3309,Introduction to Health Professions
+HON 3310,Creativity at Work
+HON 3311,Creative Cities
+HON 3312,Immersion Journalism
+HON 3313,Nations and Imaginations
+HON 3330,Leadership Theory and Practice
+HON 3331,Introduction to Civic Engagement
+HON 3332,Mapping Success
+HON 3335,Leadership: The Classic Texts
+HON 3341,Medicine, Science & Technology in the Pre,Modern World
+HON 3342,Medicine, Science & Technology in Modern World
+HON 3350,Principles of Data and Society
+HON 3360,Principles and Practices of Global Engagement
+HON 3361,Global Engagement and Research
+HON 3371,Russian Imperial History
+HON 3373,Heterodoxy: An Intellectual History
+HON 3374,History & Politics of the Hebrew Bible
+HON 3375,Law & Ethics in the Ancient Near East
+HON 3376,Constitutional Cases & Controversies
+HON 3377,American Legal History: Civil War to Civil Rights
+HON 3378,Writing the Nation: Antebellum America
+HON 3390,The Lence Seminar
+HON 3396,Senior Research Project
+HON 3397,Honors Selected Topics
+HON 3399,Senior Honors Thesis
+HON 4130,E,Portfolio
+HON 4198,Independent Study
+HON 4298,Independent Study
+HON 4310,City Dionysia
+HON 4315,Artists at Work
+HON 4330,Narratives in the Professions
+HON 4350,Data and Society in Practice
+HON 4355,Engaged Data
+HON 4390,Antiquity Revisited
+HON 4391,Modernity Revisited
+HON 4396,Senior Research Project
+HON 4397,Honors Selected Topics
+HON 4398,Independent Study
+HON 4399,Senior Honors Thesis

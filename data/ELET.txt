@@ -1,0 +1,52 @@
+ELET 1400,Circuit Theory and Lab I
+ELET 1401,Circuit Theory and Laboratory II
+ELET 2101,Poly,Phase Circuits and Transformers Laboratory
+ELET 2103,Digital Systems Laboratory
+ELET 2105,Semiconductor Devices and Circuits Laboratory
+ELET 2300,Introduction To C++ Programming
+ELET 2301,Poly,phase Circuits and Transformers
+ELET 2303,Digital Systems
+ELET 2305,Semiconductor Devices and Circuits
+ELET 2307,Electrical,Electronic Circuits
+ELET 3107,Electrical Mach & Control Lab
+ELET 3112,Rotating Machine Controls Laboratory
+ELET 3300,Applied Mathematics in Engineering Technology
+ELET 3301,Linear Systems Analysis
+ELET 3307,Electrical Machines & Controls
+ELET 3312,Programmable Logic Controllers & Motor Control Systems
+ELET 3402,Communications Circuits
+ELET 3403,Sensor Applications
+ELET 3405,Microprocessor Architecture
+ELET 3425,Embedded Systems
+ELET 4103,Power Distribution and Transmission Lab
+ELET 4105,Senior Design Lab in Electrical Power Engineering Technology
+ELET 4126,Power Converter Circuits Laboratory
+ELET 4198,Independent Study
+ELET 4208,Senior Project Laboratory
+ELET 4300,Unix Operating System
+ELET 4302,Data Communication Systems
+ELET 4303,Computer,Based Power Distribution and Transmission
+ELET 4304,Control Systems
+ELET 4305,Senior Design in Electrical Power Engineering Technology
+ELET 4308,Senior Project
+ELET 4309,Object,Oriented Applications Programming
+ELET 4310,Alternative Electrical Energy Sources
+ELET 4315,Telecommunications
+ELET 4317,Computer,Based Electrical System Protection and Safety
+ELET 4319,Electrical Power Systems and Industry Practices
+ELET 4325,Advanced Microcomputer Networks
+ELET 4326,Power Converter Circuits
+ELET 4327,Optical Circuits
+ELET 4332,Physiological Systems Modeling and Simulation
+ELET 4345,The Principles and Applications of Fuel Cell Technology
+ELET 4350,Overview of Computational Health Informatics
+ELET 4351,Biomedical Data Mining
+ELET 4352,Computational Tools for Technology
+ELET 4353,Statistics for Engineering Technology
+ELET 4354,Biomedical Image Analysis
+ELET 4355,Biomedical Signal Analysis
+ELET 4356,Information Visualization in Engineering Technology
+ELET 4360,Sustainable and Resilient Technology Development
+ELET 4397,Selected Topics in Elet
+ELET 4398,Independent Study
+ELET 4421,Computer Networks

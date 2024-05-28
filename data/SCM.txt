@@ -1,0 +1,16 @@
+SCM 3301,Supply Chain Management Fundamentals
+SCM 3399,Senior Honors Thesis
+SCM 4301,Logistics Management
+SCM 4302,Energy Supply Chain
+SCM 4311,Project Management
+SCM 4330,Business Modeling and Decision Analysis
+SCM 4350,Strategic Supply Management
+SCM 4351,Strategic Sourcing and Spend Analysis
+SCM 4362,Demand and Supply Integration
+SCM 4367,Process and Quality Management
+SCM 4380,Enterprise Resource Planning
+SCM 4385,Supply Chain Analytics
+SCM 4390,Supply Chain Strategy
+SCM 4397,Selected Topics in Supply Chain Management
+SCM 4398,Independent Study
+SCM 4399,Senior Honors Thesis

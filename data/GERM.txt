@@ -1,0 +1,49 @@
+GERM 1303,Basic German I
+GERM 1304,Basic German II
+GERM 1501,Beginning German I
+GERM 1502,Beginning German II
+GERM 1803,Accelerated Beginning German
+GERM 2111,Intrmediate Convrs Ger
+GERM 2112,Intrmediate Convrs Ger
+GERM 2311,Intermediate German I
+GERM 2312,Intermediate German II
+GERM 2398,Independent Study
+GERM 3111,Adv Conversatnl German
+GERM 3112,Adv Conversatnl German
+GERM 3198,Independent Study
+GERM 3329,Introduction to Translation
+GERM 3330,Reading German Texts
+GERM 3331,Intro To German Literature I
+GERM 3332,Intro To German Literature II
+GERM 3333,Ger Conversatn&Composit
+GERM 3334,Ger Conversatn&Composit
+GERM 3350,20Th C Thru German Culture
+GERM 3362,Paris,Berlin: Tales of Two Cities
+GERM 3363,Themes in German Drama
+GERM 3364,Writing Holocausts
+GERM 3369,World War I in Literature, Visual Arts, and Film
+GERM 3380,Ger Women Film Directors
+GERM 3381,History of German Cinema
+GERM 3384,Fascism and German Cinema
+GERM 3385,East German Cinema
+GERM 3386,Films of Fassbinder
+GERM 3387,Films of Herzog
+GERM 3388,Films of Wenders
+GERM 3395,Topic in German Cinema
+GERM 3397,Top,Ger Lng,Cul,Civ&Lit
+GERM 3398,Independent Study
+GERM 3399,Senior Honors Thesis
+GERM 4329,Adv German Translation
+GERM 4356,Romanticism
+GERM 4357,German Literature 1890,1945
+GERM 4358,German Literature Since 1945
+GERM 4359,German Cultural History III:  Germany Since Reunification
+GERM 4361,Advanced Writing and Reading Across Disciplines
+GERM 4370,Vienna 1900,The Birth of the Modern
+GERM 4371,Techniques of Teaching Foreign Languages
+GERM 4373,German Cultural History I: From the Beginnings to World War I
+GERM 4374,German Cultural History II: The Twentieth Century
+GERM 4391,Professional Practicum in a German,Speaking Country
+GERM 4397,Selected Topics in German Language and Literature
+GERM 4398,Independent Study
+GERM 4399,Senior Honors Thesis

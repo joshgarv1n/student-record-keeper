@@ -1,0 +1,31 @@
+MARK 3336,Introduction to Marketing
+MARK 3337,Professional Selling
+MARK 3338,Introduction to Marketing Analytics
+MARK 3365,Introduction to Digital Marketing
+MARK 3399,Senior Honor Thesis
+MARK 4197,Selected Topics in Marketing
+MARK 4198,Independent Study
+MARK 4298,Independent Study
+MARK 4332,Social Media Marketing
+MARK 4333,Search Engine Marketing
+MARK 4334,Digital Marketing Agency
+MARK 4338,Marketing Research
+MARK 4339,Marketing Analytics
+MARK 4362,Applied Buyer Behavior
+MARK 4363,International Marketing
+MARK 4367,Advertising and Promotion Mgt
+MARK 4368,Pricing
+MARK 4373,Advanced Professional Selling
+MARK 4374,Sales Management
+MARK 4375,Key Account Selling
+MARK 4376,Sales CRM
+MARK 4377,Sales for Social Impact
+MARK 4378,Selling Financial Services
+MARK 4379,Personal Branding
+MARK 4380,Digital Selling
+MARK 4389,Marketing Strategy and Planning
+MARK 4390,Marketing for Non,Profit Orgs
+MARK 4396,Marketing Internship
+MARK 4397,Selected Topics in Mkt
+MARK 4398,Independent Study
+MARK 4399,Senior Honor Thesis

@@ -1,0 +1,26 @@
+CLAS 2366,Who Owns Antiquity? The Battle over our Cultural Heritage
+CLAS 3307,Greek & Roman Myths of Heroes
+CLAS 3308,Myths & Cult of the Greek Gods
+CLAS 3341,The Roman Republic
+CLAS 3345,Myth&Performance in Greek Trag
+CLAS 3350,Law and Society in Ancient Rome
+CLAS 3366,Greek Art and Archaeology: In Search of the Trojan War
+CLAS 3371,Ancient Comedy & Its Influence
+CLAS 3373,Ancient Satire & Its Influence
+CLAS 3374,Women in the Ancient World
+CLAS 3375,Roman, Jew, and Christian
+CLAS 3380,Epic Masculinity
+CLAS 3381,From Homer To Hollywood
+CLAS 3397,Sel Topics Gr & Rom Civ
+CLAS 3398,Independent Study
+CLAS 3399,Senior Honors Thesis
+CLAS 4305,Fifth,Century Athens: Readings in Intellectual, Literary, and Political History
+CLAS 4350,Age of Augustus
+CLAS 4353,Classics and Modernity:The Uses of Antiquity in Modern & Postmodern Contexts
+CLAS 4370,Comparative Epic
+CLAS 4374,Sex and Gender in Antiquity
+CLAS 4375,Gender and Race in Greek Myths
+CLAS 4380,Greek Classics in Translation
+CLAS 4381,Latin Classics in Translation
+CLAS 4398,Independent Study
+CLAS 4399,Senior Honors Thesis

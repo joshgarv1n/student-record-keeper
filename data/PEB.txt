@@ -1,0 +1,14 @@
+PEB 1101,Fitness and Health
+PEB 1102,Indoor Cycling
+PEB 1107,Hatha Yoga
+PEB 1120,Beginning Swimming
+PEB 1130,Golf
+PEB 1135,Beginning Karate
+PEB 1144,Basketball
+PEB 1146,Soccer
+PEB 1149,Beginning Volleyball
+PEB 1151,Weight Training
+PEB 1152,Fitness & Weight Control
+PEB 1153,Conditioning
+PEB 1154,Rhythmic Aerobics
+PEB 4197,Selected Topics

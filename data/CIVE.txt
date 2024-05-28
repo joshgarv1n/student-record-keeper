@@ -1,0 +1,23 @@
+CIVE 2332,Mechanics of Solids
+CIVE 2397,Selected Topics
+CIVE 3331,Environmental Engineering
+CIVE 3332,Engineering Materials
+CIVE 3337,Structural Analysis
+CIVE 3339,Geotechnical Engineering
+CIVE 3380,Fundamentals of Plane Surveying
+CIVE 3397,Selected Topics
+CIVE 3434,Fluid Mechanics and Hydraulic Engineering
+CIVE 4311,Professional Practice in Civil Engineering
+CIVE 4312,Civil Engineering Capstone Design Project
+CIVE 4332,Hydrology
+CIVE 4333,Water and Wastewater Treatment
+CIVE 4337,Transportation Engineering
+CIVE 4363,Concrete Design
+CIVE 4364,Structural Steel Design
+CIVE 4369,Foundation Engineering
+CIVE 4381,Satellite,based Geomatics and Geosensing
+CIVE 4397,Selected Topics
+CIVE 4398,Independent Study
+CIVE 5362,Water Quality Engineering
+CIVE 5388,Hazardous Waste Processes
+CIVE 5397,Selected Topics

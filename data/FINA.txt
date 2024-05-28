@@ -1,0 +1,44 @@
+FINA 3332,Principles of Financial Management
+FINA 4310,Behavioral Finance
+FINA 4320,Investment Management
+FINA 4323,Investments and Mutual Fund Management
+FINA 4325,Retirement and Estate Planning
+FINA 4326,Private Equity and Investment Banking
+FINA 4328,Principles of Personal Finance
+FINA 4329,Life Insurance and Annuities
+FINA 4330,Corporate Finance
+FINA 4334,Managerial Analysis
+FINA 4335,Brainstorming to Bankrolling
+FINA 4336,Consulting to Meet Small Business Needs
+FINA 4341,Commercial Bank Management
+FINA 4342,Financial Evaluation of Corporate Reports
+FINA 4343,Credit Analysis
+FINA 4350,Derivatives I: Options
+FINA 4351,Derivatives II: Forwards, Futures and Swaps
+FINA 4352,Financial Planning for Professionals
+FINA 4353,Practicum in Personal Financial Planning
+FINA 4354,Risk Management
+FINA 4355,International Risk Management
+FINA 4356,Insurance Operations
+FINA 4357,Commercial Liability
+FINA 4358,Commercial Property
+FINA 4359,Energy Insurance and Risk Management
+FINA 4360,International Financial Management
+FINA 4370,Energy Trading
+FINA 4371,Energy Value Chain
+FINA 4372,Upstream Economics
+FINA 4373,Petrochemical and Refining Economics
+FINA 4374,Energy Analysis
+FINA 4376,Energy Trading Systems
+FINA 4377,Risk Financing
+FINA 4380,Real Estate Finance and Investment
+FINA 4381,Essentials of Real Estate Principles
+FINA 4382,Developing a Real Estate Project
+FINA 4383,Real Estate Market Research and Valuation
+FINA 4384,Real Estate Financial Modeling
+FINA 4385,Mastery of Real Estate
+FINA 4389,Multifamily Real Estate
+FINA 4396,Finance Internship
+FINA 4397,Selected Topics in Finance
+FINA 4398,Independent Study
+FINA 4399,Senior Honor Thesis

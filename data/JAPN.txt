@@ -1,0 +1,5 @@
+JAPN 1501,Elementary Japanese I
+JAPN 1502,Elementary Japanese II
+JAPN 2311,Intermediate Japanese I
+JAPN 2312,Intermediate Japanese II
+JAPN 2502,Intermediate Japanese II

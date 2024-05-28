@@ -1,0 +1,14 @@
+INDI 2397,Selected Topics in India Studies
+INDI 3355,Yoga and Philosophy
+INDI 3356,Comparative Modernisms: The Global South
+INDI 3372,Indian Film: Bollywood and Beyond
+INDI 3378,Debating India and the World
+INDI 3379,Media & Post,Millennial Writings in India
+INDI 3380,Sociology of India
+INDI 3381,Genders and Sexualities in South Asia and India
+INDI 3382,Seeing South Asia:Visual Cultures in India and Beyond
+INDI 3383,India and South Asia in Diaspora
+INDI 3397,Selected Topics in India Studies
+INDI 3398,Independent Study
+INDI 4397,Selected Topics in India Studies
+INDI 4398,Independent Study

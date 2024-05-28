@@ -1,0 +1,31 @@
+TLIM 3300,Leadership and Innovation Fundamentals
+TLIM 3330,Innovation Principles
+TLIM 3331,Innovation Development
+TLIM 3340,Organizational Leadership and Supervision
+TLIM 3345,Human Resources in Technology
+TLIM 3346,Wage & Salary Administration
+TLIM 3350,Emergency Management Principles
+TLIM 3355,Project Management Principles
+TLIM 3360,Law and Ethics in Technology & Innovation
+TLIM 3363,Technical Communications
+TLIM 3365,Team Leadership
+TLIM 3371,Budgeting and Financial Principles
+TLIM 3372,Communicatn in Sci,Engr & Tech
+TLIM 4198,Independent Study
+TLIM 4298,Independent Study
+TLIM 4335,Communicating Innovation
+TLIM 4340,Commercializing Innovation
+TLIM 4341,Production & Service Operation
+TLIM 4342,Quality Improvement Methods
+TLIM 4348,Supervisor,Empl Relationships
+TLIM 4349,Organizational Dynamics
+TLIM 4350,Occupational Safety & Environmental Health
+TLIM 4371,Leading Change in the Wrkplace
+TLIM 4372,Proposal and Project Writing
+TLIM 4377,Practicum in Tech Ldshp & Sup
+TLIM 4378,Senior Project
+TLIM 4390,Current Issues in Leadership and Innovation
+TLIM 4396,Internship in Technology Leadership and Innovation Management
+TLIM 4397,Selected Topics in Technology Leadership and Innovation Management
+TLIM 4398,Independent Study
+TLIM 5363,Fundamental Written Communications

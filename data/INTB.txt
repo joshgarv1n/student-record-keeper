@@ -1,0 +1,5 @@
+INTB 3350,Introduction To International Business
+INTB 3355,Global Environment of Business
+INTB 3361,Global Engagement and Research
+INTB 4397,Selected Topics in Inb
+INTB 4398,Independent Study

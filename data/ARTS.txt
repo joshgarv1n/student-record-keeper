@@ -1,0 +1,95 @@
+ARTS 1303,Art History I (Prehistoric to the 14th Century)
+ARTS 1304,Art History II (15th Century to the Present)
+ARTS 1311,Fundamentals of Graphic Design
+ARTS 1316,Fundamentals of Drawing
+ARTS 1317,Drawing II
+ARTS 1372,Fundamentals of Video Art
+ARTS 1383,Introduction to New Media
+ARTS 1397,Sel Topic Fund Studio Art
+ARTS 2311,Color, Materials and Methods
+ARTS 2316,Fundamentals of Painting
+ARTS 2326,Fundamentals of Sculpture
+ARTS 2333,Fundamentals of Printmaking
+ARTS 2346,Fundamentals of Ceramics
+ARTS 2348,Digital Tools
+ARTS 2356,Fundamentals of Photography/Digital Media
+ARTS 2366,Watercolor
+ARTS 3300,Advanced Drawing
+ARTS 3301,Life Drawing
+ARTS 3304,Intermediate Painting
+ARTS 3309,Jr Painting Major
+ARTS 3310,Jr Painting Major
+ARTS 3311,Jr Painting Major
+ARTS 3312,Intaglio
+ARTS 3313,Silkscreen
+ARTS 3314,Lithography
+ARTS 3315,Monoprint/Monotype Printmaking
+ARTS 3316,Relief Printmaking
+ARTS 3318,Book Arts
+ARTS 3321,Perspective Drawing
+ARTS 3328,Rendering and Sketching
+ARTS 3330,Intermediate Graphic Design
+ARTS 3331,Graphic Design Software
+ARTS 3334,Introduction to Typography
+ARTS 3335,Junior Graphic Design Major
+ARTS 3336,Junior Graphic Design Major
+ARTS 3337,Junior Graphic Design Major
+ARTS 3350,Intermediate Ceramics
+ARTS 3353,Glaze and Clay Formulations
+ARTS 3358,Clay Processes
+ARTS 3360,Intermediate Sculpture
+ARTS 3361,Wood and Metal Fabrication
+ARTS 3362,Advanced Sculpture
+ARTS 3364,Plastics Fabrication
+ARTS 3365,Jr Sculpture Major
+ARTS 3366,Jr Sculpture Major
+ARTS 3367,Jr Sculpture Major
+ARTS 3370,Traditional Photography
+ARTS 3371,Photography/Digital Media Portfolio Development
+ARTS 3372,Intermediate Video Art
+ARTS 3374,Computer Imaging
+ARTS 3375,Jr Photo/Digital Media Major
+ARTS 3376,Jr Photo/Digital Media Major
+ARTS 3377,Jr Photo/Digital Media Major
+ARTS 3383,Digital Fabrication
+ARTS 3384,Sound Art
+ARTS 3396,Selected Tops Studio Practice
+ARTS 3397,Sel Tops in Fine Arts
+ARTS 3399,Senior Honors Thesis
+ARTS 4198,Independent Study
+ARTS 4298,Independent Study
+ARTS 4300,Senior Painting Major I
+ARTS 4301,Senior Painting Major I
+ARTS 4302,Senior Painting Major I
+ARTS 4303,Senior Painting Major II
+ARTS 4304,Senior Painting Major II
+ARTS 4305,Senior Painting Major II
+ARTS 4330,Senior Graphic Design Major I
+ARTS 4331,Senior Graphic Design Major I
+ARTS 4332,Senior Graphic Design Major I
+ARTS 4333,Senior Graphic Design Major II
+ARTS 4334,Senior Graphic Design Major II
+ARTS 4335,Senior Graphic Design Major II
+ARTS 4360,Senior Sculpture Major I
+ARTS 4361,Senior Sculpture Major I
+ARTS 4362,Senior Sculpture Major I
+ARTS 4363,Senior Sculpture Major II
+ARTS 4364,Senior Sculpture Major II
+ARTS 4365,Senior Sculpture Major II
+ARTS 4370,Senior Photography/Digital Media Major I
+ARTS 4371,Senior Photography/Digital Media Major I
+ARTS 4372,Senior Photography/Digital Media Major I
+ARTS 4373,Senior Photography/Digital Media Major II
+ARTS 4374,Senior Photography/Digital Media Major II
+ARTS 4375,Senior Photography/Digital Media Major II
+ARTS 4380,Professional Practices
+ARTS 4381,Pursuing Utopia
+ARTS 4390,Museum Internship at Blaffer Art Museum
+ARTS 4392,Sel Top in Contemporary Art
+ARTS 4394,Sel Tops in Art History
+ARTS 4395,Sel Tops in Design
+ARTS 4396,Selected Topics in Studio Practice
+ARTS 4397,Sel Topics in Fine Arts
+ARTS 4398,Independent Study
+ARTS 4399,Senior Honors Thesis
+ARTS 4498,Independent Study

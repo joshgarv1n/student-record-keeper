@@ -1,0 +1,44 @@
+MECT 1330,Engineering Graphics
+MECT 1364,Materials and Processes I
+MECT 1365,Elements of Materials and Processes
+MECT 2354,Introduction to Mechanics
+MECT 3118,Fluid Mechanics Application Laboratory
+MECT 3155,Strength of Materials Laboratory
+MECT 3318,Fluid Mechanics Applications
+MECT 3330,Advanced Engineering Graphics
+MECT 3331,Applied Thermodynamics
+MECT 3342,Elements of Plant Design
+MECT 3345,Fundamentals of Power Generation Technology
+MECT 3355,Strength of Materials
+MECT 3358,Dynamics of Mechanisms
+MECT 3360,Automated Manufacturing Systems
+MECT 3362,Industrial Work Measurement
+MECT 3364,Materials and Processes II
+MECT 3365,Computer,Aided Design I
+MECT 3367,Quality Control Technology
+MECT 3368,Economic Analysis of Technology
+MECT 3399,Senior Honors Thesis
+MECT 4172,Materials Technology Laboratory
+MECT 4188,Ethics in Engineering Technology
+MECT 4198,Independent Study
+MECT 4275,Senior Design Project I
+MECT 4276,Senior Design Project II
+MECT 4323,Applications in Stress Analysis
+MECT 4326,Fundamentals of Offshore Systems
+MECT 4328,Fundamentals of Pipeline Design
+MECT 4330,Valve Design
+MECT 4331,Heat Transfer Applications
+MECT 4341,Materials Selection & Management
+MECT 4343,Thermal Processing and Post,Processing of Materials
+MECT 4345,Fundamental & Applications of Fuel Cell
+MECT 4350,Principles of Mechatronics
+MECT 4364,Smart Manufacturing Systems Design
+MECT 4365,Computer,Aided Design II
+MECT 4367,Industrial Maintenance and Reliability
+MECT 4368,Simulation of Manufacturing Systems
+MECT 4372,Materials Technology
+MECT 4384,Lean Manufacturing Systems
+MECT 4394,Selected Topics in Mechanical Engineering Technology
+MECT 4397,Selected Topics in Mechanical Technology
+MECT 4398,Independent Study
+MECT 4399,Senior Honors Thesis

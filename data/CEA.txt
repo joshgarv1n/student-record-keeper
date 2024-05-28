@@ -1,0 +1,18 @@
+CEA 3201,Computer Programming for Engineers
+CEA 3302,Fundamentals of Software Engineering
+CEA 3311,Operating Systems for Engineers
+CEA 3312,Fundamentals of Computer Architecture
+CEA 3323,Data Structures and Algorithms
+CEA 3337,Digital Signals and Systems
+CEA 3338,Microprocessor Systems
+CEA 3421,Introduction to Control Systems
+CEA 4321,Database Principles and Applications
+CEA 4335,Capstone Design I
+CEA 4336,Capstone Design II
+CEA 4339,Engineering Applications of Graph Theory
+CEA 4341,Pattern Recognition and Machine Learning
+CEA 4342,Robotics and Automation
+CEA 4355,Engineering Data Analytics
+CEA 4422,Communications and Networking
+CEA 4424,Embedded Computing and Internet of Things
+CEA 4444,Introduction to Cybersecurity

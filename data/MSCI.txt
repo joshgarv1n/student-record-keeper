@@ -1,0 +1,14 @@
+MSCI 1125,Physical Readiness Training
+MSCI 1126,Physical Readiness Training
+MSCI 1131,Intermediate Physical Fitness
+MSCI 1210,Introduction to the Army
+MSCI 1220,Foundations of Agile & Adaptive Leadership
+MSCI 2210,Leadership & Decision Making
+MSCI 2220,Army Doctrine & Team Development
+MSCI 3310,Training Management and the Warfighting Functions
+MSCI 3320,Applied Leadership in Small Unit Operations
+MSCI 3398,Independent Study
+MSCI 3491,Leadership Development and Assessment Course
+MSCI 4310,The Army Officer
+MSCI 4320,Company Grade Leadership
+MSCI 4398,Independent Study

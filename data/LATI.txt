@@ -1,0 +1,9 @@
+LATI 1301,Elementary Latin I
+LATI 1302,Elementary Latin II
+LATI 2311,Intermediate Latin I
+LATI 2312,Intermediate Latin II
+LATI 2398,Independent Study
+LATI 3301,Readings Lat Lit I
+LATI 3302,Readings Lat Lit II
+LATI 3398,Independent Study
+LATI 4398,Independent Study

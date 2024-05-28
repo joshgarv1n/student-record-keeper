@@ -1,0 +1,38 @@
+NURS 3230,Nursing Professional Role I
+NURS 3247,Pharmacology for Collaborative Nursing Practice
+NURS 3310,Professional Role Development and Practice Issues
+NURS 3311,Health Assessment Across the Life Span
+NURS 3312,Fundamental Concepts of Care
+NURS 3313,Fundamental Clinical
+NURS 3314,Pharmacology
+NURS 3315,Pathophysiology
+NURS 3331,Nursing Professional Role II
+NURS 3332,Nursing Professional Role III
+NURS 3337,Reading and Interpreting Scientific Literature
+NURS 3440,Introduction to Evidence,Based Nursing Practice
+NURS 3631,Nursing Process for Symptom Management
+NURS 3633,Clinical Nursing Practice I
+NURS 3634,Clinical Nursing Practice II
+NURS 3636,Nursing Process for Collaborative Practice I
+NURS 3735,Clinical Nursing Practice III
+NURS 3737,Nursing Process for Collaborative Practice II
+NURS 4211,Mental Health Concepts of Care
+NURS 4212,Informatics in Health Care
+NURS 4213,Mental Health Care Clinical
+NURS 4215,Maternal, Newborn, and Women
+NURS 4216,Perioperative Nursing Clinical Elective
+NURS 4217,Maternal, Newborn, and Women's Health Clinical
+NURS 4218,Emergency Nursing
+NURS 4219,Pediatric Concepts of Care
+NURS 4220,Clinical Decision Making
+NURS 4221,Pediatric Clinical
+NURS 4297,Special Topic in Nursing
+NURS 4312,Leadership and Management in Professional Nursing Practice
+NURS 4314,Nursing Research
+NURS 4316,Medical Surgical Concepts of Care
+NURS 4318,High Acuity Concepts of Care
+NURS 4322,Policy and Ethics in Professional Nursing Practice
+NURS 4417,Medical Surgical Clinical
+NURS 4419,High Acuity Clinical
+NURS 4520,Concept Integration in Patient Care Management
+NURS 4521,Community Health Nursing

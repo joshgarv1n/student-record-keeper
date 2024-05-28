@@ -1,0 +1,13 @@
+SPEC 2350,Registered Behavior Technician Training
+SPEC 2397,Selected Topics in Special Populations
+SPEC 3361,Behavior: Interventions
+SPEC 3397,Selected Topics in Special Populations
+SPEC 4353,Assistive Technology
+SPEC 4362,Behavior: Evidence,Based Decisions
+SPEC 4363,Instructional Interventions
+SPEC 4364,Education of Students with Gifts and Talents
+SPEC 4365,Data,Based Individualization of Instruction
+SPEC 4367,Strategies for Collaboration, Coaching, and Consultation
+SPEC 4391,Student Teaching in Special Education
+SPEC 4392,Student Teaching in Special Education
+SPEC 4397,Selected Topics in Special Populations

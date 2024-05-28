@@ -1,0 +1,30 @@
+ITAL 1301,First,Year Italian I
+ITAL 1302,First,Year Italian II
+ITAL 1501,Elementary Italian I
+ITAL 1502,Elementary Italian II
+ITAL 1601,Accelerated Italian
+ITAL 2101,Interm Ital Conversation I
+ITAL 2102,Interm Ital Converversation II
+ITAL 2311,Intermediate Italian I
+ITAL 2312,Intermediate Italian II
+ITAL 2601,Accelerated Italian Second Year
+ITAL 3302,Readings Ital Lit Since 18Th C
+ITAL 3303,Italian Convers&Compos
+ITAL 3304,Culture Italy
+ITAL 3305,Italian Culture Through Films
+ITAL 3306,Italian Cinema
+ITAL 3307,Italian Renaissance
+ITAL 3308,Italian Heritage
+ITAL 3309,Women Writers & Filmmakers of Modern Italy
+ITAL 3333,Women of the Italian Renaissance
+ITAL 3335,Survey of Italian Literature
+ITAL 3336,Survey of Italian Literature  in Translation
+ITAL 3396,Sel Tops,Ital Lang,Cult & Lit
+ITAL 3397,Topics in Italian Literature in Translation
+ITAL 3398,Independent Study
+ITAL 4304,Italian Culture in English Translation
+ITAL 4305,Teaching Italian as a Foreign Language
+ITAL 4307,Italian Renaissance
+ITAL 4308,Dante and His World
+ITAL 4397,Topics in Italian Lit
+ITAL 4398,Independent Study

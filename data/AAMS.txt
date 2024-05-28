@@ -1,0 +1,12 @@
+AAMS 2300,Introduction to Asian American Studies
+AAMS 2330,Introduction to Southeast Asian American Studies
+AAMS 3310,Asian American in Popular Culture
+AAMS 3315,Asian American Migration and Transnationalism
+AAMS 3325,Asian American Cinema
+AAMS 3330,The Vietnamese American Experience
+AAMS 3345,Asian,African American Relations
+AAMS 4300,Asian American Cultures and Communities
+AAMS 4320,Asian American Literature
+AAMS 4321,Vietnamese American Community and Ethnography
+AAMS 4322,Ethnography and Asian American Community
+AAMS 4397,Selected Topics in Asian American Studies

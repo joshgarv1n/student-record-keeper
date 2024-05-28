@@ -1,0 +1,8 @@
+DRAM 1310,Introduction to Theatre
+DRAM 1330,Scenic Technology
+DRAM 1341,Make up for Actors
+DRAM 1351,Acting I
+DRAM 1352,Acting II
+DRAM 2331,Lighting and Sound Technology
+DRAM 2336,Voice and Articulation for Non,Majors
+DRAM 2351,Acting III

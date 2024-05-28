@@ -1,0 +1,10 @@
+NAVY 1301,Naval Orientation
+NAVY 1302,Seapower and Maritime Affairs
+NAVY 2301,Leadership Management
+NAVY 2302,Naval Engineering,Naval Ship Systems I
+NAVY 3301,Navigation
+NAVY 3302,Naval Operations
+NAVY 3303,Evolution of Warfare
+NAVY 3310,Fundamentals of Maneuver Warfare
+NAVY 4301,Naval Weapons,Naval Ship Systems II
+NAVY 4302,Leadership and Ethics

@@ -1,0 +1,11 @@
+RUSS 1501,Beginning Russian I
+RUSS 1502,Beginning Russian II
+RUSS 2303,Russ Lit in Translation
+RUSS 2304,Russ Lit in Translation
+RUSS 2311,Intermediate Russian I
+RUSS 2312,Intermediate Russian II
+RUSS 2398,Independent Study
+RUSS 3304,Post,Soviet Russia
+RUSS 3307,Soviet and Post,Soviet Cinema: Collapse of the Soviet Realm and Revival of National Identity
+RUSS 3398,Special Problems
+RUSS 4398,Independent Study

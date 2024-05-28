@@ -1,0 +1,82 @@
+ANTH 2301,Introduction to Physical Anthropology
+ANTH 2302,Introduction to Archeology
+ANTH 2304,Intro To Language and Culture
+ANTH 2346,Introduction to Anthropology
+ANTH 2351,Introduction to Cultural Anthropology
+ANTH 2395,Selected Topics in Cultural Anthropology
+ANTH 3304,Demographic Anthropology
+ANTH 3305,Psych Anthropology
+ANTH 3306,Sex & Culture
+ANTH 3312,Mex,Amer Culture
+ANTH 3313,Brown Girls, Brown Stories: Black Female Protagonists in Novels & Films
+ANTH 3316,Society and Culture of India
+ANTH 3320,Ritual and Performance
+ANTH 3324,People & Culture of Latin Amer
+ANTH 3334,Us and Them: Ethical Decision,Making in Complex Cultures
+ANTH 3335,Black Atlantic Religions
+ANTH 3336,Caribbean Societies & Cultures
+ANTH 3338,Peoples of Africa
+ANTH 3341,Cultural Ecology
+ANTH 3342,Food and Culture
+ANTH 3347,Anthropology of Women
+ANTH 3348,Anthropology of Religion
+ANTH 3350,Women, Health and Culture
+ANTH 3351,Politics of Healthcare and the Latino Community
+ANTH 3360,Human Variation
+ANTH 3361,Human Origins
+ANTH 3362,Monkeys, Apes, and Humans
+ANTH 3364,Disease in Antiquity
+ANTH 3365,Principles and Practices of Global Engagement
+ANTH 3375,North American Archaeol
+ANTH 3376,Photo,Ethnography
+ANTH 3378,Historic N Amer Arch
+ANTH 3379,Methods Historical Archaeology
+ANTH 3380,Archael Meth & Theory
+ANTH 3381,Global Hinduism
+ANTH 3382,Cultures and Capitalism in India and Asia
+ANTH 3383,The Global South Before WWII
+ANTH 3391,Global Ethnographies of Labor
+ANTH 3396,Selected Topics in Cultural Anthropology
+ANTH 3399,Senior Honors Thesis
+ANTH 4192,Research Practicum I
+ANTH 4193,Research Practicum
+ANTH 4198,Independent Study
+ANTH 4292,Research Practicum I
+ANTH 4293,Research Practicum
+ANTH 4298,Independent Study
+ANTH 4300,Introduction to the Study of Language
+ANTH 4301,Language and Cultural Cognition
+ANTH 4310,Theories of Culture
+ANTH 4311,Topics in Language Socialization
+ANTH 4313,Feminist Ethnography
+ANTH 4315,Introduction to Sociolinguistics
+ANTH 4325,Data Analysis in Archaeology
+ANTH 4330,Applied Anthropology
+ANTH 4331,Medical Anthropology
+ANTH 4337,Anthropology of the Life Cycle
+ANTH 4338,Visual Anthropology
+ANTH 4340,Anthropology Thru Literature
+ANTH 4342,Anthropology of Wine
+ANTH 4351,Human Osteology
+ANTH 4354,Social Theory from the Global South
+ANTH 4360,Citizenship and Political Culture
+ANTH 4361,Migration / Borders / Citizenship
+ANTH 4363,Race, Racialization and the Politics of Culture
+ANTH 4364,Anthropology of the Anthropocene
+ANTH 4372,Maya Archaeology
+ANTH 4373,Aztec Archaeology
+ANTH 4376,Archaeology of Texas
+ANTH 4377,Arch of African Diaspora
+ANTH 4380,Field Methods in Anthropology
+ANTH 4382,Archaeology Lab Methods
+ANTH 4383,Applied Archaeology
+ANTH 4388,Anthropology Internship Practicum
+ANTH 4389,Ethnographic Field Work I
+ANTH 4390,Ethnographic Field Work II
+ANTH 4391,Archaeological Field Work I
+ANTH 4392,Archaeological Field Work II
+ANTH 4393,Research Practicum
+ANTH 4394,Selected Topics in Anthropology
+ANTH 4398,Independent Study
+ANTH 4399,Senior Honors Thesis
+ANTH 4498,Independent Study

@@ -1,0 +1,7 @@
+QSS 2300,Statistical Concept & Analysis
+QSS 3301,Regression Analysis
+QSS 3302,Research Design
+QSS 3303,Research Quality Assurance
+QSS 4393,Quantitative Social Science Research Project
+QSS 4397,Selected Topics in Quantitative Social Science
+QSS 4398,Independent Study in Quantitative Social Science

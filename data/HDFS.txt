@@ -1,0 +1,21 @@
+HDFS 1300,Development of Contemporary Families
+HDFS 1311,Personal Development and College Success
+HDFS 2314,Introduction to Human Development and Interventions
+HDFS 2320,Research Methods in Human Development & Family Sciences
+HDFS 3300,Introduction to Educational Psychology
+HDFS 3310,Introduction to Child Life
+HDFS 3317,Prenatal and Infant Developmt
+HDFS 3318,Human Ecol of Adult Developmt
+HDFS 3320,Careers in Human Development and Family Sciences
+HDFS 3350,Observation and Assessment of Children and Adolescents
+HDFS 4198,Independent Study
+HDFS 4315,Culture and Diversity in Human Development
+HDFS 4316,Dynamics of Family Relationships
+HDFS 4317,Introduction to Early Childhood Development
+HDFS 4318,Parent,Child Relationships
+HDFS 4320,Evaluation of Programs for Children and Families
+HDFS 4325,Theory to Practice in Human Development and Family Sciences
+HDFS 4393,Internship in Human Development & Family Sciences
+HDFS 4394,Internship in Human Development & Family Sciences
+HDFS 4397,Selected Topics in Hdfs
+HDFS 4398,Independent Study

@@ -1,0 +1,12 @@
+ARAB 1501,Beginning Arabic I
+ARAB 1502,Beginning Arabic II
+ARAB 2311,Intermediate Arabic I
+ARAB 2312,Intermediate Arabic II
+ARAB 3301,Adv Modern Standard Arabic I
+ARAB 3302,Advanced Modern Standard Arabic II
+ARAB 3312,Introduction to Arabic Literature in Translation
+ARAB 3313,Qur'an as Literature
+ARAB 3314,Women and Gender in Arabic Literature
+ARAB 3340,Modern & Rationalism in Islamic Tradition
+ARAB 3377,Energy, Society and the Middle East
+ARAB 3397,Selected Topics Arab Studies

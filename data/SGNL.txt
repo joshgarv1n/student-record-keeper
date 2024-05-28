@@ -1,0 +1,4 @@
+SGNL 1301,Elementary Sign Language I
+SGNL 1302,Elementary Sign Language II
+SGNL 2301,Intermediate Sign Language I
+SGNL 2302,Intermediate Sign Language II

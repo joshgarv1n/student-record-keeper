@@ -1,0 +1,100 @@
+HIST 1301,The U.S. to 1877
+HIST 1302,The U.S. Since 1877
+HIST 1398,Special Problems
+HIST 2301,Texas History to 1865
+HIST 2302,Texas Since 1865
+HIST 2303,The Historian's Craft: An Introduction to Historical Methods
+HIST 2311,Western Civilization to 1450
+HIST 2312,Western Civilization from 1450
+HIST 2313,Global Civilization to 1500
+HIST 2314,Global Civilization since 1500
+HIST 2321,The Study of Early Civilizations
+HIST 2322,Modern Civilizations
+HIST 2327,Chicano History to 1910
+HIST 2328,Chicano History since 1910
+HIST 2346,America Eats: An Introduction to Food History
+HIST 2348,U.S. Latino/a Histories
+HIST 2349,Latina/o Jewish History
+HIST 2355,The Global History of Food
+HIST 2356,Global Cities: Colonial Cities and Postcolonial Transformations
+HIST 2357,South Asia and the British Empire
+HIST 2365,African Civilizations since 1750
+HIST 2366,African Civilizations To 1750
+HIST 2367,History of Mexico
+HIST 2368,Introduction to African Studies
+HIST 2369,Jesus, Africa, and History
+HIST 2370,African Creatives and History
+HIST 2371,Latin America 1492,1820
+HIST 2372,Latin American Hist Since 1820
+HIST 2374,Popular Culture in Latin America
+HIST 2397,Selected Topics in History
+HIST 2398,Special Problems
+HIST 3301,Latin American History Through Film
+HIST 3302,Consumer Culture Latin America
+HIST 3303,Disease, Health, and Medicine in American History
+HIST 3304,Early American Republic
+HIST 3305,The Old South
+HIST 3306,Race and Modern Africa
+HIST 3307,Houston: Migration and Immigration
+HIST 3308,History of the American West
+HIST 3309,History through Fiction
+HIST 3310,Jacksonian America, 1820,1850
+HIST 3311,Civil War and Reconstruction, 1850,1877
+HIST 3312,American Civil War in Film
+HIST 3313,Introduction to Digital History
+HIST 3314,Liberals vs. Conservatives: FDR to the Present
+HIST 3315,Introduction to Public History
+HIST 3316,Race and Racism in American Science and Medicine
+HIST 3317,Making of Ethnic America
+HIST 3319,Plagues and Pestilence: Epidemics in World History
+HIST 3320,U.S. Women's History Since 1840
+HIST 3321,Introduction to Museum Studies
+HIST 3322,The Vietnam War
+HIST 3323,Writing and Editing for a History Magazine
+HIST 3324,Oral History Methods and Practice
+HIST 3325,The Mexican American Civil Rights Movement in 20th Century
+HIST 3326,African American Women in Slavery and Freedom
+HIST 3327,Houston Since 1836
+HIST 3328,Colonial America, 1492,1776
+HIST 3329,Native North America, Origins,1840
+HIST 3330,African American History to 1865
+HIST 3331,African American History Since 1865
+HIST 3332,American Slavery in Books and Films
+HIST 3333,Health is a Human Right: Global Quest for Universal Health Care
+HIST 3334,Chicana History
+HIST 3335,Race in Environmental History
+HIST 3336,History of U.S. Latinx Music
+HIST 3337,Texas,Mexican Music in 20th Century
+HIST 3338,Native American History
+HIST 3339,Ancient Greece
+HIST 3340,Ancient Rome
+HIST 3341,The History of Jewish Food
+HIST 3342,Texas,Mexican History
+HIST 3343,The Ancient World through FIlm
+HIST 3344,The History of Drug Trafficking in Latin America from the Twentieth Century to the Present
+HIST 3348,The Ancient World through Film
+HIST 3349,War, Globalization, and Terrorism
+HIST 3350,Russia at War
+HIST 3351,Work&Family,Modern Eur
+HIST 3352,Modern France Since 1870
+HIST 3353,England To 1689
+HIST 3354,England Since 1689
+HIST 3355,British Empire Since 1500
+HIST 3356,History of Madness
+HIST 3357,Germany 1815,1918
+HIST 3358,Germany Since 1918
+HIST 3359,Comparative WWII Home Fronts
+HIST 3360,Native Americans in Film
+HIST 3361,Sports in American History
+HIST 3362,Rise & Fall of Soviet Union
+HIST 3363,Pirates and Smugglers in the Modern World
+HIST 3364,History of Energy in Russia
+HIST 3365,Russian Revolution in Film and Fiction
+HIST 3366,Europe since 1900
+HIST 3367,Japan Since 1600
+HIST 3368,World Environmental History to 1800
+HIST 3369,Colonial Mexico
+HIST 3370,Twentieth Century Revolutions in Latin America
+HIST 3371,Russian Imperial History
+HIST 3372,Global Environmental History since 1800
+HIST 3375,The CIA in the Third World

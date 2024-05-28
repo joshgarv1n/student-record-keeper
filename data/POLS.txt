@@ -1,0 +1,100 @@
+POLS 1107,Texas Constitution and Government
+POLS 1333,Introduction to Political Science
+POLS 1335,World Politics
+POLS 1393,Selected Topics in Political Science
+POLS 2336,U.S. and Texas Constitutions, Politics, and Institutions
+POLS 2340,Greek Classics
+POLS 2346,Politics of Greek Theater
+POLS 3309,Democratization
+POLS 3310,Introduction to Political Theory
+POLS 3311,Introduction to Comparative Politics
+POLS 3312,Arguments, Data, and Politics
+POLS 3313,Intro Internatl Relatns
+POLS 3314,Intro To Public Admin
+POLS 3315,International Organization
+POLS 3316,Statistics for Political Scientists
+POLS 3318,Intro To Public Policy
+POLS 3319,Politics of Social Policy
+POLS 3320,Gov,Pol Great Britain
+POLS 3321,Politics of Mexico
+POLS 3322,Intro Latin,Am Politics
+POLS 3323,Introduction to the Government and Politics of India
+POLS 3324,Gov & Pol of Contemp Germany
+POLS 3325,Gov&Pol of Russia & Commonwlth
+POLS 3326,Gov,Pol the Middle East
+POLS 3328,Politics of the Developing Areas
+POLS 3329,The Nations of Europe
+POLS 3330,International Political Economy: Policy,Making in a Global World
+POLS 3331,American Foreign Policy
+POLS 3333,Comparative Elections
+POLS 3334,Comparative Political Behavior
+POLS 3335,Political Terrorism
+POLS 3336,Globalization
+POLS 3340,Ancient and Medieval Political Thought
+POLS 3341,Foundations of Modern Politics
+POLS 3342,Liberalism and Its Critics
+POLS 3343,Democratic Theory
+POLS 3344,International Law and the Law of War
+POLS 3345,National Security Law
+POLS 3346,Human Rights
+POLS 3347,Multiculturalism in Theory and Practice
+POLS 3348,Left, Right, and Center
+POLS 3349,Foundations in American Political Thought
+POLS 3350,Public Law,Political Theory
+POLS 3351,Law in Literature and Film
+POLS 3352,Immigration: Politics and Policy in the U.S.
+POLS 3353,Policy & Administration
+POLS 3354,Law and Society
+POLS 3355,Judicial Process
+POLS 3356,Intro,Constitutionl Law
+POLS 3357,Constitutional Law: Civil Liberties
+POLS 3358,Judicial Behavior
+POLS 3359,Criminal Justice
+POLS 3360,Politics & Mass Media
+POLS 3361,Politics and Literature
+POLS 3362,Political Campaign Management
+POLS 3363,Groups in Politcl Proc
+POLS 3364,Legislative Processes
+POLS 3365,Polls, Public Opinion, and American Democracy
+POLS 3366,Political Parties
+POLS 3367,United States Campaigns and Elections
+POLS 3368,Race,Gender & Ethnic Politics
+POLS 3369,The Presidency
+POLS 3370,State Gov and Politics
+POLS 3371,Intro To Urban Politics
+POLS 3372,Latino Politics
+POLS 3373,Inside Texas Politics
+POLS 3374,Comparative Election Science
+POLS 3375,Health Policy and  Politics
+POLS 3376,Black Political Thought
+POLS 3378,Political Economy
+POLS 3381,Political Psychology
+POLS 3382,Politics and Religion in South Asia
+POLS 3383,Facilitating Political Deliberation
+POLS 3384,Morality and Politics
+POLS 3385,Introduction to Law
+POLS 3386,Criminal Law and the Criminal Justice System
+POLS 3387,Politics of the Qur'an
+POLS 3388,Politics in Film and Television
+POLS 3389,European Union Politics
+POLS 3390,Women in Politics
+POLS 3391,Political Scandals
+POLS 3392,Nuclear Weapons: International and National Security Implications
+POLS 3393,Model United Nations
+POLS 3394,Selected Topics in Political Theory and Methodology
+POLS 3395,Selected Topics in American Government
+POLS 3396,Selected Topics in Comparative Politics and International Politics
+POLS 3397,Selected Topics in Public Law
+POLS 3399,Senior Honors Thesis
+POLS 4198,Independent Study
+POLS 4298,Independent Study
+POLS 4328,Party Politics,Latin America
+POLS 4333,Islam and Democracy
+POLS 4334,Strategy in International Relations
+POLS 4340,Intelligence Analysis
+POLS 4341,Risk Analysis and Assessment
+POLS 4342,Political Economy and Ethics of the Market Processes
+POLS 4343,Causes and Politics of War
+POLS 4344,Equal, Just & Democracy
+POLS 4345,Politics and the Death of God
+POLS 4346,Greek Political Thought

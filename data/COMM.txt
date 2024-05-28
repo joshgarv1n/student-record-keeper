@@ -1,0 +1,100 @@
+COMM 1302,Introduction To Communication Theory
+COMM 1303,Writing for Communicators
+COMM 1307,Media and Society
+COMM 2300,Communication Research Methods
+COMM 2311,Writing for Print and Digital Media
+COMM 2320,Fundamentals of Media Production
+COMM 2322,Television Production I
+COMM 2326,Introduction to Sports Broadcasting
+COMM 2327,Introduction to Screen Writing
+COMM 2328,Broadcast Writing Basics
+COMM 2331,Relational Communication
+COMM 2356,Business & Professional Communication
+COMM 2370,Introduction to Motion Pictures
+COMM 2371,Media, Sports and Culture
+COMM 2383,Food As Communication
+COMM 3300,Health Communication
+COMM 3301,Doctor,Patient Interaction
+COMM 3302,E,Health and Telemedicine
+COMM 3303,Health Literacy
+COMM 3304,Multicultural Health Communication
+COMM 3306,End of Life Communication
+COMM 3311,Editing for Print and Digital Media
+COMM 3312,Global Journalism
+COMM 3313,Data,Driven Storytelling & Visualization
+COMM 3314,Intermediate Writing and Reporting
+COMM 3315,News and Social Media
+COMM 3316,Electronic News
+COMM 3317,Multimedia Journalism
+COMM 3318,Multimedia Storytelling
+COMM 3319,Preproduction Management
+COMM 3320,Audio Production
+COMM 3321,Single Camera Studio Production
+COMM 3322,Latino Journalism
+COMM 3324,Photojournalism
+COMM 3325,Sports Journalism
+COMM 3326,Graphics Applications
+COMM 3328,Introduction to Sports Production
+COMM 3329,Media Performance
+COMM 3331,Communication in the Family
+COMM 3332,Effective Meeting Management
+COMM 3340,Health Campaigns
+COMM 3349,Nonverbal Communication
+COMM 3350,Media Management
+COMM 3352,Small Group Process
+COMM 3353,Information & Communication Technologies I
+COMM 3358,Leadership Communication & Organizations
+COMM 3359,Sports Media & Communication
+COMM 3360,Principles of Strategic Communication
+COMM 3361,Advertising Copywriting
+COMM 3363,Global & Multicultural Advertising
+COMM 3367,Student,Run Agency Experience
+COMM 3368,Principles of Public Relations
+COMM 3369,Strategic Communication Writing
+COMM 3370,History of Cinema
+COMM 3372,Gender and Media
+COMM 3373,Television: History and Culture
+COMM 3374,Strategic Social Media
+COMM 3376,Media Effects
+COMM 3377,Strategic Public Relations Planning
+COMM 3380,Electronic Field Production
+COMM 3381,Short Film Practicum
+COMM 3382,Television II and Sports Production
+COMM 3383,Non,linear Editing
+COMM 3384,The Media Industry
+COMM 3385,Communication Practicum Abroad
+COMM 3387,Valenti Production House
+COMM 3388,Digital Media Entrepreneurship
+COMM 3399,Senior Honors Thesis
+COMM 4198,Independent Study
+COMM 4301,Introduction to Latinx Communication Studies
+COMM 4302,Latinx Media Studies
+COMM 4303,Communication Law and Ethics
+COMM 4310,Opinion Writing & Blogging
+COMM 4312,Feature Writing for Print and Digital Media
+COMM 4313,Investigative Reporting
+COMM 4314,Social Issues in Journalism
+COMM 4316,Advanced Electronic News
+COMM 4320,Media Production Workshop I
+COMM 4322,Television Producing and Directing I
+COMM 4324,Advanced Audio Production
+COMM 4328,Broadcast and Film Dramatic Writing
+COMM 4331,Persuasion
+COMM 4335,Crisis Communication
+COMM 4337,Television and the Familiy
+COMM 4338,Family in Popular Culture
+COMM 4354,Organizational Crisis Communication
+COMM 4355,Organizational Communication
+COMM 4357,Intercultural Communication
+COMM 4358,Bargaining and Negotiation
+COMM 4360,Media Planning & Placement
+COMM 4361,Advertising Campaign Competition
+COMM 4363,Integrated Communication Campaigns
+COMM 4365,Digital Public Relations and Advertising
+COMM 4366,Advertising Account Planning
+COMM 4367,Issues Management
+COMM 4368,Public Relations Campaigns
+COMM 4369,Advertising Portfolio
+COMM 4370,Social Aspects of Film
+COMM 4371,American Cinema: The Directors
+COMM 4372,Media, Power, and Society

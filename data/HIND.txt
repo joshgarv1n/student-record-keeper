@@ -1,0 +1,4 @@
+HIND 1501,Beginning Hindi I
+HIND 1502,Beginning Hindi II
+HIND 2301,Intermediate Hindi I
+HIND 2302,Intermediate Hindi II

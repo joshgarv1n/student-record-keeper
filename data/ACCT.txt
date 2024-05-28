@@ -1,0 +1,50 @@
+ACCT 2301,Principles of Financial Accounting
+ACCT 2302,Principles of Managerial Accounting
+ACCT 3366,Financial Reporting Frameworks
+ACCT 3367,Intermediate Accounting I
+ACCT 3368,Intermediate Accounting II
+ACCT 3371,Accounting Information Systems
+ACCT 3377,Cost Accounting
+ACCT 3378,Management Accounting
+ACCT 4105,Professional Program in Accountancy Colloquium 1
+ACCT 4106,Professional Program in Accountancy Colloquium 2
+ACCT 4107,Oil and Gas Accounting Colloquium
+ACCT 4108,Internal Audit Colloquium
+ACCT 4198,Independent Study
+ACCT 4330,Advanced Accounting
+ACCT 4331,Federal Income Tax
+ACCT 4332,Corporate Taxation
+ACCT 4335,Financial Statement Auditing
+ACCT 4337,Introduction to Data Analytics in Accounting
+ACCT 4375,Internal Audit and Entity Control Environment
+ACCT 4378,Oil and Gas Accounting I
+ACCT 4379,Enterprise Risk Management
+ACCT 4380,Control & Security of Financial Information: Theory and Practice
+ACCT 4381,Oil and Gas Accounting 2
+ACCT 4382,Oil and Gas Accounting 3
+ACCT 4396,Accounting Internship
+ACCT 4397,Selected Topics in Accounting
+ACCT 4398,Independent Study
+ACCT 5198,Independent Study
+ACCT 5301,Financial and Managerial Accounting
+ACCT 5330,Advanced Accounting
+ACCT 5331,Federal Income Tax
+ACCT 5332,Taxation of Business Entities
+ACCT 5335,Financial Statement Auditing
+ACCT 5337,Management Accounting
+ACCT 5367,Intermediate Accounting I
+ACCT 5368,Intermediate Accounting II
+ACCT 5371,Accounting Information Systems
+ACCT 5372,Introduction to Data Analytics in Accounting
+ACCT 5373,Applied Data Analytics Tools in Accounting
+ACCT 5374,Applied Data Analytics Computational Techniques in Accounting
+ACCT 5375,Internal Auditing and the Entity Control Environment
+ACCT 5376,Advanced Financial Statement Auditing
+ACCT 5377,Government and Nonprofit Accounting
+ACCT 5378,Control & Security of Financial Information: Theory and Practice
+ACCT 5379,Enterprise Risk Management
+ACCT 5380,Oil and Gas Accounting 1
+ACCT 5381,Oil and Gas Accounting 2
+ACCT 5382,Oil and Gas Accounting 3
+ACCT 5397,Selected Topics in Accounting
+ACCT 5398,Independent Study

@@ -1,0 +1,14 @@
+MAS 2340,Introduction to Mexican American Studies
+MAS 2341,Introduction to Multicultural Business Principles
+MAS 2342,Introduction to Research and Policy in Latino/a Studies
+MAS 3340,Mexican Amer Urban Communities
+MAS 3341,Mexican American Experience Through Film
+MAS 3342,Mexican Immigration To the US
+MAS 3343,Latino Psychology
+MAS 3344,Research Methods in Mexican American and Latino/a Studies
+MAS 3345,Latino Leadership, Activism & Organizing
+MAS 3346,Latinas in the United States
+MAS 3347,Latino American Popular Music
+MAS 3348,Pre,Columbian Life and Religion in Mexico
+MAS 3395,Sel Top Mexican American Stdy
+MAS 4300,Capstone Project in Latino/a Studies

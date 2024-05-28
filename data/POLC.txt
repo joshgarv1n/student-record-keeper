@@ -1,0 +1,22 @@
+POLC 1311,Public Policy Laboratory
+POLC 2312,Introduction to Economics and Policy Analysis
+POLC 3313,Contemporary Political Philosophy and Policy
+POLC 3314,Leadership and Public Policy
+POLC 3315,Policy Research Methods: Statistics and Regression Analysis
+POLC 3322,Public Policy Analysis: Theory and Practice
+POLC 3341,State Authority and Freedom
+POLC 4198,Independent Study
+POLC 4298,Independent Study
+POLC 4323,Data Analytics and Visualization
+POLC 4324,Game Theory for Policy Analysis
+POLC 4325,Advanced Policy Research Methods
+POLC 4342,Political Economy and Ethics of Market Processes
+POLC 4344,Policy and Global Justice
+POLC 4349,Elizabeth D. Rockwell Center Ethics on Leadership Seminar
+POLC 4390,Public Policy Internship
+POLC 4397,Selected Topics in Public Policy
+POLC 4398,Independent Study
+POLC 4399,Senior Thesis
+POLC 4498,Independent Study
+POLC 4598,Independent Study
+POLC 4698,Independent Study

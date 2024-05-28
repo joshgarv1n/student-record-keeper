@@ -1,0 +1,8 @@
+GREK 1301,Elementary Greek I
+GREK 1302,Elementary Greek II
+GREK 2301,Intermediate Greek I
+GREK 2302,Intermediate Greek II
+GREK 3301,Classical Greek Literature
+GREK 3302,Advanced Readings in Classical Greek Literature
+GREK 3398,Independent Study
+GREK 4398,Independent Study

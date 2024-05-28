@@ -1,0 +1,44 @@
+RELS 1301,Introduction To Religious Studies
+RELS 2310,Bible and Western Culture I
+RELS 2311,Bible and Western Culture II
+RELS 2330,Judaism
+RELS 2335,Rabbinic Biblical Interpretation
+RELS 2336,Introduction to Jewish Studies
+RELS 2340,Introduction to Hinduism
+RELS 2345,Sacred Texts and Mythologies of India
+RELS 2350,Introduction to Islam
+RELS 2360,Introduction to Buddhism
+RELS 2372,The Bible and Modern Pop Culture
+RELS 2380,Religion and Film
+RELS 2396,Sel Topics Religious Studies
+RELS 3320,Ritual and Performance
+RELS 3323,Continuities: Jewish and Christian Texts and Traditions
+RELS 3325,Paul of Tarsus: His Life and Letters
+RELS 3330,Christianity
+RELS 3331,Spiritual and Artistic Traditions of Orthodox Christianity
+RELS 3334,Ethic Decisions Cmplx Cultures
+RELS 3335,Black Atlantic Religions
+RELS 3336,Caribbean Societies and Cultures
+RELS 3337,Theologies from the Margins
+RELS 3339,Secularisms and Atheisms
+RELS 3342,Religion, Politics, and History
+RELS 3355,Yoga and Philosophy
+RELS 3360,Muslim,Christian Relations
+RELS 3366,History of Magic, Witchcraft and the Occult
+RELS 3370,The Bible and Modern Science
+RELS 3371,Women in the Hebrew Bible/Old Testament
+RELS 3373,Jews in the Ancient World
+RELS 3375,Christianity and Ethics
+RELS 3376,Themes in Comparative Religion
+RELS 3377,Belief and Unbelief: The Search for Meaning
+RELS 3380,Introduction to Asian Religions
+RELS 3381,Global Hinduism
+RELS 3382,Politics and Religion in South Asia
+RELS 3386,Comparative Study of Buddhism and Christianity
+RELS 3396,Sel Topics Religious Studies
+RELS 3398,Independent Study
+RELS 4350,Religious Studies Internship Practicum
+RELS 4360,Clash of Civilizations
+RELS 4395,Senior Research Seminar
+RELS 4396,Sel Topics Religious Studies
+RELS 4398,Independent Study

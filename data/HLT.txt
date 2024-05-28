@@ -1,0 +1,24 @@
+HLT 1353,Personal Health
+HLT 2320,Introduction to Public Health
+HLT 3300,Social Health and Wellness
+HLT 3301,Health Behavior Theories: Concepts and Applications
+HLT 3304,Child and Adolescent Health
+HLT 3306,Environmental Health
+HLT 3325,Medical Terminology
+HLT 3380,Culture and Health
+HLT 3381,Health Promotion and Disease Prevention
+HLT 3399,Senior Honors Thesis
+HLT 4302,Health Aspects of Human Sexuality
+HLT 4303,The Obesity Epidemic
+HLT 4306,Women's Health Issues
+HLT 4307,Research and Evaluation in Health
+HLT 4308,Understanding Cancer
+HLT 4309,Health Disparities
+HLT 4310,Program Planning for Health Professionals
+HLT 4317,Foundations of Epidemiology in Public Health
+HLT 4320,Administration of Health Services
+HLT 4392,Field Work in Community Health
+HLT 4393,Field Work in Community Health
+HLT 4397,Selected Topics in Health
+HLT 4398,Independent Study
+HLT 4399,Senior Honors Thesis

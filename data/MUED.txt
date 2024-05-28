@@ -1,0 +1,20 @@
+MUED 2320,Computers for Musicians
+MUED 2342,Music for Children
+MUED 3100,Woodwinds
+MUED 3101,Woodwinds
+MUED 3102,Brasses
+MUED 3103,Brasses
+MUED 3104,Strings
+MUED 3105,Strings
+MUED 3106,Percussion
+MUED 3107,Basic Vocal Techniques
+MUED 3108,Piano for Choral Directors
+MUED 3320,Introduction to Education in Music
+MUED 4221,Choral Conducting II
+MUED 4231,Instrumental Conducting II
+MUED 4240,Teaching Private Music Lessons to Secondary Students
+MUED 4242,Pedagogical Analysis of String Literature
+MUED 4305,General Music in Elementary and Secondary Schools
+MUED 4340,Elementary and Middle School Instrumental Administration
+MUED 4343,Materials for Children's Choirs Grades 4,12
+MUED 4344,MS/JS/HS Instrumental Administration and Ensemble Techniques

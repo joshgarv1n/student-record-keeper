@@ -1,0 +1,44 @@
+CUIN 1101,Step 1,Teaching Science and Mathematics
+CUIN 1102,Step 2,Teaching Science and Mathematics
+CUIN 1103,Development of Educator Dispositions
+CUIN 1350,Mathematics for Teachers 1
+CUIN 2300,Introduction to STEM Teaching
+CUIN 3111,Educational Technology for Elementary Teachers
+CUIN 3121,Educational Technology for Secondary Teachers
+CUIN 3302,Social Education
+CUIN 3310,Foundations of Bilingual Education
+CUIN 3311,Methods and Techniques in Bilingual Education
+CUIN 3312,Educational Technology
+CUIN 3313,Learning and Development Technologies
+CUIN 3316,Prekindergarten Curriculum and Instruction
+CUIN 3317,Kindergarten and Elementary School Curriculum and Instruction
+CUIN 3321,Introduction to Teaching Middle Grades
+CUIN 3333,Differentiating Curriculum, Instruction, & Assessment for Diverse Learners
+CUIN 3345,Writing and Grammar for Teaching English
+CUIN 3346,Teaching the Writing Process
+CUIN 3347,Reading in the Content Area
+CUIN 3350,Knowing and Learning Science and Math
+CUIN 3351,Classroom Interactions in Science and Mathematics
+CUIN 3352,Perspectives Math and Science
+CUIN 4101,Content for Teaching
+CUIN 4303,Second Language Acquisition
+CUIN 4304,Language Arts/Reading Methods in Spanish
+CUIN 4315,Assessment of Children
+CUIN 4325,Teaching Science in Grades 4,8 I
+CUIN 4326,Teaching Science in Grades 4,8 II
+CUIN 4331,Adolescent Literature
+CUIN 4332,Literacy Assessment for Reading and Writing
+CUIN 4336,Popular Culture in Education
+CUIN 4337,Teaching Social Studies in Middle Grades for Generalists
+CUIN 4341,Teaching Mathematics Problem Solving
+CUIN 4344,Teaching Mathematics in Grades 4,8
+CUIN 4346,Teaching Secondary Mathematics with Technology
+CUIN 4347,Teaching Mathematics in Grades 7,12
+CUIN 4348,Teaching Mathematics in Middle Grades for Generalists
+CUIN 4349,Teaching Geometry and Algebra Concepts
+CUIN 4350,Multiple Teaching Strategies for Math and Science
+CUIN 4351,Developing Proportional Reasoning
+CUIN 4361,Second Language Methodology
+CUIN 4375,Classroom Management
+CUIN 4397,Selected Topics in C&I
+CUIN 4398,Independent Study

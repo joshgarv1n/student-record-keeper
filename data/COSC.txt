@@ -1,0 +1,54 @@
+COSC 1300,Introduction to Computing
+COSC 1304,C Programming
+COSC 1305,C++ Programming
+COSC 1320,Object Oriented Programming
+COSC 1336,Computer Science and Programming
+COSC 1410,Introductn Computer Science I
+COSC 1437,Introduction to Programming
+COSC 2305,Computing Structures
+COSC 2306,Data Programming
+COSC 2320,Data Structures
+COSC 2410,Computer Organization and Programming
+COSC 2425,Computer Organization and Architecture
+COSC 2436,Programming and Data Structures
+COSC 3320,Algorithms and Data Structures
+COSC 3330,Computer Architecture
+COSC 3337,Data Science I
+COSC 3340,Introduction to Automata and Computability
+COSC 3360,Fundamentals of Operating Systems
+COSC 3371,Cybersecurity
+COSC 3380,Database Systems
+COSC 3396,Senior Research Project
+COSC 3399,Senior Honors Thesis
+COSC 4151,Computer Science Internship
+COSC 4198,Independent Study
+COSC 4298,Independent Study
+COSC 4311,Computer Scientists and Society
+COSC 4315,Programming Languages and Paradigms
+COSC 4321,Immersive Technology and Spatial Computing
+COSC 4324,Entrepreneurship for Computer Science
+COSC 4331,Real,Time Systems and Embedded Programming
+COSC 4332,Medical Robotics & Image Guided Interventions
+COSC 4337,Data Science II
+COSC 4348,Introduction to Game Art and Animation
+COSC 4349,Intermediate Game Art and Animation
+COSC 4351,Fundamentals of Software Engineering
+COSC 4353,Software Design
+COSC 4354,Software Development Practices
+COSC 4355,Introduction to Ubiquitous Computing
+COSC 4358,Introduction to Interactive Game Development
+COSC 4359,Intermediate Interactive Game Development
+COSC 4364,Numerical Methods
+COSC 4368,Fundamentals of Artificial Intelligence
+COSC 4370,Interactive Computer Graphics
+COSC 4371,Security Analytics
+COSC 4372,Fundamentals of Medical Imaging
+COSC 4377,Introduction To Computer Networks
+COSC 4390,Internet Computing
+COSC 4393,Digital Image Processing
+COSC 4394,Physical Computing for Image Analytics
+COSC 4396,Senior Research Project
+COSC 4397,Sel Top,Computer Science
+COSC 4398,Independent Study
+COSC 4399,Senior Honors Thesis
+COSC 4498,Independent Study

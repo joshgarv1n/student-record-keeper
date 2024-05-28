@@ -1,0 +1,49 @@
+CHEE 1331,Computing for Engineers
+CHEE 2331,Chemical Processes
+CHEE 2332,Chem Engr Thermodyn I
+CHEE 3300,Materials Science & Engineering I
+CHEE 3321,Analytical Methods for Chemical Engineers
+CHEE 3333,Chemical Engineering Thermodynamics II
+CHEE 3334,Statistics/Numerical Techniques for Chemical Engineers
+CHEE 3363,Fluid Mechanics for Chemical Engineers
+CHEE 3367,Process Modeling and Control
+CHEE 3369,Chemical Engineering Transport Processes
+CHEE 3399,Senior Honors Thesis
+CHEE 3462,Unit Operations
+CHEE 3466,Bio & Physical Chemistry
+CHEE 4197,Selected Topics
+CHEE 4198,Independent Study
+CHEE 4297,Selected Topics
+CHEE 4298,Independent Study
+CHEE 4321,Chemical Engineering Design I
+CHEE 4322,Chemical Engineering Design II
+CHEE 4361,Chemical Engineering Practices
+CHEE 4366,Biomolecular Engr Fundamentals
+CHEE 4367,Chemical Reaction Engineering
+CHEE 4397,Selected Topics
+CHEE 4398,Independent Study
+CHEE 4399,Senior Honors Thesis
+CHEE 4498,Independent Study
+CHEE 5119,Nanotechnology Laboratory
+CHEE 5120,Nanomaterials Engineering Laboratory
+CHEE 5121,Nanofabrication Laboratory
+CHEE 5319,Introduction to Nanotechnology
+CHEE 5320,Introduction to Nanomaterials Engineering
+CHEE 5321,Nanoscale Design & Fabrication
+CHEE 5323,Fundamentals of Tissue Engineering
+CHEE 5350,Advanced Oxidation Processes for Water Treatment
+CHEE 5355,Advanced Biomolecular Engineering
+CHEE 5365,Fundamentals of Catalysis
+CHEE 5367,Advanced Process Control
+CHEE 5368,Chemical Process Economics I
+CHEE 5369,Chemical Process Economics II
+CHEE 5370,Sustainability and Environmental Mitigation
+CHEE 5377,Introduction to Polymer Science
+CHEE 5379,Safety and Reliability
+CHEE 5383,Advanced Unit Operations
+CHEE 5384,Petrochemical Processes
+CHEE 5386,Air Pollution Problems and Control
+CHEE 5388,Catalytic Processes
+CHEE 5390,Energy and the Environment
+CHEE 5393,Cellular and Biological Transport Phenomena
+CHEE 5397,Selected Topics

@@ -1,0 +1,90 @@
+GHL 1301,Hospitality Technology
+GHL 1320,Foodservice Management
+GHL 1337,Intro To Hospitality Industry
+GHL 1345,Safety and Sanitation in the Hospitality Industry
+GHL 1367,Lodging Management
+GHL 2115,Dean's Distinguished Leadership Series
+GHL 2155,Event Implementation
+GHL 2160,Hospitality Internship
+GHL 2197,Selected Topics
+GHL 2315,Introduction to SPA Management
+GHL 2324,Nutrition and Healthy Living
+GHL 2340,Systems of Accounts in the Hospitality Industry
+GHL 2343,Hospitality Cost Controls
+GHL 2350,Management Principles in Hospitality
+GHL 2356,Communication Strategies for Hospitality Professionals
+GHL 2365,Tourism
+GHL 2368,Room and Housekeeping Mgt
+GHL 2373,Spanish for the Hospitality Industry
+GHL 2382,Introductn To Club Management
+GHL 2397,Selected Topics
+GHL 3153,Htl Mrktng New York Style
+GHL 3154,Rest. Mrktg Chicago Style
+GHL 3155,Event Planning
+GHL 3160,Hospitality Practicum II
+GHL 3197,Selected Topics in Hospitality
+GHL 3297,Selected Topics in Hospitality
+GHL 3315,Spa Marketing
+GHL 3321,Contract Food Service Management
+GHL 3327,Restaurant Layout and Design
+GHL 3335,Alcoholic Beverage Production
+GHL 3336,Beverage Management
+GHL 3341,Hospitality Managerial Accounting
+GHL 3342,Club Operatns Managemnt
+GHL 3345,Wine Appreciation
+GHL 3346,Beer Appreciation
+GHL 3348,Principles of Hospitality Revenue Management
+GHL 3349,Hospitality Procurement and Purchasing
+GHL 3352,Human Resource Management
+GHL 3353,Hospitality Metrics and Data Analytics
+GHL 3357,Gaming and Casino Managment
+GHL 3358,Hospitality Industry Law
+GHL 3361,Hospitality Marketing
+GHL 3362,Management Training Work Experience I
+GHL 3364,Hotel Sales
+GHL 3366,Social Media in the Hospitality Industry
+GHL 3371,Multicultural Etiquette in the Hospitality Industry
+GHL 3372,Convention and Meeting Mgmt
+GHL 3379,Entertainment and Venue Marketing
+GHL 3383,Career Fair Management
+GHL 3384,Gourmet Night Managment
+GHL 3385,Hall of Honor Management I
+GHL 3387,Management & Operations of Senior Living Facilities
+GHL 3397,Selected Topics in Hospitality
+GHL 3399,Senior Honors Thesis I
+GHL 3420,Foodservice Operations
+GHL 3440,Hotel Operations
+GHL 3445,Global Wine Immersion
+GHL 4132,Beverage Management and Marketing Internship
+GHL 4197,Sel Tops Hosptlty Mgmnt
+GHL 4198,Independent Study
+GHL 4297,Sel Tops Hosptlty Mgmnt
+GHL 4298,Independent Study
+GHL 4310,Entrepreneurship in the Hospitality Industry
+GHL 4311,Franchising in the Hospitality Industry
+GHL 4326,Catering Management
+GHL 4328,Restaurant Development
+GHL 4336,Beverage Marketing
+GHL 4338,Hotel Development
+GHL 4343,Financial Admin for Hosp.Ind.
+GHL 4344,California Wine Experience
+GHL 4346,Texas Wine and Food Experience
+GHL 4350,Strategy and Innovation in the Hospitality Industry
+GHL 4352,Hospitality Organizational Behavior
+GHL 4353,Leadership in the Hospitality Industry
+GHL 4354,Advanced Hospitality Operations Management
+GHL 4355,Event Administration
+GHL 4360,Professional Development
+GHL 4361,Marketing Strategies
+GHL 4362,Management Training Work Experience II
+GHL 4370,Project Development and Management in the Hospitality Industry
+GHL 4372,Global Hospitality Leadership: Asian Community
+GHL 4374,Korean Food, Culture, and Tourism Management
+GHL 4382,Advanced Club Operations
+GHL 4384,Gourmet Night Management II
+GHL 4385,Hall of Honor Management II
+GHL 4388,Managing Diversity in Hosp Ind
+GHL 4397,Selected Topics Hosp Mgt
+GHL 4398,Independent Study
+GHL 4399,Senior Honors Thesis II
+GHL 4462,Practical Project Management in the Hospitality Industry

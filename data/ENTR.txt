@@ -1,0 +1,18 @@
+ENTR 3310,Entrepreneurship
+ENTR 3311,Technology Entrepreneurship
+ENTR 3312,Corporate Entrepreneurship
+ENTR 3321,Social Entrepreneurship
+ENTR 3341,Family Business
+ENTR 3342,Women in Entrepreneurship
+ENTR 4110,Entrepreneurial Values and Leadership
+ENTR 4320,Entrepreneurial Revenue
+ENTR 4330,Entrepreneurial Costs and Budgets
+ENTR 4340,Entrepreneurial Capital
+ENTR 4350,Entrepreneurial Strategy
+ENTR 4360,Business Plan and Implementation
+ENTR 4380,Venture Fund
+ENTR 4393,RED Labs Pre,accelerator
+ENTR 4394,RED Labs Accelerator
+ENTR 4396,Entrepreneurship Internship
+ENTR 4397,Sel Topics in Entrepreneurship
+ENTR 4398,Independent Study in Entrepreneurship

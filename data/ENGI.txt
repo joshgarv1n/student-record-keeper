@@ -1,0 +1,15 @@
+ENGI 1100,Introduction To Engineering
+ENGI 1101,Engineering Success
+ENGI 1197,Selected Topics
+ENGI 1331,Computing and Problem Solving for Engineers
+ENGI 1397,Selected Topics
+ENGI 2197,Selected Topics
+ENGI 2304,Technical Communications for Engineers
+ENGI 2334,Introduction To Thermodynamics
+ENGI 2397,Selected Topics
+ENGI 3197,Selected Topics
+ENGI 3397,Selected Topics
+ENGI 4197,Selected Topics
+ENGI 4198,Independent Study
+ENGI 4397,Selected Topics
+ENGI 4398,Independent Study

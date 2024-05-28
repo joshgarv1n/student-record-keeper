@@ -1,0 +1,25 @@
+IDNS 1101,Physics 1301 Workshop
+IDNS 1102,Physics 1302 Workshop
+IDNS 1141,Chemistry I SEP Workshop
+IDNS 1142,Chemistry II SEP Workshop
+IDNS 1147,Freshman Interest Group
+IDNS 1231,Calculus I Workshop
+IDNS 1232,Calculus II Workshop
+IDNS 1233,Calculus III Workshop
+IDNS 1300,STEM Intervention Workshop
+IDNS 2112,Precalculus SEP Workshop
+IDNS 2113,Calculus I SEP Workshop
+IDNS 2114,Calculus II SEP Workshop
+IDNS 2115,Physics 2325 SEP Workshop
+IDNS 2116,Physics 2326 SEP Workshop
+IDNS 2123,Organic Chemistry I SEP Workshop
+IDNS 2125,Organic Chemistry II SEP Workshop
+IDNS 2133,Calculus III SEP Workshop
+IDNS 2136,Data Structures SEP Workshop
+IDNS 2197,Top,Natrl Sci & Mth
+IDNS 2297,Top,Natrl Sci & Mth
+IDNS 3121,Engineering Math SEP Workshop
+IDNS 4391,Ethics in Science
+IDNS 4392,History of 20th Century Science
+IDNS 4393,Advanced Science Ethics
+IDNS 4397,Selected Topics,Natural Sciences and Mathematics

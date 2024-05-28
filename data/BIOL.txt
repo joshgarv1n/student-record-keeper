@@ -1,0 +1,84 @@
+BIOL 1106,Biology for Science Majors I (lab)
+BIOL 1107,Biology for Science Majors II (lab)
+BIOL 1197,Selected Topics in Biology
+BIOL 1297,Selected Topics in Biology
+BIOL 1305,Human Biology for the Informed Citizen
+BIOL 1306,Biology for Science Majors I (lecture)
+BIOL 1307,Biology for Science Majors II (lecture)
+BIOL 1308,Biology for Non,Science Majors I (lecture)
+BIOL 1309,Biology for Non,Science Majors II (lecture)
+BIOL 1319,Human Genetics and Society
+BIOL 1397,Selected Topics in Biology
+BIOL 2101,Anatomy & Physiology Laboratory I (lab)
+BIOL 2102,Anatomy & Physiology II (lab)
+BIOL 2120,Microbiology for Non,Science Majors Laboratory (lab)
+BIOL 2121,Microbiology for Science Majors (lab)
+BIOL 2197,Selected Topics in Biology
+BIOL 2297,Selected Topics in Biology
+BIOL 2301,Anatomy and Physiology I (lecture)
+BIOL 2302,Anatomy and Physiology II (lecture)
+BIOL 2315,Biology of Food
+BIOL 2320,Microbiology for Non,Science Majors (lecture)
+BIOL 2321,Microbiology for Science Majors (lecture)
+BIOL 2397,Selected Topics in Biology
+BIOL 3197,Selected Topics in Biology
+BIOL 3224,Human Physiology Laboratory
+BIOL 3297,Selected Topics in Biology
+BIOL 3301,Mendelian and Population Genetics
+BIOL 3304,The Biology of Social Behavior
+BIOL 3305,Biodiversity
+BIOL 3306,Evolutionary Biology
+BIOL 3307,Introduction to Scientific Research
+BIOL 3311,Advanced Methods and Writing in Genetics Laboratory
+BIOL 3324,Human Physiology
+BIOL 3326,History and Philosophy of Biology
+BIOL 3330,Biological Field Research
+BIOL 3340,Invertebrate Zoology
+BIOL 3341,Human Genetics
+BIOL 3345,Plant Physiology
+BIOL 3350,Science Communication Strategies
+BIOL 3359,Environmental Biology of Texas
+BIOL 3365,Sex and Gender in Biology and Society
+BIOL 3368,Ecology
+BIOL 3396,Senior Research Project
+BIOL 3397,Selected Topics in Biology
+BIOL 3399,Senior Honors Thesis
+BIOL 4103,Integration of Biological Knowledge
+BIOL 4151,Biology Internship
+BIOL 4197,Selected Topics in Biology
+BIOL 4198,Independent Study
+BIOL 4206,Ecology and Evolution Laboratory
+BIOL 4272,Cellular and Developmental Biology Laboratory
+BIOL 4298,Independent Study
+BIOL 4301,Conservation Biology
+BIOL 4302,Galapago! Research,based Learning Abroad
+BIOL 4309,Mathematical Biology
+BIOL 4310,Biostatistics
+BIOL 4311,Genomic Data Analysis
+BIOL 4312,Interpreting Experimental Biology
+BIOL 4315,Neuroscience
+BIOL 4320,Molecular Biology
+BIOL 4323,Immunology
+BIOL 4324,Bioinformatics
+BIOL 4330,Molecular Basis of Infectious Disease
+BIOL 4340,Research Methods
+BIOL 4342,Introduction to Marine Biology
+BIOL 4347,Animal Behavior
+BIOL 4350,The Biology of Animal Signaling
+BIOL 4351,Current Topics in Reproductive Biology
+BIOL 4354,Endocrinology
+BIOL 4355,Human Virology
+BIOL 4356,Genomics
+BIOL 4360,Evolutionary Basis of Health and Disease
+BIOL 4365,Applied Evolution
+BIOL 4366,Molecular and Genome Evolution
+BIOL 4367,Evolutionary Ecology
+BIOL 4370,Ecology and Development
+BIOL 4373,Microbial Physiology
+BIOL 4374,Cell Biology
+BIOL 4384,Developmental Biology
+BIOL 4396,Senior Research Project
+BIOL 4397,Selected Topics in Biology
+BIOL 4398,Independent Study
+BIOL 4399,Senior Honors Thesis
+BIOL 4498,Independent Study

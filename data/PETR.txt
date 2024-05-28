@@ -1,0 +1,19 @@
+PETR 1111,Introduction to Petroleum Engineering
+PETR 2111,Petroleum Petrophysics Lab
+PETR 2311,Reservoir Petrophysics
+PETR 2313,Reservoir Fluids
+PETR 3310,Petroleum Production Economics
+PETR 3315,Introduction to Well Logging
+PETR 3318,Drilling Engineering I
+PETR 3321,Petroleum Pressure Transient Testing
+PETR 3362,Reservoir Engineering I
+PETR 3363,Fluid Mechanics for Petroleum Engineers
+PETR 3372,Petroleum Production Operation
+PETR 4301,Reservoir Characterization and Modeling
+PETR 4311,Petroleum Capstone Project I
+PETR 4312,Petroleum Capstone Project II
+PETR 5302,Reservoir Engineering II
+PETR 5350,Natural Gas Engineering
+PETR 5352,Shale Reservoirs
+PETR 5356,Completion and Stimulation
+PETR 5397,Selected Topics

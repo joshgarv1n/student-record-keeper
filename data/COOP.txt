@@ -1,0 +1,7 @@
+COOP 0011,COOP Education Work Period I
+COOP 0012,COOP Education Work Period II
+COOP 0013,COOP Education Work Period III
+COOP 0014,COOP Education Work Period IV
+COOP 0015,COOP Education Work Period V
+COOP 0016,COOP Education Work Period VI
+COOP 0017,COOP Education Work Period VII

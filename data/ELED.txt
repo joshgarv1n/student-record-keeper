@@ -1,0 +1,8 @@
+ELED 3320,Survey of Literature for Children and Adolescents
+ELED 3322,Elementary Reading and Phonics Instruction
+ELED 4310,Reading and Language Arts in the Elementary School
+ELED 4311,Science in the Elementary School I
+ELED 4312,Science in the Elementary School II
+ELED 4314,Mathematics in the Elementary School I
+ELED 4315,Mathematics in the Elementary School II
+ELED 4320,Social Studies in the Elementary School

@@ -1,0 +1,18 @@
+EDUC 1301,Introduction to the Teaching Profession
+EDUC 2301,Introduction to Special Populations
+EDUC 3101,Practicum for Preservice Teachers
+EDUC 4311,Student Teaching and Integrated Technology: Elementary
+EDUC 4312,Student Teaching and Integrated Technology: Elementary
+EDUC 4313,Student Teaching: Early Childhood Education
+EDUC 4314,Student Teaching: Secondary
+EDUC 4315,Student Teaching: Secondary
+EDUC 4316,Student Teaching: Art,Elementary
+EDUC 4317,Student Teaching: Art,Secondary
+EDUC 4318,Student Teaching: Music,Elementary
+EDUC 4319,Student Teaching: Music,Secondary
+EDUC 4322,Student Teaching: Theater,Elementary
+EDUC 4323,Student Teaching: Theater,Secondary
+EDUC 4324,Student Teaching and Integrated Technology: Middle School
+EDUC 4325,Student Teaching 4,8 2Nd 7 Wks
+EDUC 4511,Student Teaching and Integrated Technology,Elementary
+EDUC 4512,Student Teaching and Integrated Technology,Elementary

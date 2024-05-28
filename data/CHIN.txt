@@ -1,0 +1,40 @@
+CHIN 1198,Independent Study
+CHIN 1209,Chinese Calligraphy
+CHIN 1298,Independent Study
+CHIN 1309,Chinese Writing and Calligraphy
+CHIN 1398,Independent Study
+CHIN 1501,Elementary Chinese I
+CHIN 1502,Elementary Chinese II
+CHIN 2198,Special Problems
+CHIN 2207,Conversational Chinese I
+CHIN 2208,Conversational Chinese II
+CHIN 2298,Independent Study
+CHIN 2311,Intermediate Chinese I
+CHIN 2312,Intermediate Chinese II
+CHIN 2398,Independent Study
+CHIN 3198,Special Problems
+CHIN 3298,Independent Study
+CHIN 3301,Advanced Mandarin Chinese I
+CHIN 3302,Advanced Mandarin Chinese II
+CHIN 3303,Readings in Modern Chinese
+CHIN 3304,Business Chinese
+CHIN 3305,Survey of Chinese Literature
+CHIN 3342,Tales of East Asian Cities
+CHIN 3343,Chinese Popular Culture
+CHIN 3344,Modern and Contemporary Global Chinese Literature
+CHIN 3346,Sociolinguistic Perspectives on Contemporary China
+CHIN 3347,Chinese Language, Pragmatics, and Communication
+CHIN 3350,Chinese Culture Through Films
+CHIN 3352,Chin Cul & Soc Thru Mod Lit
+CHIN 3354,Chinese Culture and Language
+CHIN 3359,Chinese Culture through History
+CHIN 3360,A Look Into Modern China
+CHIN 3396,Selected Topics
+CHIN 3398,Independent Study
+CHIN 4301,Public Speaking in Chinese
+CHIN 4302,Integrated Chinese
+CHIN 4364,Issues in Chinese Language and Linguistics
+CHIN 4371,Principles of Teaching Chinese
+CHIN 4372,Studies of Chinese Language Acquisition
+CHIN 4396,Selected Topics
+CHIN 4398,Independent Study

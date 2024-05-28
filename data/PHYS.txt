@@ -1,0 +1,42 @@
+PHYS 1101,College Physics I (lab)
+PHYS 1102,College Physics II (lab)
+PHYS 1301,College Physics I (lecture)
+PHYS 1302,College Physics II (lecture)
+PHYS 1303,Stars and Galaxies
+PHYS 1304,Solar System
+PHYS 2125,University Physics Laboratory I (lab)
+PHYS 2126,University Physics Laboratory II
+PHYS 2325,University Physics I (lecture)
+PHYS 2326,University Physics II (lecture)
+PHYS 3110,Sem,Adv Lab Analysis
+PHYS 3112,Modern Optics Laboratory
+PHYS 3214,Advanced Laboratory II
+PHYS 3305,Introduction To Astrophysics
+PHYS 3309,Intermediate Mechanics
+PHYS 3312,Modern Optics
+PHYS 3313,Advanced Laboratory I
+PHYS 3315,Modern Physics
+PHYS 3316,Quantum Mechanics
+PHYS 3327,Thermal Physics
+PHYS 3396,Senior Research Project
+PHYS 3399,Senior Honors Thesis
+PHYS 4151,Physics Internship
+PHYS 4198,Independent Study
+PHYS 4297,Selected Topics,Physics
+PHYS 4298,Independent Study
+PHYS 4321,Intermediate Electromagnetic Theory I
+PHYS 4322,Intermediate Electromagnetic Theory II
+PHYS 4337,Intro Solid State Phy
+PHYS 4340,Research Methods
+PHYS 4342,Science by Inquiry
+PHYS 4345,Physics for Pre,Service Teachers
+PHYS 4350,Computational Physics
+PHYS 4356,Particle and Nuclear Physics
+PHYS 4360,Suborbital Methods in Space and Atmospheric Physics
+PHYS 4370,Nanophysics
+PHYS 4396,Senior Research Project
+PHYS 4397,Selected Topics,Physics
+PHYS 4398,Independent Study
+PHYS 4399,Senior Honors Thesis
+PHYS 4421,Elec Devices & Applic
+PHYS 4498,Independent Study
