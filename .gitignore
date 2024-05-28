@@ -6,7 +6,9 @@
 !*.cpp
 !*.h
 !*.md
+!*.txt
 !src/
 !include/
 !docs/
+!data/
 !.gitignore
