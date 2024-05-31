@@ -159,7 +159,7 @@ void removeCourseMenuSelection(const string& prompt, const vector<string>& menu,
             continue;
         }
 
-        if (confirmIntSelection(userChoice)) {
+        if (confirmMenuSelection(menu, userChoice)) {
             option = userChoice;
             break;
         }
@@ -397,11 +397,11 @@ void getStringInput(string prompt, string& str) {
     }
 } // end of getStringInput()
 
-bool confirmIntSelection(const int& selection) {
+bool confirmMenuSelection(const vector<string>& menu, const int& selection) {
     // Requests user to confirm integer selection
     char confirm;
     while (true) {
-        cout << "\nYou selected: " << selection << endl;
+        cout << "\nYou selected: " << menu[selection - 1] << endl;
         cout << "Confirm selection (Y/N): ";
         cin >> confirm;
         cin.ignore(numeric_limits<streamsize>::max(), '\n');

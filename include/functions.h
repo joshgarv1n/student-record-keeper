@@ -45,7 +45,7 @@ bool isYesNo(string, char&);
 void validateUserName(string&, string&, Student&);
 bool isValidInput(const vector<string>&, const string&);
 void getStringInput(string, string&);
-bool confirmIntSelection(const int&);
+bool confirmMenuSelection(const vector<string>&, const int&);
 bool confirmCourseSelection(const string&, const string&);
 void printVectorMenu(const vector<string>&);
 void pressEnterToContinue();
