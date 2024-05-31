@@ -34,8 +34,53 @@ void displayMainMenu(const vector<string>& options) {
 }
 
 
+// COURSEMAP FUNCTIONS //
+void loadCourses(CourseMap& courseMap) {
+    // Create a hashmap of hashmaps containing Course ID and Course Name key value pairs for all files in the data directory. Course prefix used as key of outer map
+    const string dataDirectory = "./data/";
+
+    // Iterate over all files in the data directory
+    for (const auto& entry : fs::directory_iterator(dataDirectory)) {
+        if (entry.is_regular_file()) {
+            const auto& filePath = entry.path();
+            ifstream file(filePath);
+            if (!file) {
+                cerr << "Error opening file: " << filePath << endl;
+                continue;
+            }
+
+            string line;
+            while (getline(file, line)) {
+                istringstream ss(line);
+                string courseId, courseName;
+
+                if (getline(ss, courseId, ',') && getline(ss, courseName)) {
+                    string prefix = courseId.substr(0, courseId.find(' '));
+                    courseMap[prefix][courseId] = courseName;
+                }
+            }
+        }
+    } 
+}
+
+string searchCourseMap(const CourseMap& courseMap, const string& id) {
+    // Search courseMap for given Course ID, return course name or empty string
+    string prefix = id.substr(0, id.find(' '));
+    auto prefixIt = courseMap.find(prefix);
+
+    if (prefixIt != courseMap.end()) {
+        auto courseIt = prefixIt->second.find(id);
+        if (courseIt != prefixIt->second.end()) {
+            return courseIt->second;
+        }
+    }
+
+    return "";
+}
+
+
 // MENU FUNCTIONS //
-void addNewCourse(Student& student, const vector<string>& allowedSemesters, const vector<string>& allowedGrades, const vector<int>& allowedHours) {
+void addNewCourse(Student& student, CourseMap& courseMap, const vector<string>& allowedSemesters, const vector<string>& allowedGrades, const vector<int>& allowedHours) {
     // Creates a new course and pushes to Student courses vector
     Course newCourse;
     string id;
@@ -49,8 +94,10 @@ void addNewCourse(Student& student, const vector<string>& allowedSemesters, cons
     chooseSemester(semester, allowedSemesters);
     newCourse.setSemester(semester);
 
-    getStringInput("Enter Course ID (e.g. 'MATH 2414'): ", id);
-    newCourse.setCourseID(id);
+    chooseCourseID(courseMap, id, name);
+
+    // getStringInput("Enter Course ID (e.g. 'MATH 2414'): ", id);
+    // newCourse.setCourseID(id);
     
     getStringInput("Enter Course Name (e.g. 'Calculus II'): ", name);
     newCourse.setCourseName(name);
@@ -78,6 +125,20 @@ void removeCourse(Student& student) {
     cout << "\nRemove a Course" << endl;
     while (true) {
         removeCourseMenuSelection("Select an option: ", menu, option);
+        switch (option) {
+            case 1:
+                cout << "Search by Course ID selected." << endl;
+                break;
+            case 2:
+                cout << "View All Courses selected." << endl;
+                break;
+            case 3:
+                cout << "Exit selected." << endl;
+                break;
+            default:
+                cout << "Idk what happened bruh." << endl;
+                break;
+        } // end of switch
         break;
     } // end of while (true)
 } // end of removeCourse()
@@ -116,6 +177,24 @@ void setUserName(string& f, string& l) {
     cout << "Enter your last name: ";
     cin >> l;
 } // end of setUserName()
+
+void chooseCourseID(CourseMap& courseMap ,string& id, string& name) {
+    //
+    string tempID;
+    string tempName;
+    while (true) {
+        cout << "\nEnter Course ID (e.g. 'MATH 2414'): ";
+        getline(cin, tempID);
+        toUpperCase(tempID);
+        tempName = searchCourseMap(courseMap, tempID);
+        if (tempName != "") {
+            cout << tempID << ": " << tempName << endl;
+            break;
+        } else {
+            cout << "Invalid Course ID" << endl;
+        }
+    }
+} // end of chooseCourseID()
 
 void chooseSemester(string& sem, const vector<string>& allowedSemesters) {
     // Displays list of valid semesters, user selects one and confirms
@@ -318,28 +397,6 @@ void getStringInput(string prompt, string& str) {
     }
 } // end of getStringInput()
 
-void getIntegerInput(int& num) {
-    // Receives user integer input and confirms with user
-    while (true) {
-        cin >> num;
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        cout << "You entered: " << num << endl;
-        cout << "Is this correct? (Y/N): ";
-
-        char confirm;
-        cin >> confirm;
-        cin.ignore();
-
-        if (confirm == 'N' || confirm == 'n') {
-            continue;
-        } else if (confirm == 'Y' || confirm == 'y') {
-            return;
-        } else {
-            cout << "Invalid input. Please enter 'Y' or 'N'." << endl;
-        }
-    }
-} // end of getIntegerInput()
-
 bool confirmIntSelection(const int& selection) {
     // Requests user to confirm integer selection
     char confirm;
@@ -367,3 +424,14 @@ void printVectorMenu(const vector<string>& options) {
         cout << i + 1 << ". " << options[i] << endl;
     }
 } // end of printVectorMenu()
+
+void pressEnterToContinue() {
+    cout << "Press Enter to continue...";
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    cin.get();
+}
+
+void toUpperCase(string& str) {
+    //
+    transform(str.begin(), str.end(), str.begin(), ::toupper);
+} // end of toUpperCase()
