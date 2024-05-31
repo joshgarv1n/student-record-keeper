@@ -41,7 +41,11 @@ void Student::displayCourseList() {
     const int semWidth = 11;
     cout << "\n" << fName << " " << lName << "'s Courses:" << endl;
     for (size_t i = 0; i < courses.size(); ++i) {
-        cout << i+1 << ". " << setw(idWidth) << courses[i].getCourseID() << setw(nameWidth) << courses[i].getCourseName() << setw(gradeWidth) << courses[i].getGrade() << setw(semWidth) << courses[i].getSemester() << endl;
+        string currName = courses[i].getCourseName();
+        if (currName.length() > nameWidth) {
+            currName = currName.substr(0, nameWidth - 4) + "...";
+        }
+        cout << i+1 << ". " << setw(idWidth) << courses[i].getCourseID() << setw(nameWidth) << currName << setw(gradeWidth) << courses[i].getGrade() << setw(semWidth) << courses[i].getSemester() << endl;
     }
 } // end of displayCourseList()
 
