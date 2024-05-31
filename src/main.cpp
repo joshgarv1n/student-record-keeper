@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
                 pressEnterToContinue();
                 break;
             case 5:
-                cout << "Calculate my GPA... under construction..." << endl;
+                thisStudent.displayGPA();
                 break;
             case 6:
                 cout << "Export to CSV... under construction..." << endl;
