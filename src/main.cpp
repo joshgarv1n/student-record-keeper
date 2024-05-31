@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 
         switch (choice) {
             case 1:
-                addNewCourse(thisStudent, allowedSemesters, allowedGrades, allowedHours);
+                addNewCourse(thisStudent, courseMap, allowedSemesters, allowedGrades, allowedHours);
                 break;
             case 2:
                 cout << "Edit a course... under construction..." << endl;
