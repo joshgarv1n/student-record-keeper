@@ -24,6 +24,7 @@ const vector<string> allowedSemesters = {
 };
 const vector<string> allowedGrades = {"A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F"};
 const vector<int> allowedHours = {1, 2, 3, 4};
+using CourseMap = unordered_map<string, unordered_map<string,string>>;
 
 int main(int argc, char** argv) {
     
@@ -57,6 +58,7 @@ int main(int argc, char** argv) {
                 break;
             case 4:
                 thisStudent.displayCourseList();
+                pressEnterToContinue();
                 break;
             case 5:
                 cout << "Calculate my GPA... under construction..." << endl;
