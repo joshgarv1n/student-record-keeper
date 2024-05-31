@@ -67,3 +67,25 @@ bool Student::compareCourses(const Course& c1, const Course& c2) {
 
     return it1 < it2;
 }
+
+void Student::calculateGPA() {
+    // Calculate cumulative GPA
+    totalHours = 0;
+    totalGradePoints = 0.00;
+    
+    if (courses.empty()) {
+        return;
+    }
+
+    for (size_t i = 0; i < courses.size(); ++i) {
+        totalHours += courses[i].getHours();
+        totalGradePoints += courses[i].getGradePoints();
+    }
+    gpa = totalGradePoints / totalHours;
+} // end of calculateGPA()
+
+void Student::displayGPA() {
+    // Display cumulative GPA and courses summary
+    calculateGPA();
+    cout << "\nYou have taken " << courses.size() << " class(es) and your cumulative GPA is " << fixed << setprecision(2) << gpa << endl;
+}

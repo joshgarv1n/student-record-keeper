@@ -17,10 +17,14 @@ class Student {
     private:
         string fName;
         string lName;
+        float gpa = 0.00;
+        int totalHours;
+        float totalGradePoints;
         vector<Course> courses;
         bool sorted = false;
 
         void sortCourses();
+        void calculateGPA();
 
     public:
         // Constructor
@@ -40,6 +44,7 @@ class Student {
         // Course modifications
         void addCourse(Course&);
         void displayCourseList();
+        void displayGPA();
 
         // Comparator
         static bool compareCourses(const Course&, const Course&);
