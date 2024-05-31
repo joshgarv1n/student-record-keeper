@@ -95,12 +95,6 @@ void addNewCourse(Student& student, CourseMap& courseMap, const vector<string>& 
     newCourse.setSemester(semester);
 
     chooseCourseID(courseMap, id, name);
-
-    // getStringInput("Enter Course ID (e.g. 'MATH 2414'): ", id);
-    // newCourse.setCourseID(id);
-    
-    getStringInput("Enter Course Name (e.g. 'Calculus II'): ", name);
-    newCourse.setCourseName(name);
     
     chooseGrade(grade, allowedGrades);
     newCourse.setGrade(grade);
@@ -188,8 +182,11 @@ void chooseCourseID(CourseMap& courseMap ,string& id, string& name) {
         toUpperCase(tempID);
         tempName = searchCourseMap(courseMap, tempID);
         if (tempName != "") {
-            cout << tempID << ": " << tempName << endl;
-            break;
+            if (confirmCourseSelection(tempID, tempName)) {
+                id = tempID;
+                name = tempName;
+                break;
+            }
         } else {
             cout << "Invalid Course ID" << endl;
         }
@@ -417,6 +414,27 @@ bool confirmIntSelection(const int& selection) {
         }     
     }
 } // end of confirmIntSelection()
+
+bool confirmCourseSelection(const string& id, const string& name) {
+    // User confirms selected course id and course name
+    char confirm;
+    while (true) {
+        cout << id << ": " << name << endl;
+        cout << "Confirm selection (Y/N): ";
+        cin >> confirm;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+        if (confirm == 'Y' || confirm == 'y') {
+            cout << "Confirmed." << endl;
+            return true;
+        } else if (confirm == 'N' || confirm == 'n') {
+            cout << "Not confirmed." << endl;
+            return false;
+        } else {
+            cout << "Invalid confirmation response.\n" << endl;
+        } 
+    }
+} // end of confirmCourseSelection()
 
 void printVectorMenu(const vector<string>& options) {
     // Print numbered menu list using elements of options vector
