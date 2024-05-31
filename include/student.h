@@ -45,6 +45,7 @@ class Student {
         void addCourse(Course&);
         void displayCourseList();
         void displayGPA();
+        string searchForCourse(const string&);
 
         // Comparator
         static bool compareCourses(const Course&, const Course&);

@@ -89,3 +89,13 @@ void Student::displayGPA() {
     calculateGPA();
     cout << "\nYou have taken " << courses.size() << " class(es) and your cumulative GPA is " << fixed << setprecision(2) << gpa << endl;
 }
+
+string Student::searchForCourse(const string& id) {
+    // Search courses for given Course ID, return course name or empty string
+    for (size_t i = 0; i < courses.size(); ++i) {
+        if (id == courses[i].getCourseID()) {
+            return courses[i].getCourseName();
+        }
+    }
+    return "";
+} // end of searchForCourse()
