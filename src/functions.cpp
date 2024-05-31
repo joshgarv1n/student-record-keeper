@@ -95,6 +95,8 @@ void addNewCourse(Student& student, CourseMap& courseMap, const vector<string>& 
     newCourse.setSemester(semester);
 
     chooseCourseID(courseMap, id, name);
+    newCourse.setCourseID(id);
+    newCourse.setCourseName(name);
     
     chooseGrade(grade, allowedGrades);
     newCourse.setGrade(grade);
@@ -242,6 +244,7 @@ void chooseGrade(string& grade, const vector<string>& allowedGrades) {
     while (true) {
         cout << "\nEnter Letter Grade Received (e.g. 'A', 'B+', 'C-'): ";
         cin >> userGrade;
+        toUpperCase(userGrade);
 
         auto it = std::find(allowedGrades.begin(), allowedGrades.end(), userGrade);
         if (it == allowedGrades.end()) {
@@ -425,7 +428,7 @@ bool confirmCourseSelection(const string& id, const string& name) {
         cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
         if (confirm == 'Y' || confirm == 'y') {
-            cout << "Confirmed." << endl;
+            cout << "Course Confirmed." << endl;
             return true;
         } else if (confirm == 'N' || confirm == 'n') {
             cout << "Not confirmed." << endl;
