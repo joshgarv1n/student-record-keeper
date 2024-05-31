@@ -7,6 +7,7 @@
 
 #include "functions.h"
 #include "student.h"
+#include "course_map.h"
 #include <iostream>
 #include <string>
 #include <vector>

@@ -24,13 +24,15 @@ const vector<string> allowedSemesters = {
 };
 const vector<string> allowedGrades = {"A", "A-", "B+", "B", "B-", "C+", "C", "C-", "D+", "D", "D-", "F"};
 const vector<int> allowedHours = {1, 2, 3, 4};
-using CourseMap = unordered_map<string, unordered_map<string,string>>;
 
 int main(int argc, char** argv) {
     
     bool terminate = false;
     int choice;
     Student thisStudent;
+    CourseMap courseMap;
+
+    loadCourses(courseMap);
 
     userWelcome(WELCOME, thisStudent);
 
