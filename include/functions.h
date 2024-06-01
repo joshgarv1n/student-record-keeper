@@ -39,6 +39,7 @@ void chooseCourseName(string&);
 void chooseSemester(string&, const vector<string>&);
 void chooseGrade(string&, const vector<string>&);
 void chooseHours(int&, const vector<int>&);
+bool searchByCourseID(Student&, string&, string&);
 
 // Utility functions
 bool isYesNo(string, char&);

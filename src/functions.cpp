@@ -121,21 +121,33 @@ void removeCourse(Student& student) {
     cout << "\nRemove a Course" << endl;
     while (true) {
         removeCourseMenuSelection("Select an option: ", menu, option);
+        string courseID;
+        string courseName;
+        bool exit = false;
         switch (option) {
-            case 1:
+            case 1:         // Search by Course ID
                 cout << "Search by Course ID selected." << endl;
+                if (searchByCourseID(student, courseID, courseName)) {
+                    cout << "Course found" << endl;
+                    // confirmCourseRemoval()
+                } else {
+                    cout << "Invalid Course ID\n" << endl;
+                }
                 break;
-            case 2:
+            case 2:         // View All Courses
                 cout << "View All Courses selected." << endl;
                 break;
-            case 3:
+            case 3:         // Exit
                 cout << "Exit selected." << endl;
+                exit = true;
                 break;
             default:
                 cout << "Idk what happened bruh." << endl;
                 break;
         } // end of switch
-        break;
+        if (exit) {
+            break;
+        }
     } // end of while (true)
 } // end of removeCourse()
 
@@ -312,6 +324,24 @@ void chooseHours(int& hours, const vector<int>& allowedHours) {
         }
     }
 } // end of chooseHours()
+
+bool searchByCourseID(Student& student, string& id, string& name) {
+    // Search Student courses for Course ID, update id & name and return true if found
+    string tempID;
+    string tempName;
+
+    cout << "\nEnter Course ID (e.g. 'MATH 2414'): ";
+    getline(cin, tempID);
+    toUpperCase(tempID);
+    tempName = student.searchForCourse(tempID);
+
+    if (tempName != "") {
+        id = tempID;
+        name = tempName;
+        return true;
+    }
+    return false;
+} // searchByCourseID()
 
 
 // UTILITY FUNCTIONS //
