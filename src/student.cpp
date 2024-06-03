@@ -31,6 +31,16 @@ void Student::addCourse(Course& course) {
     sorted = false;
 } // end of addCourse()
 
+void Student::removeCourse(string& courseID) {
+    auto it = std::remove_if(courses.begin(), courses.end(), [courseID](const Course& course) {
+        return course.getCourseID() == courseID;
+    });
+
+    if (it != courses.end()) {
+        courses.erase(it, courses.end());
+    }
+} // end of removeCourse()
+
 void Student::displayCourseList() {
     if (!sorted) {
         sortCourses();

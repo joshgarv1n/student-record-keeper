@@ -43,6 +43,7 @@ class Student {
 
         // Course modifications
         void addCourse(Course&);
+        void removeCourse(string&);
         void displayCourseList();
         void displayGPA();
         string searchForCourse(const string&);
