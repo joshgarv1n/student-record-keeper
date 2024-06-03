@@ -128,8 +128,9 @@ void removeCourse(Student& student) {
             case 1:         // Search by Course ID
                 cout << "Search by Course ID selected." << endl;
                 if (searchByCourseID(student, courseID, courseName)) {
-                    cout << "Course found" << endl;
-                    // confirmCourseRemoval()
+                    if (confirmCourseRemoval(student, courseID, courseName)) {
+                        exit = true;
+                    }
                 } else {
                     cout << "Invalid Course ID\n" << endl;
                 }
@@ -342,6 +343,28 @@ bool searchByCourseID(Student& student, string& id, string& name) {
     }
     return false;
 } // searchByCourseID()
+
+bool confirmCourseRemoval(Student& student, string& id, string& name) {
+    // If user confirms, course is removed from Student courses vector
+    char confirm;
+    while (true) {
+        cout << id << ": " << name << endl;
+        cout << "Confirm you would like to remove this course (Y/N): ";
+        cin >> confirm;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+        if (confirm == 'Y' || confirm == 'y') {
+            student.removeCourse(id);
+            cout << id << ": " << name << " removed." << endl;
+            return true;
+        } else if (confirm == 'N' || confirm == 'n') {
+            cout << "Not confirmed.\n" << endl;
+            return false;
+        } else {
+            cout << "Invalid confirmation response." << endl;
+        }     
+    }
+} // end of confirmCourseRemoval()
 
 
 // UTILITY FUNCTIONS //
