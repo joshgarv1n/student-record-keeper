@@ -124,31 +124,23 @@ void removeCourse(Student& student) {
         string courseID;
         string courseName;
         bool exit = false;
-        switch (option) {
-            case 1:         // Search by Course ID
-                cout << "Search by Course ID selected." << endl;
-                if (searchByCourseID(student, courseID, courseName)) {
-                    if (confirmCourseRemoval(student, courseID, courseName)) {
-                        exit = true;
-                    }
-                } else {
-                    cout << "Invalid Course ID\n" << endl;
-                }
-                break;
-            case 2:         // View All Courses
-                cout << "View All Courses selected." << endl;
-                break;
-            case 3:         // Exit
-                cout << "Exit selected." << endl;
-                exit = true;
-                break;
-            default:
-                cout << "Idk what happened bruh." << endl;
-                break;
-        } // end of switch
-        if (exit) {
+        if (option == 3) {
+            cout << "Exit selected." << endl;
             break;
-        }
+        } else if (option == 1) {
+            cout << "Search by Course ID selected." << endl;
+        } else {
+            cout << "View All Courses selected." << endl;
+            student.displayCourseList();
+        } // end of if
+
+        if (searchByCourseID(student, courseID, courseName)) {
+            if (confirmCourseRemoval(student, courseID, courseName)) {
+                break;
+            }
+        } else {
+            cout << "Invalid Course ID\n" << endl;
+        } // end of if
     } // end of while (true)
 } // end of removeCourse()
 
