@@ -159,7 +159,7 @@ void removeCourseMenuSelection(const string& prompt, const vector<string>& menu,
             continue;
         }
 
-        if (userChoice < 1 || userChoice > 3) {
+        if (userChoice < 1 || userChoice > menu.size()) {
             cout << "\nInvalid selection. Please try again." << endl;
             continue;
         }
